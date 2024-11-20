@@ -31,6 +31,12 @@
     "01451cc9e3cf77636e128c6362ed63ca27f264c42e383d7cf07a758464692f05": [
       { "file": "masterfiles/controls/update_def.cf", "version": "3.11.0b1" }
     ],
+    "0152e2ef49be4251c9cfae6f156286139c52f3808e280c9f5aa7cea9efa9c5a2": [
+      {
+        "file": "masterfiles/standalone_self_upgrade.cf",
+        "version": "3.12.0b1"
+      }
+    ],
     "0158b457149731669243db5ee3dfffd3a8e4c93c39b8e2222b132e63265e9ad4": [
       {
         "file": "masterfiles/cfe_internal/core/watchdog/watchdog.cf",
@@ -143,6 +149,10 @@
       {
         "file": "masterfiles/templates/cf-hub.service.mustache",
         "version": "3.12.0"
+      },
+      {
+        "file": "masterfiles/templates/cf-hub.service.mustache",
+        "version": "3.12.0b1"
       }
     ],
     "02c1664df23547af1afba7155450d043e437ce45ec619f8dbac49988fa3f2323": [
@@ -346,7 +356,8 @@
       { "file": "masterfiles/update.cf", "version": "3.12.3" }
     ],
     "05f05102c8ac8a6f51db16d2289c01850c4893c75685cff434cb8449a45a1abc": [
-      { "file": "masterfiles/lib/cfe_internal.cf", "version": "3.9.2" }
+      { "file": "masterfiles/lib/cfe_internal.cf", "version": "3.9.2" },
+      { "file": "masterfiles/lib/cfe_internal.cf", "version": "3.10.0b1" }
     ],
     "05fa28a94b6f687e956b129ef35b13cb45f93098c31d95c15e936910d531f5f7": [
       {
@@ -485,7 +496,8 @@
       { "file": "masterfiles/lib/monitor.cf", "version": "3.10.2" },
       { "file": "masterfiles/lib/3.7/monitor.cf", "version": "3.7.8" },
       { "file": "masterfiles/lib/3.7/monitor.cf", "version": "3.7.7" },
-      { "file": "masterfiles/lib/3.7/monitor.cf", "version": "3.7.6" }
+      { "file": "masterfiles/lib/3.7/monitor.cf", "version": "3.7.6" },
+      { "file": "masterfiles/lib/monitor.cf", "version": "3.12.0b1" }
     ],
     "09228dbff190e11a3e4836b0b1e6f39a60999a46b098f55dd2409f917cc8b3df": [
       {
@@ -574,7 +586,8 @@
       { "file": "masterfiles/cfe_internal/core/main.cf", "version": "3.10.3" },
       { "file": "masterfiles/cfe_internal/core/main.cf", "version": "3.10.2" },
       { "file": "masterfiles/cfe_internal/core/main.cf", "version": "3.10.1" },
-      { "file": "masterfiles/cfe_internal/core/main.cf", "version": "3.10.0" }
+      { "file": "masterfiles/cfe_internal/core/main.cf", "version": "3.10.0" },
+      { "file": "masterfiles/cfe_internal/core/main.cf", "version": "3.10.0b1" }
     ],
     "0b01c97907d6053f7f66b9b56dabec2b91123c97cb800760ecb4e82b7eb886fc": [
       { "file": "masterfiles/promises.cf", "version": "3.23.0" }
@@ -823,6 +836,10 @@
       {
         "file": "masterfiles/templates/host_info_report.mustache",
         "version": "3.9.2"
+      },
+      {
+        "file": "masterfiles/templates/host_info_report.mustache",
+        "version": "3.10.0b1"
       }
     ],
     "0d945d87fa9f1ab13d85168aa9f67fae6d8448bd3f844d31ab425a58677d1c5f": [
@@ -833,6 +850,12 @@
       {
         "file": "masterfiles/cfe_internal/enterprise/templates/httpd.conf.mustache",
         "version": "3.18.6"
+      }
+    ],
+    "0da0ff28aff57ae50db25e156d0698a084771fad56af58cec9c9852876a9dc82": [
+      {
+        "file": "masterfiles/cfe_internal/update/update_policy.cf",
+        "version": "3.12.0b1"
       }
     ],
     "0dbc839fa1ad464e9b5e24fb07e57ad63acb1162320ee9b0e5ae6b9458aa7c2a": [
@@ -856,7 +879,8 @@
       { "file": "masterfiles/lib/3.6/services.cf", "version": "3.10.1" },
       { "file": "masterfiles/lib/3.6/services.cf", "version": "3.10.0" },
       { "file": "masterfiles/lib/3.6/services.cf", "version": "3.9.2" },
-      { "file": "masterfiles/lib/3.6/services.cf", "version": "3.7.5" }
+      { "file": "masterfiles/lib/3.6/services.cf", "version": "3.7.5" },
+      { "file": "masterfiles/lib/3.6/services.cf", "version": "3.10.0b1" }
     ],
     "0e95435627521faed0c27e779c876f6de23d4b4130691501112e61862775a1cb": [
       { "file": "masterfiles/controls/cf_agent.cf", "version": "3.13.0" },
@@ -869,7 +893,8 @@
       { "file": "masterfiles/controls/cf_agent.cf", "version": "3.10.5" },
       { "file": "masterfiles/controls/cf_agent.cf", "version": "3.10.4" },
       { "file": "masterfiles/controls/cf_agent.cf", "version": "3.10.3" },
-      { "file": "masterfiles/controls/cf_agent.cf", "version": "3.10.2" }
+      { "file": "masterfiles/controls/cf_agent.cf", "version": "3.10.2" },
+      { "file": "masterfiles/controls/cf_agent.cf", "version": "3.12.0b1" }
     ],
     "0ec31ab400d1e0129c54228f3ba5bdbe70b81f021f5e70c2e71aafceffff3a13": [
       { "file": "masterfiles/standalone_self_upgrade.cf", "version": "3.12.1" }
@@ -878,6 +903,12 @@
       {
         "file": "masterfiles/cfe_internal/enterprise/templates/httpd.conf.mustache",
         "version": "3.15.4"
+      }
+    ],
+    "0f6958e5cbc1159cb53693230f0eaef4c4be667056fa8d183fd5b01e79f46b54": [
+      {
+        "file": "masterfiles/controls/3.6/update_def.cf",
+        "version": "3.10.0b1"
       }
     ],
     "0f6d2199397c4ecfbed4024bebb2df42916e539c715b42310008a7b6e2d4047e": [
@@ -1071,10 +1102,24 @@
       {
         "file": "masterfiles/cfe_internal/update/cfe_internal_update_from_repository.cf",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/cfe_internal/update/cfe_internal_update_from_repository.cf",
+        "version": "3.12.0b1"
+      },
+      {
+        "file": "masterfiles/cfe_internal/update/cfe_internal_update_from_repository.cf",
+        "version": "3.10.0b1"
       }
     ],
     "113317cec047ae98a2b8d79318593b647142db70a107a727f6f8174d4db80ace": [
       { "file": "modules/packages/zypper", "version": "3.13.0" }
+    ],
+    "113d417ac3f112ea92760bc701c6bbf196bc2b0f367dd399f3b16642b924a429": [
+      {
+        "file": "masterfiles/cfe_internal/enterprise/CFE_knowledge.cf",
+        "version": "3.12.0b1"
+      }
     ],
     "1160977837e131cc687b25db22304484ec42cd5b6237fc2ba0443a795a44382e": [
       {
@@ -1130,7 +1175,8 @@
       { "file": "masterfiles/controls/cf_hub.cf", "version": "3.10.5" },
       { "file": "masterfiles/controls/cf_hub.cf", "version": "3.10.4" },
       { "file": "masterfiles/controls/cf_hub.cf", "version": "3.10.3" },
-      { "file": "masterfiles/controls/cf_hub.cf", "version": "3.10.2" }
+      { "file": "masterfiles/controls/cf_hub.cf", "version": "3.10.2" },
+      { "file": "masterfiles/controls/cf_hub.cf", "version": "3.12.0b1" }
     ],
     "11c4382b69963bd4d62909eae973ed01e4a4349babbc023e93177f73897afc24": [
       {
@@ -1149,7 +1195,8 @@
     "11ee96ec5fcf12eb09afb0ae69fc37ff9b17f96cbf9204a387c97b18a4a5d81e": [
       { "file": "masterfiles/lib/common.cf", "version": "3.11.0b1" },
       { "file": "masterfiles/lib/common.cf", "version": "3.10.1" },
-      { "file": "masterfiles/lib/common.cf", "version": "3.10.0" }
+      { "file": "masterfiles/lib/common.cf", "version": "3.10.0" },
+      { "file": "masterfiles/lib/common.cf", "version": "3.10.0b1" }
     ],
     "125a33bd27bfcee1a25fc7387fca52be3046755c9348633123f0585d5a6a588d": [
       {
@@ -1175,7 +1222,8 @@
       { "file": "masterfiles/controls/3.5/cf_agent.cf", "version": "3.7.8" },
       { "file": "masterfiles/controls/3.5/cf_agent.cf", "version": "3.7.7" },
       { "file": "masterfiles/controls/3.5/cf_agent.cf", "version": "3.7.6" },
-      { "file": "masterfiles/controls/3.5/cf_agent.cf", "version": "3.7.5" }
+      { "file": "masterfiles/controls/3.5/cf_agent.cf", "version": "3.7.5" },
+      { "file": "masterfiles/controls/cf_agent.cf", "version": "3.10.0b1" }
     ],
     "12d6981eef1bdec5454456049a76eabbfaf79756e3181c58df24bb7f3ff7390b": [
       { "file": "masterfiles/lib/cfe_internal_hub.cf", "version": "3.11.0" },
@@ -1197,14 +1245,16 @@
       { "file": "masterfiles/lib/3.6/bundles.cf", "version": "3.10.1" },
       { "file": "masterfiles/lib/3.6/bundles.cf", "version": "3.10.0" },
       { "file": "masterfiles/lib/3.6/bundles.cf", "version": "3.9.2" },
-      { "file": "masterfiles/lib/3.6/bundles.cf", "version": "3.7.5" }
+      { "file": "masterfiles/lib/3.6/bundles.cf", "version": "3.7.5" },
+      { "file": "masterfiles/lib/3.6/bundles.cf", "version": "3.10.0b1" }
     ],
     "1398f20d96beb670e5f382569854b1c4a920789df729a6dce27de6c1b25736b5": [
       { "file": "masterfiles/lib/bundles.cf", "version": "3.12.0" },
       { "file": "masterfiles/lib/bundles.cf", "version": "3.11.0" },
       { "file": "masterfiles/lib/bundles.cf", "version": "3.10.4" },
       { "file": "masterfiles/lib/bundles.cf", "version": "3.10.3" },
-      { "file": "masterfiles/lib/bundles.cf", "version": "3.10.2" }
+      { "file": "masterfiles/lib/bundles.cf", "version": "3.10.2" },
+      { "file": "masterfiles/lib/bundles.cf", "version": "3.12.0b1" }
     ],
     "13af9f08f047a193f12207f9389eb97d79166d3f0873887ccbc18d0e63cb87e9": [
       {
@@ -1273,7 +1323,11 @@
       { "file": "masterfiles/controls/3.6/cf_serverd.cf", "version": "3.10.3" },
       { "file": "masterfiles/controls/3.6/cf_serverd.cf", "version": "3.10.2" },
       { "file": "masterfiles/controls/3.6/cf_serverd.cf", "version": "3.10.1" },
-      { "file": "masterfiles/controls/3.6/cf_serverd.cf", "version": "3.10.0" }
+      { "file": "masterfiles/controls/3.6/cf_serverd.cf", "version": "3.10.0" },
+      {
+        "file": "masterfiles/controls/3.6/cf_serverd.cf",
+        "version": "3.10.0b1"
+      }
     ],
     "14145099e5fd2566d1dbe599fa53d0899dc6c6c8050efc365719965b5e2a9977": [
       {
@@ -1372,7 +1426,15 @@
       { "file": "masterfiles/sketches/meta/api-runfile.cf", "version": "3.7.8" },
       { "file": "masterfiles/sketches/meta/api-runfile.cf", "version": "3.7.7" },
       { "file": "masterfiles/sketches/meta/api-runfile.cf", "version": "3.7.6" },
-      { "file": "masterfiles/sketches/meta/api-runfile.cf", "version": "3.7.5" }
+      { "file": "masterfiles/sketches/meta/api-runfile.cf", "version": "3.7.5" },
+      {
+        "file": "masterfiles/sketches/meta/api-runfile.cf",
+        "version": "3.12.0b1"
+      },
+      {
+        "file": "masterfiles/sketches/meta/api-runfile.cf",
+        "version": "3.10.0b1"
+      }
     ],
     "14b65172f9e3b688bbe9ddb871a8efac9e7e62276c39c9d6f97dba22e2afc0b5": [
       { "file": "masterfiles/modules/packages/apt_get", "version": "3.17.0" },
@@ -1573,7 +1635,8 @@
       { "file": "masterfiles/controls/3.7/cf_agent.cf", "version": "3.7.6" },
       { "file": "masterfiles/controls/3.6/cf_agent.cf", "version": "3.7.6" },
       { "file": "masterfiles/controls/3.7/cf_agent.cf", "version": "3.7.5" },
-      { "file": "masterfiles/controls/3.6/cf_agent.cf", "version": "3.7.5" }
+      { "file": "masterfiles/controls/3.6/cf_agent.cf", "version": "3.7.5" },
+      { "file": "masterfiles/controls/3.6/cf_agent.cf", "version": "3.10.0b1" }
     ],
     "18cfb954c3795e002be9497bcb6a3f08a5ae30b48fa5e3b74799d79d0e19fcb6": [
       {
@@ -1616,6 +1679,9 @@
     "18e908b0550320f1d198831d3d414a4d1764efc9ad2bc63e35f366e64b16d812": [
       { "file": "masterfiles/lib/paths.cf", "version": "3.15.3" }
     ],
+    "18f832f2e302a1b24436602a17840a569853a21f0513702913599173148288f1": [
+      { "file": "masterfiles/lib/packages.cf", "version": "3.12.0b1" }
+    ],
     "1938551bfb00ddd679240d054fa49440e01b21804db4de91171f12567eefe596": [
       { "file": "masterfiles/inventory/any.cf", "version": "3.12.2" }
     ],
@@ -1645,12 +1711,16 @@
         "version": "3.12.3"
       }
     ],
+    "1af3a877f3dffe67e474dfd1d9aadac5ffa077a31192269692e0c010f8bf43e1": [
+      { "file": "masterfiles/cfe_internal/core/main.cf", "version": "3.12.0b1" }
+    ],
     "1b1a677a5e612858808403f378cccf2060c54db8cc94d75560debb8fc711c544": [
       { "file": "masterfiles/promises.cf", "version": "3.18.0" }
     ],
     "1b3c932b39417346d981a66bebdd01eff595427f67c5b5919bc15957f590d9e5": [
       { "file": "masterfiles/update.cf", "version": "3.10.1" },
-      { "file": "masterfiles/update.cf", "version": "3.10.0" }
+      { "file": "masterfiles/update.cf", "version": "3.10.0" },
+      { "file": "masterfiles/update.cf", "version": "3.10.0b1" }
     ],
     "1b3ec322344b4a2b2b19dff31978bdbca59e19ce0d8067c83cfac7fa9edb4ad4": [
       { "file": "masterfiles/standalone_self_upgrade.cf", "version": "3.23.0" }
@@ -1701,7 +1771,8 @@
       { "file": "masterfiles/lib/storage.cf", "version": "3.10.1" },
       { "file": "masterfiles/lib/storage.cf", "version": "3.10.0" },
       { "file": "masterfiles/lib/storage.cf", "version": "3.9.2" },
-      { "file": "masterfiles/lib/3.7/storage.cf", "version": "3.7.5" }
+      { "file": "masterfiles/lib/3.7/storage.cf", "version": "3.7.5" },
+      { "file": "masterfiles/lib/storage.cf", "version": "3.10.0b1" }
     ],
     "1cfdc017d2118cf89e079d3d3926b692e5685faf8cd8370fe39af88528b9065e": [
       {
@@ -1748,7 +1819,8 @@
       { "file": "masterfiles/lib/reports.cf", "version": "3.10.5" },
       { "file": "masterfiles/lib/reports.cf", "version": "3.10.4" },
       { "file": "masterfiles/lib/reports.cf", "version": "3.10.3" },
-      { "file": "masterfiles/lib/reports.cf", "version": "3.10.2" }
+      { "file": "masterfiles/lib/reports.cf", "version": "3.10.2" },
+      { "file": "masterfiles/lib/reports.cf", "version": "3.12.0b1" }
     ],
     "1d24dc604648051907536d622dd8a16d7996512d156c92fc33a0bf69f3179918": [
       {
@@ -1862,6 +1934,10 @@
       {
         "file": "masterfiles/cfe_internal/core/host_info_report.cf",
         "version": "3.7.5"
+      },
+      {
+        "file": "masterfiles/cfe_internal/core/host_info_report.cf",
+        "version": "3.10.0b1"
       }
     ],
     "1d80835c814fd81b878d1086b0005a98de8ea21f901a62e4263df62958d4feab": [
@@ -2028,6 +2104,16 @@
       {
         "file": "masterfiles/cfe_internal/core/log_rotation.cf",
         "version": "3.12.0"
+      },
+      {
+        "file": "masterfiles/cfe_internal/core/log_rotation.cf",
+        "version": "3.12.0b1"
+      }
+    ],
+    "1dc4ad0bd0a847d17b0f23bf95ca6f9489185087722894beb0f3aca1ba980e7d": [
+      {
+        "file": "masterfiles/cfe_internal/update/update_bins.cf",
+        "version": "3.12.0b1"
       }
     ],
     "1dcab372d318b70d2c663e0f6d0348028090afa90159764a2c392e43799249f2": [
@@ -2053,16 +2139,22 @@
       {
         "file": "masterfiles/lib/3.6/cfengine_enterprise_hub_ha.cf",
         "version": "3.7.5"
+      },
+      {
+        "file": "masterfiles/lib/3.6/cfengine_enterprise_hub_ha.cf",
+        "version": "3.10.0b1"
       }
     ],
     "1e5661a0933192060c0af74511af553c78ed629669886a574c4d5521d158e1ce": [
       { "file": "masterfiles/lib/bundles.cf", "version": "3.10.1" },
-      { "file": "masterfiles/lib/bundles.cf", "version": "3.10.0" }
+      { "file": "masterfiles/lib/bundles.cf", "version": "3.10.0" },
+      { "file": "masterfiles/lib/bundles.cf", "version": "3.10.0b1" }
     ],
     "1e60c945bad526c09e5921bd89e1b1740d2d43df3940ac8d6e7d0ee91de82d64": [
       { "file": "masterfiles/lib/vcs.cf", "version": "3.11.0b1" },
       { "file": "masterfiles/lib/vcs.cf", "version": "3.10.1" },
-      { "file": "masterfiles/lib/vcs.cf", "version": "3.10.0" }
+      { "file": "masterfiles/lib/vcs.cf", "version": "3.10.0" },
+      { "file": "masterfiles/lib/vcs.cf", "version": "3.10.0b1" }
     ],
     "1e9784e5934dcadc1fc8844bf7176c46c6188ecf365dd235e88b291e3044beb2": [
       {
@@ -2092,6 +2184,20 @@
       {
         "file": "masterfiles/cfe_internal/CFE_cfengine.cf",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/cfe_internal/CFE_cfengine.cf",
+        "version": "3.12.0b1"
+      },
+      {
+        "file": "masterfiles/cfe_internal/CFE_cfengine.cf",
+        "version": "3.10.0b1"
+      }
+    ],
+    "1eb48fb04745266778f31cc5206cec0cf59f98e01f364ff34d9733ae3c8f5eb4": [
+      {
+        "file": "masterfiles/cfe_internal/enterprise/templates/httpd.conf.mustache",
+        "version": "3.10.0b1"
       }
     ],
     "1ebd4cea3f51f2f61f6abe8a17060c1607066832013b8395724b7e558740c95c": [
@@ -2117,6 +2223,9 @@
         "file": "masterfiles/cfe_internal/enterprise/templates/httpd.conf.mustache",
         "version": "3.12.7"
       }
+    ],
+    "2003251a17987eaa89e8768a433d38975f926e1ee228db763d2845b4b9161f7d": [
+      { "file": "masterfiles/promises.cf", "version": "3.10.0b1" }
     ],
     "2024287d52d9d2fea7885fffd9f65d23a112ef39fbff318b04375b09deb47c1d": [
       { "file": "masterfiles/lib/files.cf", "version": "3.15.3" }
@@ -2268,7 +2377,8 @@
       { "file": "masterfiles/inventory/aix.cf", "version": "3.12.3" },
       { "file": "masterfiles/inventory/aix.cf", "version": "3.12.2" },
       { "file": "masterfiles/inventory/aix.cf", "version": "3.12.1" },
-      { "file": "masterfiles/inventory/aix.cf", "version": "3.12.0" }
+      { "file": "masterfiles/inventory/aix.cf", "version": "3.12.0" },
+      { "file": "masterfiles/inventory/aix.cf", "version": "3.12.0b1" }
     ],
     "22405c6817717333fa9873e26c8f2626aa48cc899c55225133821411971b76dd": [
       { "file": "masterfiles/promises.cf", "version": "3.15.2" }
@@ -2329,7 +2439,9 @@
       { "file": "masterfiles/inventory/windows.cf", "version": "3.7.8" },
       { "file": "masterfiles/inventory/windows.cf", "version": "3.7.7" },
       { "file": "masterfiles/inventory/windows.cf", "version": "3.7.6" },
-      { "file": "masterfiles/inventory/windows.cf", "version": "3.7.5" }
+      { "file": "masterfiles/inventory/windows.cf", "version": "3.7.5" },
+      { "file": "masterfiles/inventory/windows.cf", "version": "3.12.0b1" },
+      { "file": "masterfiles/inventory/windows.cf", "version": "3.10.0b1" }
     ],
     "2288be0b20b0066c42a232d3d3503ff82aeb1ff4654585028fb97b9d74b394e7": [
       {
@@ -2557,10 +2669,14 @@
         "version": "3.12.3"
       }
     ],
+    "26309838acfd88e5128cd955da1d9f9686218b7191d29a993c429c9845c67b01": [
+      { "file": "masterfiles/controls/def.cf", "version": "3.12.0b1" }
+    ],
     "264104cd6b8420b1d2c3b23fa62e989622593fe2de636c753a35d44a9acbe6f9": [
       { "file": "masterfiles/lib/3.6/vcs.cf", "version": "3.11.0b1" },
       { "file": "masterfiles/lib/3.6/vcs.cf", "version": "3.10.1" },
-      { "file": "masterfiles/lib/3.6/vcs.cf", "version": "3.10.0" }
+      { "file": "masterfiles/lib/3.6/vcs.cf", "version": "3.10.0" },
+      { "file": "masterfiles/lib/3.6/vcs.cf", "version": "3.10.0b1" }
     ],
     "2666f0d31af1fd671cd609f5274415e2ea5c45f9e9b6dadb455fe72f59445e69": [
       {
@@ -2583,6 +2699,10 @@
       {
         "file": "masterfiles/cfe_internal/enterprise/main.cf",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/cfe_internal/enterprise/main.cf",
+        "version": "3.10.0b1"
       }
     ],
     "2716c59a94ec1bff4d600af993a0ce46c0bc5fd8436374a161a53574f9a8f8e1": [
@@ -2789,7 +2909,8 @@
       { "file": "masterfiles/lib/databases.cf", "version": "3.10.1" },
       { "file": "masterfiles/lib/databases.cf", "version": "3.10.0" },
       { "file": "masterfiles/lib/databases.cf", "version": "3.9.2" },
-      { "file": "masterfiles/lib/3.7/databases.cf", "version": "3.7.5" }
+      { "file": "masterfiles/lib/3.7/databases.cf", "version": "3.7.5" },
+      { "file": "masterfiles/lib/databases.cf", "version": "3.10.0b1" }
     ],
     "2cb85ebc7fabb856233e7415785b8c2cd075243b4bc931f903e0fb567c39ca4a": [
       { "file": "masterfiles/controls/3.7/update_def.cf", "version": "3.7.5" }
@@ -2828,7 +2949,8 @@
       { "file": "masterfiles/lib/examples.cf", "version": "3.10.2" },
       { "file": "masterfiles/lib/3.7/examples.cf", "version": "3.7.8" },
       { "file": "masterfiles/lib/3.7/examples.cf", "version": "3.7.7" },
-      { "file": "masterfiles/lib/3.7/examples.cf", "version": "3.7.6" }
+      { "file": "masterfiles/lib/3.7/examples.cf", "version": "3.7.6" },
+      { "file": "masterfiles/lib/examples.cf", "version": "3.12.0b1" }
     ],
     "2db6c4e6741b43d543ef166e92fb525f144793fff46bd896a939943790b4bb87": [
       { "file": "masterfiles/cfe_internal/core/main.cf", "version": "3.7.8" },
@@ -2839,7 +2961,8 @@
     "2db9a7126d3dab2f3173badc9c2fd150f94aa1448ce372961ea6d8bfd241f2b4": [
       { "file": "masterfiles/controls/cf_serverd.cf", "version": "3.10.1" },
       { "file": "masterfiles/controls/cf_serverd.cf", "version": "3.10.0" },
-      { "file": "masterfiles/controls/cf_serverd.cf", "version": "3.9.2" }
+      { "file": "masterfiles/controls/cf_serverd.cf", "version": "3.9.2" },
+      { "file": "masterfiles/controls/cf_serverd.cf", "version": "3.10.0b1" }
     ],
     "2dc4d0cd0dc44bbc53e1397b1709b8e3fddd26ba8f47e3caa1702d45d1629519": [
       {
@@ -2996,6 +3119,10 @@
       {
         "file": "masterfiles/controls/3.6/update_def_inputs.cf",
         "version": "3.7.5"
+      },
+      {
+        "file": "masterfiles/controls/3.6/update_def_inputs.cf",
+        "version": "3.10.0b1"
       }
     ],
     "3373e96b9030b30b2a1c60565c94cec99b40d8130d9923fd3547e04ed29c08ab": [
@@ -3075,7 +3202,8 @@
       { "file": "masterfiles/lib/commands.cf", "version": "3.10.1" },
       { "file": "masterfiles/lib/commands.cf", "version": "3.10.0" },
       { "file": "masterfiles/lib/commands.cf", "version": "3.9.2" },
-      { "file": "masterfiles/lib/3.7/commands.cf", "version": "3.7.5" }
+      { "file": "masterfiles/lib/3.7/commands.cf", "version": "3.7.5" },
+      { "file": "masterfiles/lib/commands.cf", "version": "3.10.0b1" }
     ],
     "35619a0f4a56501635d7eca128c0313f29cd09dbc1c62494f743aec803e90a08": [
       {
@@ -3120,7 +3248,8 @@
       { "file": "masterfiles/lib/3.6/databases.cf", "version": "3.10.1" },
       { "file": "masterfiles/lib/3.6/databases.cf", "version": "3.10.0" },
       { "file": "masterfiles/lib/3.6/databases.cf", "version": "3.9.2" },
-      { "file": "masterfiles/lib/3.6/databases.cf", "version": "3.7.5" }
+      { "file": "masterfiles/lib/3.6/databases.cf", "version": "3.7.5" },
+      { "file": "masterfiles/lib/3.6/databases.cf", "version": "3.10.0b1" }
     ],
     "36c05f90b2c4217b82aeb2e5df944e66a6910d9a3fbad41f3a39f58eef18c926": [
       {
@@ -3157,7 +3286,8 @@
       { "file": "masterfiles/lib/3.6/storage.cf", "version": "3.10.1" },
       { "file": "masterfiles/lib/3.6/storage.cf", "version": "3.10.0" },
       { "file": "masterfiles/lib/3.6/storage.cf", "version": "3.9.2" },
-      { "file": "masterfiles/lib/3.6/storage.cf", "version": "3.7.5" }
+      { "file": "masterfiles/lib/3.6/storage.cf", "version": "3.7.5" },
+      { "file": "masterfiles/lib/3.6/storage.cf", "version": "3.10.0b1" }
     ],
     "37454783172256cd154310633324f207b217672ecfdf834f0f96749368b2cf71": [
       {
@@ -3357,7 +3487,8 @@
     "38387788ddcf0e476f278819c3f10ea947c21d2e5d072e0d5ce2ca4056a2acff": [
       { "file": "masterfiles/lib/3.6/packages.cf", "version": "3.11.0b1" },
       { "file": "masterfiles/lib/3.6/packages.cf", "version": "3.10.1" },
-      { "file": "masterfiles/lib/3.6/packages.cf", "version": "3.10.0" }
+      { "file": "masterfiles/lib/3.6/packages.cf", "version": "3.10.0" },
+      { "file": "masterfiles/lib/3.6/packages.cf", "version": "3.10.0b1" }
     ],
     "388cbf20df441ded4179b7973abb304314ba0b57a35d2d973640cf40832e9d74": [
       {
@@ -3458,7 +3589,8 @@
       }
     ],
     "3999340c37167fa6558dcd3c544a5bce6c866e041aeb4803605be037bae07ffc": [
-      { "file": "masterfiles/controls/cf_serverd.cf", "version": "3.12.0" }
+      { "file": "masterfiles/controls/cf_serverd.cf", "version": "3.12.0" },
+      { "file": "masterfiles/controls/cf_serverd.cf", "version": "3.12.0b1" }
     ],
     "39a30c1b24ffbc9d825131b23eac38eca1a896de682fcebfbf9954b6ccd6462e": [
       {
@@ -3533,6 +3665,14 @@
       {
         "file": "masterfiles/cfe_internal/core/watchdog/watchdog.cf",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/cfe_internal/core/watchdog/watchdog.cf",
+        "version": "3.12.0b1"
+      },
+      {
+        "file": "masterfiles/cfe_internal/core/watchdog/watchdog.cf",
+        "version": "3.10.0b1"
       }
     ],
     "3a2c487ced84e8cc4ce8c8443a681781caa3358d501f55eb57a0f8ce725eea65": [
@@ -3610,6 +3750,9 @@
     "3ad4b3b773780632e5ae65f14fcc48cf90b513bc5cf540c516a17595e3c04303": [
       { "file": "masterfiles/controls/3.6/update_def.cf", "version": "3.11.0" }
     ],
+    "3ad6b991a124706d16559ce0a2ab62520978878bd039f0a0d98ca8a7d6fd2735": [
+      { "file": "masterfiles/lib/testing.cf", "version": "3.10.0b1" }
+    ],
     "3bbb7f01d0e0dae2a0453127d41ecfe529db5c5446f1eb3982850f6de6d16405": [
       { "file": "masterfiles/promises.cf", "version": "3.21.1" }
     ],
@@ -3685,7 +3828,8 @@
       { "file": "masterfiles/lib/databases.cf", "version": "3.10.2" },
       { "file": "masterfiles/lib/3.7/databases.cf", "version": "3.7.8" },
       { "file": "masterfiles/lib/3.7/databases.cf", "version": "3.7.7" },
-      { "file": "masterfiles/lib/3.7/databases.cf", "version": "3.7.6" }
+      { "file": "masterfiles/lib/3.7/databases.cf", "version": "3.7.6" },
+      { "file": "masterfiles/lib/databases.cf", "version": "3.12.0b1" }
     ],
     "3cdd488a4372310f9e59ac23dec245ce0cf10786285a551d139546e7c225bdb8": [
       {
@@ -3727,6 +3871,14 @@
       {
         "file": "masterfiles/templates/cf-consumer.service.mustache",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/templates/cf-consumer.service.mustache",
+        "version": "3.12.0b1"
+      },
+      {
+        "file": "masterfiles/templates/cf-consumer.service.mustache",
+        "version": "3.10.0b1"
       }
     ],
     "3cfbcb727fbf82f0461ff3e590411ef3c5af9af168f5cd464c055f8aa5f84644": [
@@ -3759,12 +3911,14 @@
       { "file": "masterfiles/lib/testing.cf", "version": "3.10.5" },
       { "file": "masterfiles/lib/testing.cf", "version": "3.10.4" },
       { "file": "masterfiles/lib/testing.cf", "version": "3.10.3" },
-      { "file": "masterfiles/lib/testing.cf", "version": "3.10.2" }
+      { "file": "masterfiles/lib/testing.cf", "version": "3.10.2" },
+      { "file": "masterfiles/lib/testing.cf", "version": "3.12.0b1" }
     ],
     "3d39f43c25be1ec0fef41d67e2773e3db3060c98147460c5f7d356ce95b9c17d": [
       { "file": "modules/packages/yum", "version": "3.12.0" },
       { "file": "modules/packages/yum", "version": "3.10.4" },
-      { "file": "modules/packages/yum", "version": "3.7.8" }
+      { "file": "modules/packages/yum", "version": "3.7.8" },
+      { "file": "modules/packages/yum", "version": "3.12.0b1" }
     ],
     "3d4b96d89736b1354b9f4ebe2ed14f45300542f9f500931a584563e8ba8907f0": [
       { "file": "masterfiles/cfe_internal/core/main.cf", "version": "3.12.7" },
@@ -3772,6 +3926,9 @@
       { "file": "masterfiles/cfe_internal/core/main.cf", "version": "3.12.5" },
       { "file": "masterfiles/cfe_internal/core/main.cf", "version": "3.12.4" },
       { "file": "masterfiles/cfe_internal/core/main.cf", "version": "3.12.3" }
+    ],
+    "3d7512bacdfa3787d63709dddd7e36325e16b0a2bc85fdd567ebb4ffaa6d6de2": [
+      { "file": "masterfiles/lib/services.cf", "version": "3.10.0b1" }
     ],
     "3d802e732eab18d1c66df4379ef662163daec77fd5b1f2e88b0e6fea3a84fc4e": [
       { "file": "masterfiles/promises.cf", "version": "3.21.3" }
@@ -3860,12 +4017,17 @@
       {
         "file": "masterfiles/lib/3.6/guest_environments.cf",
         "version": "3.7.5"
+      },
+      {
+        "file": "masterfiles/lib/3.6/guest_environments.cf",
+        "version": "3.10.0b1"
       }
     ],
     "3f77424a678526d4117d75112328d1b77c60874339859cf35089af6836bad7a7": [
       { "file": "masterfiles/lib/3.6/processes.cf", "version": "3.11.0b1" },
       { "file": "masterfiles/lib/3.6/processes.cf", "version": "3.10.1" },
-      { "file": "masterfiles/lib/3.6/processes.cf", "version": "3.10.0" }
+      { "file": "masterfiles/lib/3.6/processes.cf", "version": "3.10.0" },
+      { "file": "masterfiles/lib/3.6/processes.cf", "version": "3.10.0b1" }
     ],
     "3fcf1d8bf2bb82eff135c1f041a2174bce67602211e0d595b39ddf7524972f94": [
       {
@@ -4031,6 +4193,10 @@
       {
         "file": "masterfiles/templates/host_info_report.mustache",
         "version": "3.12.0"
+      },
+      {
+        "file": "masterfiles/templates/host_info_report.mustache",
+        "version": "3.12.0b1"
       }
     ],
     "4019f8b3ded5063cb4643cff97f9fa089b634cb9aadd21cc3517a64f90534947": [
@@ -4123,7 +4289,8 @@
       { "file": "masterfiles/lib/examples.cf", "version": "3.10.1" },
       { "file": "masterfiles/lib/examples.cf", "version": "3.10.0" },
       { "file": "masterfiles/lib/examples.cf", "version": "3.9.2" },
-      { "file": "masterfiles/lib/3.7/examples.cf", "version": "3.7.5" }
+      { "file": "masterfiles/lib/3.7/examples.cf", "version": "3.7.5" },
+      { "file": "masterfiles/lib/examples.cf", "version": "3.10.0b1" }
     ],
     "4585c6dc906a7aafb3568065efbd07cb3eb96bc9679b4c8254262ab484270ee4": [
       { "file": "masterfiles/lib/3.6/files.cf", "version": "3.9.2" },
@@ -4131,6 +4298,12 @@
     ],
     "45ab94d0f4e295f51c53bef4db19d4c35c773244cbb223c6ad8f6ca82eb25fd3": [
       { "file": "masterfiles/standalone_self_upgrade.cf", "version": "3.13.0" }
+    ],
+    "45bbd9d2bb6f716c721f83a1c8b345d4291b55d1e216b179ddd55fb6fb7d7aeb": [
+      {
+        "file": "masterfiles/cfe_internal/update/update_bins.cf",
+        "version": "3.10.0b1"
+      }
     ],
     "45c70e1d7559137868127e8e112f32321dc98daf13ffdc78bd6a29b0d5bc3b66": [
       { "file": "masterfiles/lib/3.7/bundles.cf", "version": "3.7.8" },
@@ -4147,6 +4320,10 @@
       {
         "file": "masterfiles/cfe_internal/enterprise/CFE_knowledge.cf",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/cfe_internal/enterprise/CFE_knowledge.cf",
+        "version": "3.10.0b1"
       }
     ],
     "46f44e06441b09828ba2cf62896bb5f219c3343f14f3c52a3b1d8098690c1796": [
@@ -4268,7 +4445,8 @@
       { "file": "masterfiles/lib/users.cf", "version": "3.10.2" },
       { "file": "masterfiles/lib/3.7/users.cf", "version": "3.7.8" },
       { "file": "masterfiles/lib/3.7/users.cf", "version": "3.7.7" },
-      { "file": "masterfiles/lib/3.7/users.cf", "version": "3.7.6" }
+      { "file": "masterfiles/lib/3.7/users.cf", "version": "3.7.6" },
+      { "file": "masterfiles/lib/users.cf", "version": "3.12.0b1" }
     ],
     "476259e2f67cc75d396d8d04f0bf0cac89165d8bb7e50b0efcc339311cad8a8f": [
       {
@@ -4402,6 +4580,14 @@
       {
         "file": "masterfiles/cfe_internal/enterprise/ha/ha_def.cf",
         "version": "3.7.5"
+      },
+      {
+        "file": "masterfiles/cfe_internal/enterprise/ha/ha_def.cf",
+        "version": "3.12.0b1"
+      },
+      {
+        "file": "masterfiles/cfe_internal/enterprise/ha/ha_def.cf",
+        "version": "3.10.0b1"
       }
     ],
     "488ae0912decd23b2c2f1171850fc3bf033b896fb050355d540b9dd3e17f33ec": [
@@ -4545,7 +4731,8 @@
       { "file": "masterfiles/lib/3.6/autorun.cf", "version": "3.7.8" },
       { "file": "masterfiles/lib/3.6/autorun.cf", "version": "3.7.7" },
       { "file": "masterfiles/lib/3.6/autorun.cf", "version": "3.7.6" },
-      { "file": "masterfiles/lib/3.6/autorun.cf", "version": "3.7.5" }
+      { "file": "masterfiles/lib/3.6/autorun.cf", "version": "3.7.5" },
+      { "file": "masterfiles/lib/3.6/autorun.cf", "version": "3.10.0b1" }
     ],
     "4b83a16b55b61587cc62df8f10726de8d0b96435d82a81b97cca77e078ae6504": [
       {
@@ -4663,6 +4850,14 @@
       {
         "file": "masterfiles/templates/cf-monitord.service.mustache",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/templates/cf-monitord.service.mustache",
+        "version": "3.12.0b1"
+      },
+      {
+        "file": "masterfiles/templates/cf-monitord.service.mustache",
+        "version": "3.10.0b1"
       }
     ],
     "4bb115c45707b66a27735bc4e605866c566260dae128ef2d68582df8a0ba7b67": [
@@ -4911,7 +5106,9 @@
       { "file": "masterfiles/controls/cf_hub.cf", "version": "3.10.1" },
       { "file": "masterfiles/controls/3.6/cf_hub.cf", "version": "3.10.1" },
       { "file": "masterfiles/controls/cf_hub.cf", "version": "3.10.0" },
-      { "file": "masterfiles/controls/3.6/cf_hub.cf", "version": "3.10.0" }
+      { "file": "masterfiles/controls/3.6/cf_hub.cf", "version": "3.10.0" },
+      { "file": "masterfiles/controls/cf_hub.cf", "version": "3.10.0b1" },
+      { "file": "masterfiles/controls/3.6/cf_hub.cf", "version": "3.10.0b1" }
     ],
     "4eca51b8deb6532f773c891b59edd920ff7a1f3c6e5087769e38310f9a83a1f8": [
       { "file": "masterfiles/cfe_internal/core/main.cf", "version": "3.23.0" },
@@ -5147,7 +5344,9 @@
       { "file": "masterfiles/inventory/lsb.cf", "version": "3.7.8" },
       { "file": "masterfiles/inventory/lsb.cf", "version": "3.7.7" },
       { "file": "masterfiles/inventory/lsb.cf", "version": "3.7.6" },
-      { "file": "masterfiles/inventory/lsb.cf", "version": "3.7.5" }
+      { "file": "masterfiles/inventory/lsb.cf", "version": "3.7.5" },
+      { "file": "masterfiles/inventory/lsb.cf", "version": "3.12.0b1" },
+      { "file": "masterfiles/inventory/lsb.cf", "version": "3.10.0b1" }
     ],
     "51621197972cc38c30850b0f49f7d55e79f725b21d4bcca05f02f4163d6eaef3": [
       { "file": "masterfiles/controls/def.cf", "version": "3.12.3" }
@@ -5337,7 +5536,8 @@
       { "file": "masterfiles/lib/commands.cf", "version": "3.10.2" },
       { "file": "masterfiles/lib/3.7/commands.cf", "version": "3.7.8" },
       { "file": "masterfiles/lib/3.7/commands.cf", "version": "3.7.7" },
-      { "file": "masterfiles/lib/3.7/commands.cf", "version": "3.7.6" }
+      { "file": "masterfiles/lib/3.7/commands.cf", "version": "3.7.6" },
+      { "file": "masterfiles/lib/commands.cf", "version": "3.12.0b1" }
     ],
     "5457033c6f21361fb6cb668eef492b77a4c81faa8d6b1c9b5158ef9dd5eae2cc": [
       {
@@ -5648,7 +5848,8 @@
       { "file": "masterfiles/lib/3.6/commands.cf", "version": "3.10.1" },
       { "file": "masterfiles/lib/3.6/commands.cf", "version": "3.10.0" },
       { "file": "masterfiles/lib/3.6/commands.cf", "version": "3.9.2" },
-      { "file": "masterfiles/lib/3.6/commands.cf", "version": "3.7.5" }
+      { "file": "masterfiles/lib/3.6/commands.cf", "version": "3.7.5" },
+      { "file": "masterfiles/lib/3.6/commands.cf", "version": "3.10.0b1" }
     ],
     "5796fab411417563222cc6832e2f133e9be88f9fa974926ae0943fc227449f8f": [
       { "file": "masterfiles/lib/storage.cf", "version": "3.15.7" },
@@ -5679,7 +5880,8 @@
       { "file": "masterfiles/lib/storage.cf", "version": "3.10.2" },
       { "file": "masterfiles/lib/3.7/storage.cf", "version": "3.7.8" },
       { "file": "masterfiles/lib/3.7/storage.cf", "version": "3.7.7" },
-      { "file": "masterfiles/lib/3.7/storage.cf", "version": "3.7.6" }
+      { "file": "masterfiles/lib/3.7/storage.cf", "version": "3.7.6" },
+      { "file": "masterfiles/lib/storage.cf", "version": "3.12.0b1" }
     ],
     "57b204925f407c95d9fac4ae58e98c14ebc13b9b7208dc2e2bce861f54b553e4": [
       { "file": "masterfiles/controls/def.cf", "version": "3.21.5" }
@@ -5759,7 +5961,8 @@
       { "file": "masterfiles/lib/processes.cf", "version": "3.10.5" },
       { "file": "masterfiles/lib/processes.cf", "version": "3.10.4" },
       { "file": "masterfiles/lib/processes.cf", "version": "3.10.3" },
-      { "file": "masterfiles/lib/processes.cf", "version": "3.10.2" }
+      { "file": "masterfiles/lib/processes.cf", "version": "3.10.2" },
+      { "file": "masterfiles/lib/processes.cf", "version": "3.12.0b1" }
     ],
     "594fb6c2c8b97d6b9f5650755c950d7d0115d47449b9ba779f17627aca535e2e": [
       { "file": "masterfiles/lib/3.5/processes.cf", "version": "3.7.8" },
@@ -5831,7 +6034,8 @@
     "5bd19adffaca58ef5fd7e05bf8ef1d9cf4c13f95da97c68c37cdb528eb1650be": [
       { "file": "modules/packages/apt_get", "version": "3.12.0" },
       { "file": "modules/packages/apt_get", "version": "3.10.4" },
-      { "file": "modules/packages/apt_get", "version": "3.10.3" }
+      { "file": "modules/packages/apt_get", "version": "3.10.3" },
+      { "file": "modules/packages/apt_get", "version": "3.12.0b1" }
     ],
     "5bd54d0b8dad7b62b4a00d602119adacae247cee533bf29cf7ef55068470dcd4": [
       {
@@ -5884,7 +6088,9 @@
       { "file": "masterfiles/inventory/os.cf", "version": "3.7.8" },
       { "file": "masterfiles/inventory/os.cf", "version": "3.7.7" },
       { "file": "masterfiles/inventory/os.cf", "version": "3.7.6" },
-      { "file": "masterfiles/inventory/os.cf", "version": "3.7.5" }
+      { "file": "masterfiles/inventory/os.cf", "version": "3.7.5" },
+      { "file": "masterfiles/inventory/os.cf", "version": "3.12.0b1" },
+      { "file": "masterfiles/inventory/os.cf", "version": "3.10.0b1" }
     ],
     "5ca4aa5a16ade99e7ae4a4ca87b7eb7b802b585f9d39e95cd675a5ca6ba8ea81": [
       {
@@ -6071,6 +6277,10 @@
       {
         "file": "masterfiles/cfe_internal/enterprise/main.cf",
         "version": "3.12.0"
+      },
+      {
+        "file": "masterfiles/cfe_internal/enterprise/main.cf",
+        "version": "3.12.0b1"
       }
     ],
     "5e7caadf3a080fdffe277913e30ff0f6d0021b4bb6c2afe417157f7b3f8759b5": [
@@ -6225,6 +6435,10 @@
       {
         "file": "masterfiles/templates/cfengine_watchdog.mustache",
         "version": "3.12.0"
+      },
+      {
+        "file": "masterfiles/templates/cfengine_watchdog.mustache",
+        "version": "3.12.0b1"
       }
     ],
     "5fef9ca4f60b8f9984ebd55bd963b52773ec8c9258cdbd15bdcc1839452f0ef6": [
@@ -6498,7 +6712,9 @@
       { "file": "masterfiles/services/autorun/hello.cf", "version": "3.7.8" },
       { "file": "masterfiles/services/autorun/hello.cf", "version": "3.7.7" },
       { "file": "masterfiles/services/autorun/hello.cf", "version": "3.7.6" },
-      { "file": "masterfiles/services/autorun/hello.cf", "version": "3.7.5" }
+      { "file": "masterfiles/services/autorun/hello.cf", "version": "3.7.5" },
+      { "file": "masterfiles/services/autorun/hello.cf", "version": "3.12.0b1" },
+      { "file": "masterfiles/services/autorun/hello.cf", "version": "3.10.0b1" }
     ],
     "63fa1e07c06ad0b11d5b6386250630fe925e89a8567429230a5aa6e5715a905f": [
       {
@@ -6692,7 +6908,14 @@
       {
         "file": "masterfiles/cfe_internal/core/deprecated/cfengine_processes.cf",
         "version": "3.7.7"
+      },
+      {
+        "file": "masterfiles/cfe_internal/core/deprecated/cfengine_processes.cf",
+        "version": "3.12.0b1"
       }
+    ],
+    "63fe398838944747a05956e5f9299e2e9918f4bd313b32bad4131be7d2834cba": [
+      { "file": "modules/packages/apt_get", "version": "3.10.0b1" }
     ],
     "640190848d62b6e8fb11f0e8f6187663630a3d43e1dfb90f26fb2b16adf892a2": [
       {
@@ -6946,7 +7169,13 @@
       { "file": "masterfiles/controls/3.6/cf_runagent.cf", "version": "3.7.6" },
       { "file": "masterfiles/controls/3.7/cf_runagent.cf", "version": "3.7.5" },
       { "file": "masterfiles/controls/3.5/cf_runagent.cf", "version": "3.7.5" },
-      { "file": "masterfiles/controls/3.6/cf_runagent.cf", "version": "3.7.5" }
+      { "file": "masterfiles/controls/3.6/cf_runagent.cf", "version": "3.7.5" },
+      { "file": "masterfiles/controls/cf_runagent.cf", "version": "3.12.0b1" },
+      { "file": "masterfiles/controls/cf_runagent.cf", "version": "3.10.0b1" },
+      {
+        "file": "masterfiles/controls/3.6/cf_runagent.cf",
+        "version": "3.10.0b1"
+      }
     ],
     "65de4c14134f8fb650566f2d5be73832ab7ab90897a21982d89686a42b384060": [
       { "file": "masterfiles/lib/stdlib.cf", "version": "3.16.0" }
@@ -6962,7 +7191,8 @@
       { "file": "masterfiles/lib/3.6/cfe_internal.cf", "version": "3.10.1" },
       { "file": "masterfiles/lib/3.6/cfe_internal.cf", "version": "3.10.0" },
       { "file": "masterfiles/lib/3.6/cfe_internal.cf", "version": "3.9.2" },
-      { "file": "masterfiles/lib/3.6/cfe_internal.cf", "version": "3.7.5" }
+      { "file": "masterfiles/lib/3.6/cfe_internal.cf", "version": "3.7.5" },
+      { "file": "masterfiles/lib/3.6/cfe_internal.cf", "version": "3.10.0b1" }
     ],
     "6672081a8cc1824750c863660eb456ae03a19875b0dc377f5103765f9e26152c": [
       {
@@ -7141,6 +7371,14 @@
       {
         "file": "masterfiles/cfe_internal/core/limit_robot_agents.cf",
         "version": "3.7.5"
+      },
+      {
+        "file": "masterfiles/cfe_internal/core/limit_robot_agents.cf",
+        "version": "3.12.0b1"
+      },
+      {
+        "file": "masterfiles/cfe_internal/core/limit_robot_agents.cf",
+        "version": "3.10.0b1"
       }
     ],
     "697701da08884a05d668b24c5125443f9b3a731aa6e3945496105765d67a63fd": [
@@ -7414,6 +7652,10 @@
       {
         "file": "masterfiles/templates/json_multiline.mustache",
         "version": "3.10.3"
+      },
+      {
+        "file": "masterfiles/templates/json_multiline.mustache",
+        "version": "3.12.0b1"
       }
     ],
     "6b0760e899d0eddd90f7a73cd841909ff1510a43f28b3fa27603a852e3415bcd": [
@@ -7456,7 +7698,11 @@
       { "file": "masterfiles/cfe_internal/update/lib.cf", "version": "3.10.4" },
       { "file": "masterfiles/cfe_internal/update/lib.cf", "version": "3.10.3" },
       { "file": "masterfiles/cfe_internal/update/lib.cf", "version": "3.10.2" },
-      { "file": "masterfiles/cfe_internal/update/lib.cf", "version": "3.10.1" }
+      { "file": "masterfiles/cfe_internal/update/lib.cf", "version": "3.10.1" },
+      {
+        "file": "masterfiles/cfe_internal/update/lib.cf",
+        "version": "3.12.0b1"
+      }
     ],
     "6bebfdc37277497ef92aeeb5149c65b01ffc3a06af6fcaec066b09d52656fd5b": [
       {
@@ -7563,7 +7809,8 @@
       { "file": "masterfiles/controls/3.6/cf_execd.cf", "version": "3.10.2" },
       { "file": "masterfiles/controls/3.6/cf_execd.cf", "version": "3.10.1" },
       { "file": "masterfiles/controls/3.6/cf_execd.cf", "version": "3.10.0" },
-      { "file": "masterfiles/controls/3.6/cf_execd.cf", "version": "3.9.2" }
+      { "file": "masterfiles/controls/3.6/cf_execd.cf", "version": "3.9.2" },
+      { "file": "masterfiles/controls/3.6/cf_execd.cf", "version": "3.10.0b1" }
     ],
     "6ea685a681636c0af46f522bf3f421ea0dfa40e740f3991ed66f3febab4f4a17": [
       {
@@ -7662,7 +7909,9 @@
       { "file": "masterfiles/controls/3.6/reports.cf", "version": "3.10.0" },
       { "file": "masterfiles/controls/reports.cf", "version": "3.9.2" },
       { "file": "masterfiles/controls/3.6/reports.cf", "version": "3.9.2" },
-      { "file": "masterfiles/controls/3.6/reports.cf", "version": "3.7.5" }
+      { "file": "masterfiles/controls/3.6/reports.cf", "version": "3.7.5" },
+      { "file": "masterfiles/controls/reports.cf", "version": "3.10.0b1" },
+      { "file": "masterfiles/controls/3.6/reports.cf", "version": "3.10.0b1" }
     ],
     "732231f8cf457ca5fe0cfd1651f43fc7748e916ba7019e9a19496306dad7cc92": [
       { "file": "masterfiles/controls/update_def.cf", "version": "3.10.0" }
@@ -7685,6 +7934,12 @@
     ],
     "73d195adcc73afb9180a271e7c3b59525119b0a4477d4014f7ce8165b82be3cf": [
       { "file": "masterfiles/lib/3.5/commands.cf", "version": "3.7.5" }
+    ],
+    "7409b42b29f5fad7bc5e4903b07fbab619284decc18d263c6c3354915e1726fc": [
+      {
+        "file": "masterfiles/cfe_internal/update/update_policy.cf",
+        "version": "3.10.0b1"
+      }
     ],
     "743bb4a81eb68872d8b3da1cb7c4a573993746fb85057c21182a8f58b29450dc": [
       { "file": "masterfiles/inventory/redhat.cf", "version": "3.17.0" },
@@ -7817,6 +8072,14 @@
       {
         "file": "masterfiles/templates/cf-serverd.service.mustache",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/templates/cf-serverd.service.mustache",
+        "version": "3.12.0b1"
+      },
+      {
+        "file": "masterfiles/templates/cf-serverd.service.mustache",
+        "version": "3.10.0b1"
       }
     ],
     "74d2ed1e6741dc3d2fa39760f56e57aab215c9aa3cdbbd0f3eb2ce0cbb080e97": [
@@ -7936,6 +8199,14 @@
       {
         "file": "masterfiles/controls/3.7/update_def_inputs.cf",
         "version": "3.7.5"
+      },
+      {
+        "file": "masterfiles/controls/update_def_inputs.cf",
+        "version": "3.12.0b1"
+      },
+      {
+        "file": "masterfiles/controls/update_def_inputs.cf",
+        "version": "3.10.0b1"
       }
     ],
     "75c13522462d80a697c56939909e3ead5cf782cb4bcd254c00b6c3444de4dfa9": [
@@ -7998,6 +8269,10 @@
       {
         "file": "masterfiles/cfe_internal/enterprise/CFE_hub_specific.cf",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/cfe_internal/enterprise/CFE_hub_specific.cf",
+        "version": "3.10.0b1"
       }
     ],
     "76d1da77a18a1da8c37645259ffc5f3901338d23a8ba3db680e72e9b41069d31": [
@@ -8482,6 +8757,10 @@
       {
         "file": "masterfiles/templates/cf-execd.service.mustache",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/templates/cf-execd.service.mustache",
+        "version": "3.10.0b1"
       }
     ],
     "7c61732f060517e9ec4e0e2105e9225e2b1816abe9e52cdd53610bde8a02a5f3": [
@@ -8504,7 +8783,8 @@
       { "file": "masterfiles/lib/cfe_internal.cf", "version": "3.12.3" },
       { "file": "masterfiles/lib/cfe_internal.cf", "version": "3.12.2" },
       { "file": "masterfiles/lib/cfe_internal.cf", "version": "3.12.1" },
-      { "file": "masterfiles/lib/cfe_internal.cf", "version": "3.12.0" }
+      { "file": "masterfiles/lib/cfe_internal.cf", "version": "3.12.0" },
+      { "file": "masterfiles/lib/cfe_internal.cf", "version": "3.12.0b1" }
     ],
     "7d2324e0dbdc369fba2f18a23554109d5d9a178e13b0bfee5586f3f6fd7d09c4": [
       { "file": "masterfiles/controls/def.cf", "version": "3.10.5" }
@@ -8846,6 +9126,10 @@
       {
         "file": "masterfiles/cfe_internal/enterprise/ha/ha_update.cf",
         "version": "3.7.8"
+      },
+      {
+        "file": "masterfiles/cfe_internal/enterprise/ha/ha_update.cf",
+        "version": "3.12.0b1"
       }
     ],
     "8017c23eb54b0c53328dbefbb48cc15be22f5b97bbdce0f23868b0717a27e060": [
@@ -8872,7 +9156,9 @@
       { "file": "masterfiles/lib/feature.cf", "version": "3.10.2" },
       { "file": "masterfiles/lib/feature.cf", "version": "3.10.1" },
       { "file": "masterfiles/lib/feature.cf", "version": "3.10.0" },
-      { "file": "masterfiles/lib/feature.cf", "version": "3.9.2" }
+      { "file": "masterfiles/lib/feature.cf", "version": "3.9.2" },
+      { "file": "masterfiles/lib/feature.cf", "version": "3.12.0b1" },
+      { "file": "masterfiles/lib/feature.cf", "version": "3.10.0b1" }
     ],
     "80390306523e6d748ae16e062bd42933f5364be11709a6384adc7f2909f43ab5": [
       {
@@ -8938,6 +9224,14 @@
       {
         "file": "masterfiles/templates/cf-runalerts.service.mustache",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/templates/cf-runalerts.service.mustache",
+        "version": "3.12.0b1"
+      },
+      {
+        "file": "masterfiles/templates/cf-runalerts.service.mustache",
+        "version": "3.10.0b1"
       }
     ],
     "809e72fe17075bbd4ba59a6c42deb1f886eceec52ff05c598b62f686c7d3868e": [
@@ -9100,7 +9394,11 @@
         "version": "3.11.0b1"
       },
       { "file": "masterfiles/lib/3.6/cfe_internal_hub.cf", "version": "3.10.1" },
-      { "file": "masterfiles/lib/3.6/cfe_internal_hub.cf", "version": "3.10.0" }
+      { "file": "masterfiles/lib/3.6/cfe_internal_hub.cf", "version": "3.10.0" },
+      {
+        "file": "masterfiles/lib/3.6/cfe_internal_hub.cf",
+        "version": "3.10.0b1"
+      }
     ],
     "832d4f531c9005d87212b0d3a4f8a076c37e932c08bb602cf11e8e836772e17c": [
       { "file": "modules/packages/apt_get", "version": "3.7.6" }
@@ -9144,6 +9442,12 @@
     "84b7514f7a8fe8b7d5668e4f76ce23b93b654a6175d4223b2bf07e4d2d6882e5": [
       { "file": "masterfiles/standalone_self_upgrade.cf", "version": "3.18.0" }
     ],
+    "84dd1f8beb787b104f546b4cf09c986bae4957baf23036bd28ce3e38edcf1daf": [
+      {
+        "file": "masterfiles/cfe_internal/enterprise/mission_portal.cf",
+        "version": "3.10.0b1"
+      }
+    ],
     "84ea81c9c1e2fd0559af899bed19073be6aa78b8140d4c2a1d5d800a291d66ca": [
       { "file": "masterfiles/inventory/any.cf", "version": "3.18.0" }
     ],
@@ -9157,7 +9461,8 @@
       { "file": "modules/packages/yum", "version": "3.9.2" },
       { "file": "modules/packages/yum", "version": "3.7.7" },
       { "file": "modules/packages/yum", "version": "3.7.6" },
-      { "file": "modules/packages/yum", "version": "3.7.5" }
+      { "file": "modules/packages/yum", "version": "3.7.5" },
+      { "file": "modules/packages/yum", "version": "3.10.0b1" }
     ],
     "8502613c7b6972e03b3c846bd29a946ca5f1d9b386f5d4de5e9d5de2d0c635da": [
       {
@@ -9243,6 +9548,10 @@
       {
         "file": "masterfiles/cfe_internal/enterprise/mission_portal.cf",
         "version": "3.12.0"
+      },
+      {
+        "file": "masterfiles/cfe_internal/enterprise/mission_portal.cf",
+        "version": "3.12.0b1"
       }
     ],
     "862e030d4e76bb1b2bacf0a6bcee4c673d6d7dc7f6ff66332c4e3671c353ccb5": [
@@ -9327,7 +9636,8 @@
       { "file": "masterfiles/lib/vcs.cf", "version": "3.16.0" }
     ],
     "88db6cf6a6c9d1a16d3a1136e967cd3d076d41eef67223c7c1179a57edc21e19": [
-      { "file": "masterfiles/inventory/any.cf", "version": "3.12.0" }
+      { "file": "masterfiles/inventory/any.cf", "version": "3.12.0" },
+      { "file": "masterfiles/inventory/any.cf", "version": "3.12.0b1" }
     ],
     "88ed7db5f648830d1ab36003b58b611f79abe2a5c5f728303310b0002b394cb3": [
       { "file": "masterfiles/promises.cf", "version": "3.17.0" }
@@ -9524,6 +9834,14 @@
       {
         "file": "masterfiles/cfe_internal/update/cfe_internal_local_git_remote.cf",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/cfe_internal/update/cfe_internal_local_git_remote.cf",
+        "version": "3.12.0b1"
+      },
+      {
+        "file": "masterfiles/cfe_internal/update/cfe_internal_local_git_remote.cf",
+        "version": "3.10.0b1"
       }
     ],
     "897404880a29e849797b720af46b97f213889819b1b4c13e34cdce3649bae1fc": [
@@ -9923,12 +10241,21 @@
       {
         "file": "masterfiles/templates/cfengine3.service.mustache",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/templates/cfengine3.service.mustache",
+        "version": "3.12.0b1"
+      },
+      {
+        "file": "masterfiles/templates/cfengine3.service.mustache",
+        "version": "3.10.0b1"
       }
     ],
     "8c26a8170e7d4613612cfdb72d0857f1cf5bac38f5de1b6dd6bbe38b97324511": [
       { "file": "masterfiles/lib/3.6/common.cf", "version": "3.11.0b1" },
       { "file": "masterfiles/lib/3.6/common.cf", "version": "3.10.1" },
-      { "file": "masterfiles/lib/3.6/common.cf", "version": "3.10.0" }
+      { "file": "masterfiles/lib/3.6/common.cf", "version": "3.10.0" },
+      { "file": "masterfiles/lib/3.6/common.cf", "version": "3.10.0b1" }
     ],
     "8c3339ea0fde708b42ee336eefe713ac13f572d9cbd252988a299aee72922ef7": [
       { "file": "masterfiles/controls/reports.cf", "version": "3.16.0" },
@@ -9943,7 +10270,8 @@
       { "file": "masterfiles/lib/3.6/monitor.cf", "version": "3.10.1" },
       { "file": "masterfiles/lib/3.6/monitor.cf", "version": "3.10.0" },
       { "file": "masterfiles/lib/3.6/monitor.cf", "version": "3.9.2" },
-      { "file": "masterfiles/lib/3.6/monitor.cf", "version": "3.7.5" }
+      { "file": "masterfiles/lib/3.6/monitor.cf", "version": "3.7.5" },
+      { "file": "masterfiles/lib/3.6/monitor.cf", "version": "3.10.0b1" }
     ],
     "8d6c13cc9ce30e7e885e2eb09f9be26c636e2db1bbdef3faa0c8d36744942a23": [
       { "file": "masterfiles/promises.cf", "version": "3.15.0b1" }
@@ -10161,6 +10489,10 @@
       {
         "file": "masterfiles/templates/json_serial.mustache",
         "version": "3.10.3"
+      },
+      {
+        "file": "masterfiles/templates/json_serial.mustache",
+        "version": "3.12.0b1"
       }
     ],
     "8e0aba5912e768f2182affa7c0232add3a6914aa5c54e9bb805790777cb18a7a": [
@@ -10178,7 +10510,8 @@
     "8e8e4aab9bc4476e0240e6d77b688dbbbf3833aacc56cec39319dd057fac3010": [
       { "file": "masterfiles/lib/files.cf", "version": "3.13.0" },
       { "file": "masterfiles/lib/files.cf", "version": "3.12.1" },
-      { "file": "masterfiles/lib/files.cf", "version": "3.12.0" }
+      { "file": "masterfiles/lib/files.cf", "version": "3.12.0" },
+      { "file": "masterfiles/lib/files.cf", "version": "3.12.0b1" }
     ],
     "8f166991c78b6489deeffefc2022e08b160d7933a995c23e4a8f4767a9d32de3": [
       { "file": "masterfiles/controls/cf_execd.cf", "version": "3.21.1" },
@@ -10241,7 +10574,8 @@
       {
         "file": "masterfiles/lib/3.7/guest_environments.cf",
         "version": "3.7.5"
-      }
+      },
+      { "file": "masterfiles/lib/guest_environments.cf", "version": "3.10.0b1" }
     ],
     "8febf387d95c7a557c3ce11c2a017389b6517a4b00e13c362e436c22e0a78df9": [
       { "file": "masterfiles/inventory/suse.cf", "version": "3.24.0" },
@@ -10299,7 +10633,9 @@
       { "file": "masterfiles/inventory/suse.cf", "version": "3.7.8" },
       { "file": "masterfiles/inventory/suse.cf", "version": "3.7.7" },
       { "file": "masterfiles/inventory/suse.cf", "version": "3.7.6" },
-      { "file": "masterfiles/inventory/suse.cf", "version": "3.7.5" }
+      { "file": "masterfiles/inventory/suse.cf", "version": "3.7.5" },
+      { "file": "masterfiles/inventory/suse.cf", "version": "3.12.0b1" },
+      { "file": "masterfiles/inventory/suse.cf", "version": "3.10.0b1" }
     ],
     "900ebe2dca008ebae2fa01f551415ee711c723568128d03855ebe336653c4ff3": [
       { "file": "masterfiles/lib/files.cf", "version": "3.15.2" },
@@ -10307,7 +10643,8 @@
       { "file": "masterfiles/lib/files.cf", "version": "3.15.0" }
     ],
     "9056c1f0ab7a4217829e984f3eb2c4369dcb5c83ae9ffe31986be643cd359371": [
-      { "file": "masterfiles/update.cf", "version": "3.12.0" }
+      { "file": "masterfiles/update.cf", "version": "3.12.0" },
+      { "file": "masterfiles/update.cf", "version": "3.12.0b1" }
     ],
     "9078f211a5b82340de3f234625c67b4a495eea55b646bff29e25d0c6f56bcbe8": [
       {
@@ -10539,6 +10876,10 @@
       {
         "file": "masterfiles/templates/cf-execd.service.mustache",
         "version": "3.10.3"
+      },
+      {
+        "file": "masterfiles/templates/cf-execd.service.mustache",
+        "version": "3.12.0b1"
       }
     ],
     "93f5c62f6610c32f8ac34412c0ee4c89972d6e86cfc181f7151b5919b5778f61": [
@@ -10712,6 +11053,10 @@
       {
         "file": "masterfiles/cfe_internal/update/update_processes.cf",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/cfe_internal/update/update_processes.cf",
+        "version": "3.10.0b1"
       }
     ],
     "952b2e6f3b78c7c5c5ae909f418528269f74de76a1befa20a18d6882e76d76cd": [
@@ -10768,6 +11113,10 @@
       {
         "file": "masterfiles/cfe_internal/core/log_rotation.cf",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/cfe_internal/core/log_rotation.cf",
+        "version": "3.10.0b1"
       }
     ],
     "95a3da2508aa4cecb11e5a39428281342c8013c6dfea652e646c2d9d7b8ed657": [
@@ -10969,10 +11318,15 @@
       {
         "file": "masterfiles/templates/cfengine_watchdog.mustache",
         "version": "3.9.2"
+      },
+      {
+        "file": "masterfiles/templates/cfengine_watchdog.mustache",
+        "version": "3.10.0b1"
       }
     ],
     "984506367651642c4045c17d4b1a3c5a24e2e80045b5448f92ba6ae75be4856f": [
-      { "file": "masterfiles/controls/cf_execd.cf", "version": "3.12.0" }
+      { "file": "masterfiles/controls/cf_execd.cf", "version": "3.12.0" },
+      { "file": "masterfiles/controls/cf_execd.cf", "version": "3.12.0b1" }
     ],
     "98bafbffaa848f66b2057d46626dcde95c102b963c2083f0fe984265c88f3306": [
       {
@@ -11038,7 +11392,8 @@
       { "file": "masterfiles/lib/common.cf", "version": "3.11.0" },
       { "file": "masterfiles/lib/common.cf", "version": "3.10.4" },
       { "file": "masterfiles/lib/common.cf", "version": "3.10.3" },
-      { "file": "masterfiles/lib/common.cf", "version": "3.10.2" }
+      { "file": "masterfiles/lib/common.cf", "version": "3.10.2" },
+      { "file": "masterfiles/lib/common.cf", "version": "3.12.0b1" }
     ],
     "99bb779b3170c4ca2c827e9a68f5808557a01d4f09b24b964ed5c6c1b5f00fdf": [
       {
@@ -11328,7 +11683,8 @@
       {
         "file": "masterfiles/lib/3.7/guest_environments.cf",
         "version": "3.7.6"
-      }
+      },
+      { "file": "masterfiles/lib/guest_environments.cf", "version": "3.12.0b1" }
     ],
     "9cb659c81daefacad17ca15068f6413031376a44de874b4db1a49cc847286f78": [
       { "file": "masterfiles/lib/testing.cf", "version": "3.11.0b1" },
@@ -11340,7 +11696,8 @@
       { "file": "masterfiles/lib/edit_xml.cf", "version": "3.10.1" },
       { "file": "masterfiles/lib/edit_xml.cf", "version": "3.10.0" },
       { "file": "masterfiles/lib/edit_xml.cf", "version": "3.9.2" },
-      { "file": "masterfiles/lib/3.7/edit_xml.cf", "version": "3.7.5" }
+      { "file": "masterfiles/lib/3.7/edit_xml.cf", "version": "3.7.5" },
+      { "file": "masterfiles/lib/edit_xml.cf", "version": "3.10.0b1" }
     ],
     "9d867f37e809059a47d2c7f11450d5a19bf50f307087f4c0da27559fa3e8acc2": [
       { "file": "masterfiles/promises.cf", "version": "3.21.4" }
@@ -11429,7 +11786,9 @@
       { "file": "masterfiles/inventory/freebsd.cf", "version": "3.7.8" },
       { "file": "masterfiles/inventory/freebsd.cf", "version": "3.7.7" },
       { "file": "masterfiles/inventory/freebsd.cf", "version": "3.7.6" },
-      { "file": "masterfiles/inventory/freebsd.cf", "version": "3.7.5" }
+      { "file": "masterfiles/inventory/freebsd.cf", "version": "3.7.5" },
+      { "file": "masterfiles/inventory/freebsd.cf", "version": "3.12.0b1" },
+      { "file": "masterfiles/inventory/freebsd.cf", "version": "3.10.0b1" }
     ],
     "9ec9d1f5c5fe1912a5aec23f64789d3cc89f8f491a3ecd50c949031150d86bff": [
       {
@@ -11471,6 +11830,14 @@
       {
         "file": "masterfiles/templates/cf-redis-server.service.mustache",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/templates/cf-redis-server.service.mustache",
+        "version": "3.12.0b1"
+      },
+      {
+        "file": "masterfiles/templates/cf-redis-server.service.mustache",
+        "version": "3.10.0b1"
       }
     ],
     "9ecc961cecfcf71a0a101fd3abea54c064f6cc0c5fd749035115651c2c248bf1": [
@@ -11483,7 +11850,8 @@
       { "file": "masterfiles/lib/3.6/paths.cf", "version": "3.10.1" },
       { "file": "masterfiles/lib/3.6/paths.cf", "version": "3.10.0" },
       { "file": "masterfiles/lib/3.6/paths.cf", "version": "3.9.2" },
-      { "file": "masterfiles/lib/3.6/paths.cf", "version": "3.7.5" }
+      { "file": "masterfiles/lib/3.6/paths.cf", "version": "3.7.5" },
+      { "file": "masterfiles/lib/3.6/paths.cf", "version": "3.10.0b1" }
     ],
     "9f0e5d11073fd0d38171afa750378b7961950629f400fe7ae188d0341ea222db": [
       {
@@ -11543,7 +11911,8 @@
       { "file": "modules/packages/pkg", "version": "3.10.4" },
       { "file": "modules/packages/pkg", "version": "3.10.3" },
       { "file": "modules/packages/pkg", "version": "3.10.2" },
-      { "file": "modules/packages/pkg", "version": "3.10.1" }
+      { "file": "modules/packages/pkg", "version": "3.10.1" },
+      { "file": "modules/packages/pkg", "version": "3.12.0b1" }
     ],
     "a023bf9efeaf92fcec450cb13b0270b16902c9b0d3e6098b98273f6d61ff94d1": [
       {
@@ -11577,6 +11946,10 @@
       {
         "file": "masterfiles/cfe_internal/core/deprecated/cfengine_processes.cf",
         "version": "3.7.5"
+      },
+      {
+        "file": "masterfiles/cfe_internal/core/deprecated/cfengine_processes.cf",
+        "version": "3.10.0b1"
       }
     ],
     "a04631b9057dff7b271cc9efaa258c784008238ae50e0dae259b8da9b907fabf": [
@@ -11809,7 +12182,9 @@
       { "file": "masterfiles/services/main.cf", "version": "3.10.3" },
       { "file": "masterfiles/services/main.cf", "version": "3.10.2" },
       { "file": "masterfiles/services/main.cf", "version": "3.10.1" },
-      { "file": "masterfiles/services/main.cf", "version": "3.10.0" }
+      { "file": "masterfiles/services/main.cf", "version": "3.10.0" },
+      { "file": "masterfiles/services/main.cf", "version": "3.12.0b1" },
+      { "file": "masterfiles/services/main.cf", "version": "3.10.0b1" }
     ],
     "a18e588b3bd0cbbec92bc4ce2e09af10b1614abb1b8fa486d4f6ec2c2dd5ab41": [
       {
@@ -11827,7 +12202,8 @@
     "a21c242458d50aacfcc8b6e0d7a93bc3552abb6fe8a2eb3f4b848fbb355a2899": [
       { "file": "masterfiles/lib/3.6/files.cf", "version": "3.11.0b1" },
       { "file": "masterfiles/lib/3.6/files.cf", "version": "3.10.1" },
-      { "file": "masterfiles/lib/3.6/files.cf", "version": "3.10.0" }
+      { "file": "masterfiles/lib/3.6/files.cf", "version": "3.10.0" },
+      { "file": "masterfiles/lib/3.6/files.cf", "version": "3.10.0b1" }
     ],
     "a235923a33e0276949647954a62a67100a3eb3d164f45fd23c4fe9c4d3179cf5": [
       {
@@ -11898,6 +12274,9 @@
         "file": "masterfiles/cfe_internal/enterprise/CFE_hub_specific.cf",
         "version": "3.7.7"
       }
+    ],
+    "a2c047b07485b39bd95a70584eadaa2c8051f7b98ea1d5565200c451480143d8": [
+      { "file": "masterfiles/lib/paths.cf", "version": "3.12.0b1" }
     ],
     "a2f3ac788896e2499072755f70304d44020366a7b83afe779cca025d0365a213": [
       { "file": "masterfiles/lib/paths.cf", "version": "3.14.0" },
@@ -12149,7 +12528,8 @@
       { "file": "masterfiles/lib/stdlib.cf", "version": "3.10.5" },
       { "file": "masterfiles/lib/stdlib.cf", "version": "3.10.4" },
       { "file": "masterfiles/lib/stdlib.cf", "version": "3.10.3" },
-      { "file": "masterfiles/lib/stdlib.cf", "version": "3.10.2" }
+      { "file": "masterfiles/lib/stdlib.cf", "version": "3.10.2" },
+      { "file": "masterfiles/lib/stdlib.cf", "version": "3.12.0b1" }
     ],
     "a59589f3891322f12858d487cfbbf72bc6fbcd912d54bbf4475ba0c9b2a30176": [
       {
@@ -12252,7 +12632,8 @@
       { "file": "masterfiles/lib/vcs.cf", "version": "3.10.5" },
       { "file": "masterfiles/lib/vcs.cf", "version": "3.10.4" },
       { "file": "masterfiles/lib/vcs.cf", "version": "3.10.3" },
-      { "file": "masterfiles/lib/vcs.cf", "version": "3.10.2" }
+      { "file": "masterfiles/lib/vcs.cf", "version": "3.10.2" },
+      { "file": "masterfiles/lib/vcs.cf", "version": "3.12.0b1" }
     ],
     "a5fe9804c7937d411bde9ec6a0d75d2514a93f159e7f596b274002f3814d7d80": [
       { "file": "masterfiles/controls/cf_serverd.cf", "version": "3.21.1" },
@@ -12523,7 +12904,8 @@
     "ab4412e44958d9290264e6cd64277669f938f9d8d09e76ae98036b97b6fce46e": [
       { "file": "masterfiles/lib/cfe_internal_hub.cf", "version": "3.11.0b1" },
       { "file": "masterfiles/lib/cfe_internal_hub.cf", "version": "3.10.1" },
-      { "file": "masterfiles/lib/cfe_internal_hub.cf", "version": "3.10.0" }
+      { "file": "masterfiles/lib/cfe_internal_hub.cf", "version": "3.10.0" },
+      { "file": "masterfiles/lib/cfe_internal_hub.cf", "version": "3.10.0b1" }
     ],
     "ab833fc3f91161e1c599331950f13f52532f0e7fcb20f83c52192acb7a48907a": [
       { "file": "masterfiles/standalone_self_upgrade.cf", "version": "3.18.4" }
@@ -12769,6 +13151,14 @@
       {
         "file": "masterfiles/cfe_internal/update/cfe_internal_dc_workflow.cf",
         "version": "3.7.5"
+      },
+      {
+        "file": "masterfiles/cfe_internal/update/cfe_internal_dc_workflow.cf",
+        "version": "3.12.0b1"
+      },
+      {
+        "file": "masterfiles/cfe_internal/update/cfe_internal_dc_workflow.cf",
+        "version": "3.10.0b1"
       }
     ],
     "ac9488b33945dec74400045766755c96cd1c3f8853c65daf97e5d538a06269ba": [
@@ -12822,6 +13212,10 @@
       {
         "file": "masterfiles/cfe_internal/enterprise/file_change.cf",
         "version": "3.7.5"
+      },
+      {
+        "file": "masterfiles/cfe_internal/enterprise/file_change.cf",
+        "version": "3.10.0b1"
       }
     ],
     "ad3ff5c4fc1fa615e8a2c237683828ab1a1dbfd2f1e9237fff4a476360f29761": [
@@ -12930,12 +13324,19 @@
     "ae9db165340a39d66afa66ab7c7150e0f440bb125b2c70b06059eac978acf253": [
       { "file": "masterfiles/controls/3.6/update_def.cf", "version": "3.10.6" }
     ],
+    "af018aedb8700262f4d6ea579e3354091dbc8665c4112dc8a071ad9f573cc11d": [
+      {
+        "file": "masterfiles/cfe_internal/enterprise/CFE_hub_specific.cf",
+        "version": "3.12.0b1"
+      }
+    ],
     "af744b1729eb5af91cbda01be29828d4abbb015ea30606de2c0f09fbc61b4b95": [
       { "file": "masterfiles/lib/3.6/edit_xml.cf", "version": "3.11.0b1" },
       { "file": "masterfiles/lib/3.6/edit_xml.cf", "version": "3.10.1" },
       { "file": "masterfiles/lib/3.6/edit_xml.cf", "version": "3.10.0" },
       { "file": "masterfiles/lib/3.6/edit_xml.cf", "version": "3.9.2" },
-      { "file": "masterfiles/lib/3.6/edit_xml.cf", "version": "3.7.5" }
+      { "file": "masterfiles/lib/3.6/edit_xml.cf", "version": "3.7.5" },
+      { "file": "masterfiles/lib/3.6/edit_xml.cf", "version": "3.10.0b1" }
     ],
     "af761cdf2f28082486252207ab2ad46717d5f9d0288a3026f992446107748725": [
       {
@@ -12979,7 +13380,8 @@
       { "file": "masterfiles/inventory/redhat.cf", "version": "3.10.5" },
       { "file": "masterfiles/inventory/redhat.cf", "version": "3.10.4" },
       { "file": "masterfiles/inventory/redhat.cf", "version": "3.10.3" },
-      { "file": "masterfiles/inventory/redhat.cf", "version": "3.10.2" }
+      { "file": "masterfiles/inventory/redhat.cf", "version": "3.10.2" },
+      { "file": "masterfiles/inventory/redhat.cf", "version": "3.12.0b1" }
     ],
     "b12fd489435e67205e04d9ff9f2c650c64e83a341d5f78729acdef0b40e51cc7": [
       { "file": "masterfiles/lib/packages.cf", "version": "3.18.7" },
@@ -13075,7 +13477,8 @@
       { "file": "modules/packages/nimclient", "version": "3.10.4" },
       { "file": "modules/packages/nimclient", "version": "3.10.3" },
       { "file": "modules/packages/nimclient", "version": "3.10.2" },
-      { "file": "modules/packages/nimclient", "version": "3.10.1" }
+      { "file": "modules/packages/nimclient", "version": "3.10.1" },
+      { "file": "modules/packages/nimclient", "version": "3.12.0b1" }
     ],
     "b19ac5a98551bfde1fcf6696f13d3ebb6a7e82a986c91bd630bf288bcff22217": [
       {
@@ -13103,6 +13506,9 @@
       { "file": "masterfiles/inventory/redhat.cf", "version": "3.18.6" },
       { "file": "masterfiles/inventory/redhat.cf", "version": "3.18.5" }
     ],
+    "b1e79f09285f12f739adb7b68a763c90f78efa910aa275490165472ede73e983": [
+      { "file": "masterfiles/controls/update_def.cf", "version": "3.12.0b1" }
+    ],
     "b1f6b71db69aa27af63204a3e075769967a67fac4ccefa53d2852695f2344ee9": [
       { "file": "masterfiles/controls/cf_hub.cf", "version": "3.9.2" },
       { "file": "masterfiles/controls/3.6/cf_hub.cf", "version": "3.9.2" },
@@ -13126,6 +13532,12 @@
       {
         "file": "masterfiles/cfe_internal/update/update_policy.cf",
         "version": "3.10.0"
+      }
+    ],
+    "b2239ec4fd11140e5352f4e9ea399789537f22c04ed1986c4dd9befad006c75d": [
+      {
+        "file": "masterfiles/cfe_internal/enterprise/templates/httpd.conf.mustache",
+        "version": "3.12.0b1"
       }
     ],
     "b24a56ae2632d1f48ccb2c5bcee7ceda279e76d6ff631e0eba217769521ac70c": [
@@ -13271,7 +13683,8 @@
       { "file": "masterfiles/lib/users.cf", "version": "3.10.1" },
       { "file": "masterfiles/lib/users.cf", "version": "3.10.0" },
       { "file": "masterfiles/lib/users.cf", "version": "3.9.2" },
-      { "file": "masterfiles/lib/3.7/users.cf", "version": "3.7.5" }
+      { "file": "masterfiles/lib/3.7/users.cf", "version": "3.7.5" },
+      { "file": "masterfiles/lib/users.cf", "version": "3.10.0b1" }
     ],
     "b4f99cf59762d922884cc026e34467240fca3038052c27ed71dc4190f6dd024b": [
       { "file": "masterfiles/inventory/linux.cf", "version": "3.15.0" },
@@ -13292,7 +13705,9 @@
       { "file": "masterfiles/inventory/linux.cf", "version": "3.10.2" },
       { "file": "masterfiles/inventory/linux.cf", "version": "3.10.1" },
       { "file": "masterfiles/inventory/linux.cf", "version": "3.10.0" },
-      { "file": "masterfiles/inventory/linux.cf", "version": "3.9.2" }
+      { "file": "masterfiles/inventory/linux.cf", "version": "3.9.2" },
+      { "file": "masterfiles/inventory/linux.cf", "version": "3.12.0b1" },
+      { "file": "masterfiles/inventory/linux.cf", "version": "3.10.0b1" }
     ],
     "b50442b8febe35b707e99a6cfb744c4c2f7a902df802196f5fcff882d5d84817": [
       { "file": "masterfiles/promises.cf", "version": "3.15.1" }
@@ -13664,6 +14079,14 @@
       {
         "file": "masterfiles/cfe_internal/update/systemd_units.cf",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/cfe_internal/update/systemd_units.cf",
+        "version": "3.12.0b1"
+      },
+      {
+        "file": "masterfiles/cfe_internal/update/systemd_units.cf",
+        "version": "3.10.0b1"
       }
     ],
     "b7221c18e938d3707a86bc6e77bd139c7c8a279cc70d735179483313208351e5": [
@@ -13730,7 +14153,8 @@
       { "file": "masterfiles/controls/cf_execd.cf", "version": "3.10.2" },
       { "file": "masterfiles/controls/cf_execd.cf", "version": "3.10.1" },
       { "file": "masterfiles/controls/cf_execd.cf", "version": "3.10.0" },
-      { "file": "masterfiles/controls/cf_execd.cf", "version": "3.9.2" }
+      { "file": "masterfiles/controls/cf_execd.cf", "version": "3.9.2" },
+      { "file": "masterfiles/controls/cf_execd.cf", "version": "3.10.0b1" }
     ],
     "b85999bd52cfbe5f7ad3eef744deec5b3fd00eae43af67ed63417f589b0899bf": [
       { "file": "masterfiles/controls/update_def.cf", "version": "3.15.2" }
@@ -13783,7 +14207,9 @@
       { "file": "modules/packages/pkgsrc", "version": "3.10.2" },
       { "file": "modules/packages/pkgsrc", "version": "3.10.1" },
       { "file": "modules/packages/pkgsrc", "version": "3.10.0" },
-      { "file": "modules/packages/pkgsrc", "version": "3.9.2" }
+      { "file": "modules/packages/pkgsrc", "version": "3.9.2" },
+      { "file": "modules/packages/pkgsrc", "version": "3.12.0b1" },
+      { "file": "modules/packages/pkgsrc", "version": "3.10.0b1" }
     ],
     "b9e48225a953e2d89a396b6f63efee01f0d148459c36318248ca662ba3c42d41": [
       {
@@ -13811,7 +14237,8 @@
     ],
     "ba07e2b602056df7dd471d40ceaf9b20fa5e83fcae7f1aa2ae6e7fb8013c1aa9": [
       { "file": "masterfiles/lib/packages.cf", "version": "3.10.1" },
-      { "file": "masterfiles/lib/packages.cf", "version": "3.10.0" }
+      { "file": "masterfiles/lib/packages.cf", "version": "3.10.0" },
+      { "file": "masterfiles/lib/packages.cf", "version": "3.10.0b1" }
     ],
     "ba6a5fd9d5962e0edad95689bc9f463b16f467191c7ae8138ab3481254c5f228": [
       { "file": "masterfiles/inventory/any.cf", "version": "3.13.0" }
@@ -13835,6 +14262,9 @@
     ],
     "bb179f013d3d46d7788b50ec6619b7e9155d7ec80a9fed3a1a7664c94b5104bf": [
       { "file": "masterfiles/controls/3.6/update_def.cf", "version": "3.10.7" }
+    ],
+    "bb24ad9df3f80eda5fde5ca24ed78355b01a9b4ee3c22459ab01b4dd78dc2ab5": [
+      { "file": "masterfiles/lib/stdlib.cf", "version": "3.10.0b1" }
     ],
     "bb27dbd5704daabbe756215f4499293d41e2ec2c1178a8fe0070168d83c188a3": [
       {
@@ -13905,7 +14335,8 @@
       { "file": "masterfiles/lib/reports.cf", "version": "3.11.0b1" },
       { "file": "masterfiles/lib/reports.cf", "version": "3.10.1" },
       { "file": "masterfiles/lib/reports.cf", "version": "3.10.0" },
-      { "file": "masterfiles/lib/reports.cf", "version": "3.9.2" }
+      { "file": "masterfiles/lib/reports.cf", "version": "3.9.2" },
+      { "file": "masterfiles/lib/reports.cf", "version": "3.10.0b1" }
     ],
     "bbd9a5fb29c4bcb6c4938e40a0bd2b161aff94dbf6755b3bc7efb9d2ec4d134b": [
       { "file": "masterfiles/lib/packages.cf", "version": "3.11.0b1" }
@@ -14204,7 +14635,9 @@
       { "file": "masterfiles/inventory/macos.cf", "version": "3.7.8" },
       { "file": "masterfiles/inventory/macos.cf", "version": "3.7.7" },
       { "file": "masterfiles/inventory/macos.cf", "version": "3.7.6" },
-      { "file": "masterfiles/inventory/macos.cf", "version": "3.7.5" }
+      { "file": "masterfiles/inventory/macos.cf", "version": "3.7.5" },
+      { "file": "masterfiles/inventory/macos.cf", "version": "3.12.0b1" },
+      { "file": "masterfiles/inventory/macos.cf", "version": "3.10.0b1" }
     ],
     "bbfbdc77a70f89f58bb6e2a1060a07efc0c8b8107d5a0c8451fdbf2ea7e0744b": [
       { "file": "masterfiles/update.cf", "version": "3.24.0" }
@@ -14313,10 +14746,18 @@
       { "file": "masterfiles/inventory/debian.cf", "version": "3.7.8" },
       { "file": "masterfiles/inventory/debian.cf", "version": "3.7.7" },
       { "file": "masterfiles/inventory/debian.cf", "version": "3.7.6" },
-      { "file": "masterfiles/inventory/debian.cf", "version": "3.7.5" }
+      { "file": "masterfiles/inventory/debian.cf", "version": "3.7.5" },
+      { "file": "masterfiles/inventory/debian.cf", "version": "3.12.0b1" },
+      { "file": "masterfiles/inventory/debian.cf", "version": "3.10.0b1" }
     ],
     "bd8eab881979a64546025466ef5a9affc053518829cfa0904c8aeafb58cddd29": [
       { "file": "masterfiles/standalone_self_upgrade.cf", "version": "3.20.0" }
+    ],
+    "bda4034f045be513d7cadf7d2c345be72db9b597da8c191898ae7be99e09e6a2": [
+      {
+        "file": "masterfiles/cfe_internal/update/update_processes.cf",
+        "version": "3.12.0b1"
+      }
     ],
     "be8a81a74ccd6863b6552b9ffcd77dddddc19a806dda2663e083bd9feef1cffa": [
       {
@@ -14611,7 +15052,8 @@
       { "file": "masterfiles/inventory/redhat.cf", "version": "3.7.8" },
       { "file": "masterfiles/inventory/redhat.cf", "version": "3.7.7" },
       { "file": "masterfiles/inventory/redhat.cf", "version": "3.7.6" },
-      { "file": "masterfiles/inventory/redhat.cf", "version": "3.7.5" }
+      { "file": "masterfiles/inventory/redhat.cf", "version": "3.7.5" },
+      { "file": "masterfiles/inventory/redhat.cf", "version": "3.10.0b1" }
     ],
     "c2761bff55a75d6c8f6c8fb8ce810074f723f577c4a7376812f7fd0fc58a354a": [
       { "file": "masterfiles/controls/3.5/reports.cf", "version": "3.7.8" },
@@ -14861,7 +15303,9 @@
       { "file": "modules/packages/freebsd_ports", "version": "3.10.2" },
       { "file": "modules/packages/freebsd_ports", "version": "3.10.1" },
       { "file": "modules/packages/freebsd_ports", "version": "3.10.0" },
-      { "file": "modules/packages/freebsd_ports", "version": "3.9.2" }
+      { "file": "modules/packages/freebsd_ports", "version": "3.9.2" },
+      { "file": "modules/packages/freebsd_ports", "version": "3.12.0b1" },
+      { "file": "modules/packages/freebsd_ports", "version": "3.10.0b1" }
     ],
     "c904c6714001f5722db51bf7e793490ea81d814555a33224a9c0d87e60b8bae6": [
       {
@@ -14971,7 +15415,13 @@
       { "file": "masterfiles/controls/3.6/cf_monitord.cf", "version": "3.7.6" },
       { "file": "masterfiles/controls/3.7/cf_monitord.cf", "version": "3.7.5" },
       { "file": "masterfiles/controls/3.5/cf_monitord.cf", "version": "3.7.5" },
-      { "file": "masterfiles/controls/3.6/cf_monitord.cf", "version": "3.7.5" }
+      { "file": "masterfiles/controls/3.6/cf_monitord.cf", "version": "3.7.5" },
+      { "file": "masterfiles/controls/cf_monitord.cf", "version": "3.12.0b1" },
+      { "file": "masterfiles/controls/cf_monitord.cf", "version": "3.10.0b1" },
+      {
+        "file": "masterfiles/controls/3.6/cf_monitord.cf",
+        "version": "3.10.0b1"
+      }
     ],
     "cacaa881efc9388023ab72b55e7e4d29f5f8300979c5e493b39576b1430e7c2f": [
       {
@@ -15131,7 +15581,8 @@
       { "file": "masterfiles/lib/3.6/stdlib.cf", "version": "3.10.1" },
       { "file": "masterfiles/lib/3.6/stdlib.cf", "version": "3.10.0" },
       { "file": "masterfiles/lib/3.6/stdlib.cf", "version": "3.9.2" },
-      { "file": "masterfiles/lib/3.6/stdlib.cf", "version": "3.7.5" }
+      { "file": "masterfiles/lib/3.6/stdlib.cf", "version": "3.7.5" },
+      { "file": "masterfiles/lib/3.6/stdlib.cf", "version": "3.10.0b1" }
     ],
     "cd385aee40d129d100a3b2095e4a4a45d125a5a5f12bc4f2391ec9bf7e66c480": [
       { "file": "masterfiles/standalone_self_upgrade.cf", "version": "3.18.3" }
@@ -15175,7 +15626,8 @@
       { "file": "modules/packages/zypper", "version": "3.11.0" },
       { "file": "modules/packages/zypper", "version": "3.10.4" },
       { "file": "modules/packages/zypper", "version": "3.10.3" },
-      { "file": "modules/packages/zypper", "version": "3.10.2" }
+      { "file": "modules/packages/zypper", "version": "3.10.2" },
+      { "file": "modules/packages/zypper", "version": "3.12.0b1" }
     ],
     "cdc2fdbab59e0d489478fa035c61ac05fede9ce8c9ee846448443745f1887310": [
       {
@@ -15390,7 +15842,8 @@
       { "file": "modules/packages/zypper", "version": "3.12.3" }
     ],
     "d0bfcd5b697387d2c93fa92824a9a2e198a6a8e7216cb48b75faa93644af56f7": [
-      { "file": "masterfiles/lib/paths.cf", "version": "3.9.2" }
+      { "file": "masterfiles/lib/paths.cf", "version": "3.9.2" },
+      { "file": "masterfiles/lib/paths.cf", "version": "3.10.0b1" }
     ],
     "d0dc0d346d0d648eaf49de3de9bb0809f39e059c0c7fbbb6053dbc9791d20e67": [
       {
@@ -15450,7 +15903,9 @@
       { "file": "masterfiles/lib/3.7/README.md", "version": "3.10.2" },
       { "file": "masterfiles/lib/3.7/README.md", "version": "3.10.1" },
       { "file": "masterfiles/lib/3.7/README.md", "version": "3.10.0" },
-      { "file": "masterfiles/lib/3.7/README.md", "version": "3.9.2" }
+      { "file": "masterfiles/lib/3.7/README.md", "version": "3.9.2" },
+      { "file": "masterfiles/lib/3.7/README.md", "version": "3.12.0b1" },
+      { "file": "masterfiles/lib/3.7/README.md", "version": "3.10.0b1" }
     ],
     "d1190f276bbdd762f09e69bcb803d7d60a8803b4bb444e54f20dea6af813efe3": [
       { "file": "masterfiles/standalone_self_upgrade.cf", "version": "3.17.0" }
@@ -15570,6 +16025,14 @@
       {
         "file": "masterfiles/cfe_internal/enterprise/templates/runalerts.sh.mustache",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/cfe_internal/enterprise/templates/runalerts.sh.mustache",
+        "version": "3.12.0b1"
+      },
+      {
+        "file": "masterfiles/cfe_internal/enterprise/templates/runalerts.sh.mustache",
+        "version": "3.10.0b1"
       }
     ],
     "d2c0ea53b550af9c77e7e07dfee9c1080c32223eeb4a637141f7c797fc4eec7d": [
@@ -15684,7 +16147,11 @@
       { "file": "modules/packages/pkgsrc", "version": "3.10.7" }
     ],
     "d2d8b323cee606339d16eefb9ae288fd6a5821340dbf0983f0c044cc20080199": [
-      { "file": "masterfiles/cfe_internal/update/lib.cf", "version": "3.10.0" }
+      { "file": "masterfiles/cfe_internal/update/lib.cf", "version": "3.10.0" },
+      {
+        "file": "masterfiles/cfe_internal/update/lib.cf",
+        "version": "3.10.0b1"
+      }
     ],
     "d3a074acf8bf496ebcc74366ba260b318a46bba2d6f2052931335ff44e10af54": [
       { "file": "masterfiles/lib/common.cf", "version": "3.16.0" }
@@ -15821,6 +16288,10 @@
       {
         "file": "masterfiles/cfe_internal/enterprise/file_change.cf",
         "version": "3.10.1"
+      },
+      {
+        "file": "masterfiles/cfe_internal/enterprise/file_change.cf",
+        "version": "3.12.0b1"
       }
     ],
     "d55ca0aee411ed32092adb85832d711c0cec20fc4a242d9c9e6055c53a50bf96": [
@@ -15844,7 +16315,8 @@
       { "file": "masterfiles/lib/event.cf", "version": "3.12.2" },
       { "file": "masterfiles/lib/event.cf", "version": "3.12.1" },
       { "file": "masterfiles/lib/event.cf", "version": "3.12.0" },
-      { "file": "masterfiles/lib/event.cf", "version": "3.11.0" }
+      { "file": "masterfiles/lib/event.cf", "version": "3.11.0" },
+      { "file": "masterfiles/lib/event.cf", "version": "3.12.0b1" }
     ],
     "d56ae5b53b29860e068d14734020d582f6f32711121fec583df862cf2730dafb": [
       {
@@ -16038,6 +16510,9 @@
     "d721e35b94dfe23a05a2b0e0728a87cea96ee2e846cd15c4af7f674ea6403b11": [
       { "file": "masterfiles/controls/3.6/update_def.cf", "version": "3.10.1" }
     ],
+    "d7312434a2fd031df38534bb9b3c6b36f93c8fc85b53bd10ad858de829bd9810": [
+      { "file": "masterfiles/promises.cf", "version": "3.12.0b1" }
+    ],
     "d75986a82b2579b8411eccfb4b2aec17bc9f9fcecd5b8c4d23b1c24b71166e83": [
       {
         "file": "masterfiles/cfe_internal/enterprise/main.cf",
@@ -16199,7 +16674,8 @@
     "da77cda477a7230652aaa50418599f9f625051fe8cef2c04cf2a4c3aab7a5f55": [
       { "file": "masterfiles/lib/services.cf", "version": "3.12.0" },
       { "file": "masterfiles/lib/services.cf", "version": "3.10.4" },
-      { "file": "masterfiles/lib/services.cf", "version": "3.10.3" }
+      { "file": "masterfiles/lib/services.cf", "version": "3.10.3" },
+      { "file": "masterfiles/lib/services.cf", "version": "3.12.0b1" }
     ],
     "dab1fdcfbc0c8ed704e33b4cfdfa8666fc0557c99156ca14a28b2318a158bc12": [
       { "file": "masterfiles/promises.cf", "version": "3.18.4" }
@@ -16264,7 +16740,8 @@
     ],
     "dcf58004cedff2ccfbf3fe6d09f2657f0e30f7b980390537ad5ff3295736ca33": [
       { "file": "masterfiles/inventory/any.cf", "version": "3.10.0" },
-      { "file": "masterfiles/inventory/any.cf", "version": "3.9.2" }
+      { "file": "masterfiles/inventory/any.cf", "version": "3.9.2" },
+      { "file": "masterfiles/inventory/any.cf", "version": "3.10.0b1" }
     ],
     "dd16b6c783855153506c000e2810b024b2ac4dea4246abce365522ea87444719": [
       { "file": "masterfiles/lib/paths.cf", "version": "3.17.0" }
@@ -16284,6 +16761,10 @@
       {
         "file": "masterfiles/lib/cfengine_enterprise_hub_ha.cf",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/lib/cfengine_enterprise_hub_ha.cf",
+        "version": "3.10.0b1"
       }
     ],
     "dd477db71a5003b9b03a4b3960314f6273bc439aba956e17abf8bdd19b8db76c": [
@@ -16533,6 +17014,14 @@
       {
         "file": "masterfiles/templates/cf-apache.service.mustache",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/templates/cf-apache.service.mustache",
+        "version": "3.12.0b1"
+      },
+      {
+        "file": "masterfiles/templates/cf-apache.service.mustache",
+        "version": "3.10.0b1"
       }
     ],
     "e00f9fe915c7abe57da155b8805ac7e7fee92525d1d546dce23aecacf4e5fd1e": [
@@ -16588,7 +17077,8 @@
       { "file": "masterfiles/lib/3.6/feature.cf", "version": "3.7.8" },
       { "file": "masterfiles/lib/3.6/feature.cf", "version": "3.7.7" },
       { "file": "masterfiles/lib/3.6/feature.cf", "version": "3.7.6" },
-      { "file": "masterfiles/lib/3.6/feature.cf", "version": "3.7.5" }
+      { "file": "masterfiles/lib/3.6/feature.cf", "version": "3.7.5" },
+      { "file": "masterfiles/lib/3.6/feature.cf", "version": "3.10.0b1" }
     ],
     "e06ae31a9b700092a0949d54972387329a9ebe2d997096e7560d060bbac79dfc": [
       {
@@ -16652,7 +17142,8 @@
       { "file": "masterfiles/lib/3.6/examples.cf", "version": "3.10.1" },
       { "file": "masterfiles/lib/3.6/examples.cf", "version": "3.10.0" },
       { "file": "masterfiles/lib/3.6/examples.cf", "version": "3.9.2" },
-      { "file": "masterfiles/lib/3.6/examples.cf", "version": "3.7.5" }
+      { "file": "masterfiles/lib/3.6/examples.cf", "version": "3.7.5" },
+      { "file": "masterfiles/lib/3.6/examples.cf", "version": "3.10.0b1" }
     ],
     "e1f20fbb8f064d7a6500aa90cdf6aa02f8ac508a881d06c38c8a378f79083829": [
       { "file": "masterfiles/inventory/any.cf", "version": "3.10.3" }
@@ -16935,6 +17426,14 @@
       {
         "file": "masterfiles/templates/cf-postgres.service.mustache",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/templates/cf-postgres.service.mustache",
+        "version": "3.12.0b1"
+      },
+      {
+        "file": "masterfiles/templates/cf-postgres.service.mustache",
+        "version": "3.10.0b1"
       }
     ],
     "e5148d96afb6aae36ec50d88d72556b97fe9e32f8f02cd8675e07c96a4b1e7ac": [
@@ -16942,7 +17441,8 @@
       { "file": "masterfiles/lib/monitor.cf", "version": "3.10.1" },
       { "file": "masterfiles/lib/monitor.cf", "version": "3.10.0" },
       { "file": "masterfiles/lib/monitor.cf", "version": "3.9.2" },
-      { "file": "masterfiles/lib/3.7/monitor.cf", "version": "3.7.5" }
+      { "file": "masterfiles/lib/3.7/monitor.cf", "version": "3.7.5" },
+      { "file": "masterfiles/lib/monitor.cf", "version": "3.10.0b1" }
     ],
     "e52215f4cf31f3bfdfa4a54e84c1cae506642765f8806665137c96e3cd3ee0c8": [
       { "file": "masterfiles/lib/3.7/common.cf", "version": "3.7.8" },
@@ -16970,6 +17470,9 @@
       { "file": "modules/packages/apt_get", "version": "3.10.7" },
       { "file": "modules/packages/apt_get", "version": "3.10.6" },
       { "file": "modules/packages/apt_get", "version": "3.10.5" }
+    ],
+    "e6786bbf824e4475851635d5c23b536a6e79497515311eb53a4846a03dc17276": [
+      { "file": "masterfiles/lib/files.cf", "version": "3.10.0b1" }
     ],
     "e6b281fa21509a408cf0a73ddc89ba01382478366333d9f4be3f254c46919060": [
       { "file": "masterfiles/lib/3.7/cfe_internal_hub.cf", "version": "3.7.8" },
@@ -17233,6 +17736,10 @@
       {
         "file": "masterfiles/lib/cfengine_enterprise_hub_ha.cf",
         "version": "3.10.2"
+      },
+      {
+        "file": "masterfiles/lib/cfengine_enterprise_hub_ha.cf",
+        "version": "3.12.0b1"
       }
     ],
     "ebcd9d1d3bd0d174712a5b978b27e36570485764c99ee156953d43cb1c21178d": [
@@ -17306,7 +17813,9 @@
       { "file": "masterfiles/inventory/generic.cf", "version": "3.7.8" },
       { "file": "masterfiles/inventory/generic.cf", "version": "3.7.7" },
       { "file": "masterfiles/inventory/generic.cf", "version": "3.7.6" },
-      { "file": "masterfiles/inventory/generic.cf", "version": "3.7.5" }
+      { "file": "masterfiles/inventory/generic.cf", "version": "3.7.5" },
+      { "file": "masterfiles/inventory/generic.cf", "version": "3.12.0b1" },
+      { "file": "masterfiles/inventory/generic.cf", "version": "3.10.0b1" }
     ],
     "ed2c3203a689499f7f41c121c31ea62715f4c12c72dd3e599a8a3124d4424739": [
       { "file": "masterfiles/controls/cf_serverd.cf", "version": "3.10.7" }
@@ -17442,6 +17951,10 @@
       {
         "file": "masterfiles/cfe_internal/enterprise/ha/ha_update.cf",
         "version": "3.7.5"
+      },
+      {
+        "file": "masterfiles/cfe_internal/enterprise/ha/ha_update.cf",
+        "version": "3.10.0b1"
       }
     ],
     "efa6dba7e84200ebf187d4717e95ae04c36862773fb2a21da8d1105d02490166": [
@@ -17583,7 +18096,8 @@
       }
     ],
     "f13817141110cac2af7a405877c5a536ed38dd266fa70d65190da886d66ba82f": [
-      { "file": "masterfiles/controls/def.cf", "version": "3.9.2" }
+      { "file": "masterfiles/controls/def.cf", "version": "3.9.2" },
+      { "file": "masterfiles/controls/def.cf", "version": "3.10.0b1" }
     ],
     "f14d074c15e7282ba57720b21c89a081b20e0aa0ce39a6553ebe3b3a183d61c9": [
       { "file": "masterfiles/controls/def.cf", "version": "3.18.2" }
@@ -17636,7 +18150,8 @@
       { "file": "masterfiles/controls/reports.cf", "version": "3.12.3" },
       { "file": "masterfiles/controls/reports.cf", "version": "3.12.2" },
       { "file": "masterfiles/controls/reports.cf", "version": "3.12.1" },
-      { "file": "masterfiles/controls/reports.cf", "version": "3.12.0" }
+      { "file": "masterfiles/controls/reports.cf", "version": "3.12.0" },
+      { "file": "masterfiles/controls/reports.cf", "version": "3.12.0b1" }
     ],
     "f2ac2d2bb6169416b122085a929636c063cfa06c59bcb59c7c9b40a658074c68": [
       { "file": "masterfiles/lib/packages.cf", "version": "3.10.7" }
@@ -17690,6 +18205,14 @@
       {
         "file": "masterfiles/cfe_internal/enterprise/templates/runalerts.php.mustache",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/cfe_internal/enterprise/templates/runalerts.php.mustache",
+        "version": "3.12.0b1"
+      },
+      {
+        "file": "masterfiles/cfe_internal/enterprise/templates/runalerts.php.mustache",
+        "version": "3.10.0b1"
       }
     ],
     "f44eaa65245a6f2465a60114d10feca2509a84f2d60c73875f4d18025f44381c": [
@@ -17800,7 +18323,9 @@
       { "file": "masterfiles/lib/3.7/autorun.cf", "version": "3.7.8" },
       { "file": "masterfiles/lib/3.7/autorun.cf", "version": "3.7.7" },
       { "file": "masterfiles/lib/3.7/autorun.cf", "version": "3.7.6" },
-      { "file": "masterfiles/lib/3.7/autorun.cf", "version": "3.7.5" }
+      { "file": "masterfiles/lib/3.7/autorun.cf", "version": "3.7.5" },
+      { "file": "masterfiles/lib/autorun.cf", "version": "3.12.0b1" },
+      { "file": "masterfiles/lib/autorun.cf", "version": "3.10.0b1" }
     ],
     "f6a3e3d6b3d4648d089991903f139b7117f8f26cceac8dfbd55d56e8fe62552d": [
       { "file": "masterfiles/lib/cfe_internal_hub.cf", "version": "3.15.0b1" }
@@ -17902,7 +18427,8 @@
       { "file": "masterfiles/lib/3.6/users.cf", "version": "3.10.1" },
       { "file": "masterfiles/lib/3.6/users.cf", "version": "3.10.0" },
       { "file": "masterfiles/lib/3.6/users.cf", "version": "3.9.2" },
-      { "file": "masterfiles/lib/3.6/users.cf", "version": "3.7.5" }
+      { "file": "masterfiles/lib/3.6/users.cf", "version": "3.7.5" },
+      { "file": "masterfiles/lib/3.6/users.cf", "version": "3.10.0b1" }
     ],
     "f84f4032c86dc1657caf7ea8e4f6c61eef18fa31317a94df47b5ce119a9c75d7": [
       { "file": "masterfiles/controls/def.cf", "version": "3.12.0" }
@@ -18017,7 +18543,13 @@
       { "file": "masterfiles/controls/3.7/def_inputs.cf", "version": "3.7.6" },
       { "file": "masterfiles/controls/3.6/def_inputs.cf", "version": "3.7.6" },
       { "file": "masterfiles/controls/3.7/def_inputs.cf", "version": "3.7.5" },
-      { "file": "masterfiles/controls/3.6/def_inputs.cf", "version": "3.7.5" }
+      { "file": "masterfiles/controls/3.6/def_inputs.cf", "version": "3.7.5" },
+      { "file": "masterfiles/controls/def_inputs.cf", "version": "3.12.0b1" },
+      { "file": "masterfiles/controls/def_inputs.cf", "version": "3.10.0b1" },
+      {
+        "file": "masterfiles/controls/3.6/def_inputs.cf",
+        "version": "3.10.0b1"
+      }
     ],
     "f97168396d6c9f26ce4c641ea91188ab4a72de5a819267b5c945f9edf07571c2": [
       { "file": "masterfiles/lib/templates/tap.mustache", "version": "3.24.0" },
@@ -18090,6 +18622,10 @@
       {
         "file": "masterfiles/templates/cf-hub.service.mustache",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/templates/cf-hub.service.mustache",
+        "version": "3.10.0b1"
       }
     ],
     "fa0374380c3b0160cc43d14ab882f89c21146f6eda52f6ab8d3d3e5a7b25626c": [
@@ -18425,6 +18961,10 @@
       {
         "file": "masterfiles/cfe_internal/core/host_info_report.cf",
         "version": "3.12.0"
+      },
+      {
+        "file": "masterfiles/cfe_internal/core/host_info_report.cf",
+        "version": "3.12.0b1"
       }
     ],
     "fb2f77fe00296ce8788b580b581a8600a8aa0376cd105676473c53d4c494df8e": [
@@ -18488,6 +19028,9 @@
         "file": "masterfiles/cfe_internal/core/watchdog/templates/watchdog.mustache",
         "version": "3.18.2"
       }
+    ],
+    "fb34007afa35e7be7b40a535bb0b434dd2aa853288554fb3123eb2b27931cc68": [
+      { "file": "masterfiles/controls/update_def.cf", "version": "3.10.0b1" }
     ],
     "fb65b516881137067d36f427fea3d4b8fb8c59a49ca58bb69b3ac2290860cd09": [
       {
@@ -18555,7 +19098,8 @@
       { "file": "masterfiles/lib/edit_xml.cf", "version": "3.10.2" },
       { "file": "masterfiles/lib/3.7/edit_xml.cf", "version": "3.7.8" },
       { "file": "masterfiles/lib/3.7/edit_xml.cf", "version": "3.7.7" },
-      { "file": "masterfiles/lib/3.7/edit_xml.cf", "version": "3.7.6" }
+      { "file": "masterfiles/lib/3.7/edit_xml.cf", "version": "3.7.6" },
+      { "file": "masterfiles/lib/edit_xml.cf", "version": "3.12.0b1" }
     ],
     "fd8248b64f086ddc9ce85386d8780c3cb36da36102f417504f3ae03eb43e2e62": [
       {
@@ -18578,7 +19122,8 @@
       { "file": "masterfiles/controls/3.6/def.cf", "version": "3.7.8" },
       { "file": "masterfiles/controls/3.6/def.cf", "version": "3.7.7" },
       { "file": "masterfiles/controls/3.6/def.cf", "version": "3.7.6" },
-      { "file": "masterfiles/controls/3.6/def.cf", "version": "3.7.5" }
+      { "file": "masterfiles/controls/3.6/def.cf", "version": "3.7.5" },
+      { "file": "masterfiles/controls/3.6/def.cf", "version": "3.10.0b1" }
     ],
     "fdd3ec79a5469bfe6831472035511229cce7d6713dc4a1bb5747864715e30ee1": [
       {
@@ -18597,7 +19142,8 @@
     "fdf882d98f9bbc3aff1bf07943604dfc89e0b1c8b40677e3ee966087c86652ba": [
       { "file": "masterfiles/lib/processes.cf", "version": "3.11.0b1" },
       { "file": "masterfiles/lib/processes.cf", "version": "3.10.1" },
-      { "file": "masterfiles/lib/processes.cf", "version": "3.10.0" }
+      { "file": "masterfiles/lib/processes.cf", "version": "3.10.0" },
+      { "file": "masterfiles/lib/processes.cf", "version": "3.10.0b1" }
     ],
     "fe2f1fe02b58fa2c76d7fb40380f78002db7c94f32cc6d161ee78c2ee8dbd4e1": [
       { "file": "masterfiles/controls/3.6/update_def.cf", "version": "3.10.3" }
@@ -18623,7 +19169,8 @@
       { "file": "masterfiles/lib/files.cf", "version": "3.21.0" }
     ],
     "ff55b372f762277f4ec002fd906f543b2e7d4d9e8cbeb0ff63cb27daeb402508": [
-      { "file": "masterfiles/lib/cfe_internal_hub.cf", "version": "3.12.0" }
+      { "file": "masterfiles/lib/cfe_internal_hub.cf", "version": "3.12.0" },
+      { "file": "masterfiles/lib/cfe_internal_hub.cf", "version": "3.12.0b1" }
     ],
     "ff7699c7f798a2699ba1c7136c246ef8e240f47e2df9376b2381f052399337d1": [
       {
@@ -18681,6 +19228,14 @@
       {
         "file": "masterfiles/cfe_internal/enterprise/ha/ha.cf",
         "version": "3.10.0"
+      },
+      {
+        "file": "masterfiles/cfe_internal/enterprise/ha/ha.cf",
+        "version": "3.12.0b1"
+      },
+      {
+        "file": "masterfiles/cfe_internal/enterprise/ha/ha.cf",
+        "version": "3.10.0b1"
       }
     ],
     "ffc2f13c217e8b50bfffb66e7d8e4515f558b827a1c5a2169ee2e28f9ddf985f": [

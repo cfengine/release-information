@@ -302,6 +302,14 @@
       {
         "checksum": "fd1cf7a4cd7491a005d92a185dba2cc94d9e7e89fabba0233224061ab9518682",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "1e9784e5934dcadc1fc8844bf7176c46c6188ecf365dd235e88b291e3044beb2",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "1e9784e5934dcadc1fc8844bf7176c46c6188ecf365dd235e88b291e3044beb2",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/core/deprecated/cfengine_processes.cf": [
@@ -528,6 +536,14 @@
       {
         "checksum": "a023bf9efeaf92fcec450cb13b0270b16902c9b0d3e6098b98273f6d61ff94d1",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "63fa1e07c06ad0b11d5b6386250630fe925e89a8567429230a5aa6e5715a905f",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "a023bf9efeaf92fcec450cb13b0270b16902c9b0d3e6098b98273f6d61ff94d1",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/core/host_info_report.cf": [
@@ -754,6 +770,14 @@
       {
         "checksum": "1d6c806d1052f08bba7c053e97e5ba43dc0f9ce39765b13abb9659089d02d794",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "fb1c3f026553b4b03e41b3686f67fc62518a418792e6da07dcdeef8917754054",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "1d6c806d1052f08bba7c053e97e5ba43dc0f9ce39765b13abb9659089d02d794",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/core/limit_robot_agents.cf": [
@@ -980,6 +1004,14 @@
       {
         "checksum": "696d24ade7d360f3ed7596686daa556bcc8359e5ef12ecdfe3183895c898237e",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "696d24ade7d360f3ed7596686daa556bcc8359e5ef12ecdfe3183895c898237e",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "696d24ade7d360f3ed7596686daa556bcc8359e5ef12ecdfe3183895c898237e",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/core/log_rotation.cf": [
@@ -1206,6 +1238,14 @@
       {
         "checksum": "4fe861ec8cc5b2954fa3626cc5e8961e467fd9a23df60026a491875a5fc0e5e0",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "1d80835c814fd81b878d1086b0005a98de8ea21f901a62e4263df62958d4feab",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "958318ae44e0a84901c1563a827ba6493aaceaccf22eb7ffb02b60a048271139",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/core/main.cf": [
@@ -1432,6 +1472,14 @@
       {
         "checksum": "2db6c4e6741b43d543ef166e92fb525f144793fff46bd896a939943790b4bb87",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "1af3a877f3dffe67e474dfd1d9aadac5ffa077a31192269692e0c010f8bf43e1",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "09fcb25f9badd7a216a8c5bd92ba470b6a540a9fdcebb2efc2093fc885669231",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/core/watchdog/templates/watchdog-windows.ps1.mustache": [
@@ -1910,6 +1958,14 @@
       {
         "checksum": "576b73975651d609db9edffc96944bf5c2c4679cf18bf58a965d39d2a3eebd94",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "3a0a0166b2b03b97fdfc171a498da10aa1cec108fe8b585e0e1c1a8e8e9ae758",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "3a0a0166b2b03b97fdfc171a498da10aa1cec108fe8b585e0e1c1a8e8e9ae758",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/enterprise/CFE_hub_specific.cf": [
@@ -2136,6 +2192,14 @@
       {
         "checksum": "34f49e759800bcbc1d8ea9e8438646a406f46f1d035d8a6e7912eb76b7c6c663",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "af018aedb8700262f4d6ea579e3354091dbc8665c4112dc8a071ad9f573cc11d",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "76d10b58af4096b55f00760a6461128aee0eef6f88763ef13f96feaff379aa55",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/enterprise/CFE_knowledge.cf": [
@@ -2362,6 +2426,14 @@
       {
         "checksum": "4bb115c45707b66a27735bc4e605866c566260dae128ef2d68582df8a0ba7b67",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "113d417ac3f112ea92760bc701c6bbf196bc2b0f367dd399f3b16642b924a429",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "46ac6ba62588be74a1badb7f52ce0feb43342ada79ed54aaff7df06a5a1d645a",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/enterprise/federation/federation.cf": [
@@ -2738,6 +2810,14 @@
       {
         "checksum": "ad3b2cd4b1ee05428e740d8df8561b9b4f4551c8da2cf5c7a93c0a86222a4f43",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "d52e341b47d2c8795d1165eb0d823fafa317035da661d2ffe5fdadcc263f8c16",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "ad3b2cd4b1ee05428e740d8df8561b9b4f4551c8da2cf5c7a93c0a86222a4f43",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/enterprise/ha/ha.cf": [
@@ -2964,6 +3044,14 @@
       {
         "checksum": "4e5df8287fa1ba3a67d2947a1f906275ac8a2320a66528341d98d15021178817",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "ff7699c7f798a2699ba1c7136c246ef8e240f47e2df9376b2381f052399337d1",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "ff7699c7f798a2699ba1c7136c246ef8e240f47e2df9376b2381f052399337d1",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/enterprise/ha/ha_def.cf": [
@@ -3190,6 +3278,14 @@
       {
         "checksum": "487427eb98feb69a725f8617eb8f6580dd73c3aca05d4ae59ac381f37e96b346",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "487427eb98feb69a725f8617eb8f6580dd73c3aca05d4ae59ac381f37e96b346",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "487427eb98feb69a725f8617eb8f6580dd73c3aca05d4ae59ac381f37e96b346",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/enterprise/ha/ha_update.cf": [
@@ -3416,6 +3512,14 @@
       {
         "checksum": "ef5d758a0207c71643dfd02bcd2a76c8e7080e026f9be9b3102effef173a0a80",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "7ff628e8d0d90a2889db18db8ed93603c5ad569b4678c971e3a8b7afe9bc1651",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "ef5d758a0207c71643dfd02bcd2a76c8e7080e026f9be9b3102effef173a0a80",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/enterprise/main.cf": [
@@ -3642,6 +3746,14 @@
       {
         "checksum": "125a33bd27bfcee1a25fc7387fca52be3046755c9348633123f0585d5a6a588d",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "5e7454f743335bb85bda165de13eac4efc6758a2c3288fffc04611aadc788046",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "26e01d8d32392cdc31d76888a283dd44e5320144c096ff43cf6c1b7ea9f9700d",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/enterprise/mission_portal.cf": [
@@ -3852,6 +3964,14 @@
       {
         "checksum": "6c3ac04cc77692274d68bc45e53179511a5ec30384199a7528e321406e778d1b",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "85f28140b42212e3d0696d99fe96778069e7c125b4c5cc6544a67e523d1fca9c",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "84dd1f8beb787b104f546b4cf09c986bae4957baf23036bd28ce3e38edcf1daf",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/enterprise/templates/apachectl.mustache": [
@@ -4140,6 +4260,14 @@
       {
         "checksum": "d89755b5227d875ac6d979ca93fdae86f5f3f3442d9d8889741a4e8f09f0c715",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "b2239ec4fd11140e5352f4e9ea399789537f22c04ed1986c4dd9befad006c75d",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "1eb48fb04745266778f31cc5206cec0cf59f98e01f364ff34d9733ae3c8f5eb4",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/enterprise/templates/runalerts.php.mustache": [
@@ -4346,6 +4474,14 @@
       {
         "checksum": "f329580a3bab705662fe63ada56ca792967fee49c731c0b88d081faff7869e7d",
         "version": "3.10.0"
+      },
+      {
+        "checksum": "f329580a3bab705662fe63ada56ca792967fee49c731c0b88d081faff7869e7d",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "f329580a3bab705662fe63ada56ca792967fee49c731c0b88d081faff7869e7d",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/enterprise/templates/runalerts.sh.mustache": [
@@ -4552,6 +4688,14 @@
       {
         "checksum": "d2be401e31a88941a43c1c8d721a2ee5c993e12422da991b3a5e49c0e6ca2d6e",
         "version": "3.10.0"
+      },
+      {
+        "checksum": "d2be401e31a88941a43c1c8d721a2ee5c993e12422da991b3a5e49c0e6ca2d6e",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "d2be401e31a88941a43c1c8d721a2ee5c993e12422da991b3a5e49c0e6ca2d6e",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/recommendations.cf": [
@@ -4940,6 +5084,14 @@
       {
         "checksum": "ac90dc71d6a6938acbc426679dd2963e04ea8f3a4655d7c6f83a7c6936f7cad1",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "ac90dc71d6a6938acbc426679dd2963e04ea8f3a4655d7c6f83a7c6936f7cad1",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "ac90dc71d6a6938acbc426679dd2963e04ea8f3a4655d7c6f83a7c6936f7cad1",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/update/cfe_internal_local_git_remote.cf": [
@@ -5034,6 +5186,14 @@
       {
         "checksum": "a9302a5bb2ba7c93f4e6a20eb3b11a634f7618752cc1d11addaee243f0865c33",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "896e11a862d93de458fce763ddd809e246788d799ab3c23463cf275575127786",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "896e11a862d93de458fce763ddd809e246788d799ab3c23463cf275575127786",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/update/cfe_internal_update_from_repository.cf": [
@@ -5260,6 +5420,14 @@
       {
         "checksum": "b8dd3d1d75f93e16b43b9056088f71bc19201b809dda8f6da033e2d2cbfe252e",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "10c50cd8634c11bbdcbb92ef4c7c6b49f0dc986fc89e9d4def170f024ec49ae8",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "10c50cd8634c11bbdcbb92ef4c7c6b49f0dc986fc89e9d4def170f024ec49ae8",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/update/lib.cf": [
@@ -5466,6 +5634,14 @@
       {
         "checksum": "d2d8b323cee606339d16eefb9ae288fd6a5821340dbf0983f0c044cc20080199",
         "version": "3.10.0"
+      },
+      {
+        "checksum": "6b93f647c5b1e65f095bdd1ee8b3191abfae2ef5d9d202823af1be29fb6c341d",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "d2d8b323cee606339d16eefb9ae288fd6a5821340dbf0983f0c044cc20080199",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/update/systemd_units.cf": [
@@ -5672,6 +5848,14 @@
       {
         "checksum": "b70cfe0f77a9811008af181cc8d2a84e3d962b0128958e917770ba32c4ba0dab",
         "version": "3.10.0"
+      },
+      {
+        "checksum": "b70cfe0f77a9811008af181cc8d2a84e3d962b0128958e917770ba32c4ba0dab",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "b70cfe0f77a9811008af181cc8d2a84e3d962b0128958e917770ba32c4ba0dab",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/update/update_bins.cf": [
@@ -5898,6 +6082,14 @@
       {
         "checksum": "8459bdf07d5c78e4ea0c1d8a1f68085e87d03911fb09124472ee113a52fd0ac9",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "1dc4ad0bd0a847d17b0f23bf95ca6f9489185087722894beb0f3aca1ba980e7d",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "45bbd9d2bb6f716c721f83a1c8b345d4291b55d1e216b179ddd55fb6fb7d7aeb",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/update/update_policy.cf": [
@@ -6124,6 +6316,14 @@
       {
         "checksum": "eaba5d508f02929f621a7327db8693af5d732076506670aaf72ae0c7a609ffbc",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "0da0ff28aff57ae50db25e156d0698a084771fad56af58cec9c9852876a9dc82",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "7409b42b29f5fad7bc5e4903b07fbab619284decc18d263c6c3354915e1726fc",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/update/update_processes.cf": [
@@ -6350,6 +6550,14 @@
       {
         "checksum": "fa5b6af43651e697c7202f8955949c16bbf72c27fdbee3464854d9d48b7e4365",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "bda4034f045be513d7cadf7d2c345be72db9b597da8c191898ae7be99e09e6a2",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "952b1d19a0bf532bf41067624323a870b94910059617ad9ac559e3750941913b",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/cfe_internal/update/windows_unattended_upgrade.cf": [
@@ -6712,6 +6920,10 @@
       {
         "checksum": "1870158a3ad81ce33d96a05744a03772607ccf83cc776cba12f301a9b4a19f89",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "1870158a3ad81ce33d96a05744a03772607ccf83cc776cba12f301a9b4a19f89",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/controls/3.6/cf_execd.cf": [
@@ -6774,6 +6986,10 @@
       {
         "checksum": "6021857140b2d90a512984d121a07daef204ee7ca47d697d11655c3fb23a01d9",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "6e290d8db97ab3f132caccb7ec2ebd5c5aff680aab56c8151119a65fc7de6eec",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/controls/3.6/cf_hub.cf": [
@@ -6836,6 +7052,10 @@
       {
         "checksum": "b1f6b71db69aa27af63204a3e075769967a67fac4ccefa53d2852695f2344ee9",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "4ebd1aeb4074b70e27d8208a48c91bdf5af85df8a117256b44cfcf8127ef4882",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/controls/3.6/cf_monitord.cf": [
@@ -6898,6 +7118,10 @@
       {
         "checksum": "caaac5812f325e4ab0bbbc1d38eb278ba178102e1ae02548c9aebffa88d6f8f9",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "caaac5812f325e4ab0bbbc1d38eb278ba178102e1ae02548c9aebffa88d6f8f9",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/controls/3.6/cf_runagent.cf": [
@@ -6960,6 +7184,10 @@
       {
         "checksum": "65b3222ff790d85e878de55e2a0377952cb9b3b6397d1f8334dc51bb6d3eeb27",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "65b3222ff790d85e878de55e2a0377952cb9b3b6397d1f8334dc51bb6d3eeb27",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/controls/3.6/cf_serverd.cf": [
@@ -7022,6 +7250,10 @@
       {
         "checksum": "3e8522597816addbf6b3b044c8dceb5b893abaf72c64e7ba47945f8495be49f9",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "13bd9a29540c6de8ae5b9a49aba0656ccc939b0bb6fbb187ae91fdfab11b030c",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/controls/3.6/def.cf": [
@@ -7084,6 +7316,10 @@
       {
         "checksum": "fda85fd9b882f8e434469ff0e519d70b9e58ecbe4771a3132424c62f15e2d58b",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "fda85fd9b882f8e434469ff0e519d70b9e58ecbe4771a3132424c62f15e2d58b",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/controls/3.6/def_inputs.cf": [
@@ -7146,6 +7382,10 @@
       {
         "checksum": "f9682b4067c554d239b2809c6c3ca1bd0699f60c853bb954bc46a72b5e80aeea",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "f9682b4067c554d239b2809c6c3ca1bd0699f60c853bb954bc46a72b5e80aeea",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/controls/3.6/reports.cf": [
@@ -7208,6 +7448,10 @@
       {
         "checksum": "72e17cf8234061a4a7225c8ee4b17551c1a8dc10d7806693451598e4e4efcc20",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "72e17cf8234061a4a7225c8ee4b17551c1a8dc10d7806693451598e4e4efcc20",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/controls/3.6/update_def.cf": [
@@ -7270,6 +7514,10 @@
       {
         "checksum": "da4f1c59e266247daae977cdb9fd565273f74dab4cfe5ad77c2f4e03c6f4a833",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "0f6958e5cbc1159cb53693230f0eaef4c4be667056fa8d183fd5b01e79f46b54",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/controls/3.6/update_def_inputs.cf": [
@@ -7332,6 +7580,10 @@
       {
         "checksum": "334c777ae1e1c5fdbc9cdc9fc4272474ec72975efea43d6cf126e6962e216367",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "334c777ae1e1c5fdbc9cdc9fc4272474ec72975efea43d6cf126e6962e216367",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/controls/3.7/cf_agent.cf": [
@@ -7740,6 +7992,14 @@
       {
         "checksum": "127d7769d749e0c9c013da749e54bc8ab7de6a300becc0c1774eee38cd7458a7",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "0e95435627521faed0c27e779c876f6de23d4b4130691501112e61862775a1cb",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "127d7769d749e0c9c013da749e54bc8ab7de6a300becc0c1774eee38cd7458a7",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/controls/cf_execd.cf": [
@@ -7950,6 +8210,14 @@
       {
         "checksum": "b80bc5053fe081f07b66b0c3c05318e848aa3d32590532fa701f17ce9e8e5edb",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "984506367651642c4045c17d4b1a3c5a24e2e80045b5448f92ba6ae75be4856f",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "b80bc5053fe081f07b66b0c3c05318e848aa3d32590532fa701f17ce9e8e5edb",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/controls/cf_hub.cf": [
@@ -8160,6 +8428,14 @@
       {
         "checksum": "b1f6b71db69aa27af63204a3e075769967a67fac4ccefa53d2852695f2344ee9",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "11c40222f7c800e373ffb3e81b11fd7fd5aa8e7978daba34bf13ab85a74d468a",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "4ebd1aeb4074b70e27d8208a48c91bdf5af85df8a117256b44cfcf8127ef4882",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/controls/cf_monitord.cf": [
@@ -8370,6 +8646,14 @@
       {
         "checksum": "caaac5812f325e4ab0bbbc1d38eb278ba178102e1ae02548c9aebffa88d6f8f9",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "caaac5812f325e4ab0bbbc1d38eb278ba178102e1ae02548c9aebffa88d6f8f9",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "caaac5812f325e4ab0bbbc1d38eb278ba178102e1ae02548c9aebffa88d6f8f9",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/controls/cf_runagent.cf": [
@@ -8580,6 +8864,14 @@
       {
         "checksum": "65b3222ff790d85e878de55e2a0377952cb9b3b6397d1f8334dc51bb6d3eeb27",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "65b3222ff790d85e878de55e2a0377952cb9b3b6397d1f8334dc51bb6d3eeb27",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "65b3222ff790d85e878de55e2a0377952cb9b3b6397d1f8334dc51bb6d3eeb27",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/controls/cf_serverd.cf": [
@@ -8790,6 +9082,14 @@
       {
         "checksum": "2db9a7126d3dab2f3173badc9c2fd150f94aa1448ce372961ea6d8bfd241f2b4",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "3999340c37167fa6558dcd3c544a5bce6c866e041aeb4803605be037bae07ffc",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "2db9a7126d3dab2f3173badc9c2fd150f94aa1448ce372961ea6d8bfd241f2b4",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/controls/def.cf": [
@@ -9000,6 +9300,14 @@
       {
         "checksum": "f13817141110cac2af7a405877c5a536ed38dd266fa70d65190da886d66ba82f",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "26309838acfd88e5128cd955da1d9f9686218b7191d29a993c429c9845c67b01",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "f13817141110cac2af7a405877c5a536ed38dd266fa70d65190da886d66ba82f",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/controls/def_inputs.cf": [
@@ -9210,6 +9518,14 @@
       {
         "checksum": "f9682b4067c554d239b2809c6c3ca1bd0699f60c853bb954bc46a72b5e80aeea",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "f9682b4067c554d239b2809c6c3ca1bd0699f60c853bb954bc46a72b5e80aeea",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "f9682b4067c554d239b2809c6c3ca1bd0699f60c853bb954bc46a72b5e80aeea",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/controls/reports.cf": [
@@ -9420,6 +9736,14 @@
       {
         "checksum": "72e17cf8234061a4a7225c8ee4b17551c1a8dc10d7806693451598e4e4efcc20",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "f23f45b6023f0836817cc573683ae7ddd0774dbc281e86dbf8074b896c2e84ac",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "72e17cf8234061a4a7225c8ee4b17551c1a8dc10d7806693451598e4e4efcc20",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/controls/update_def.cf": [
@@ -9630,6 +9954,14 @@
       {
         "checksum": "4f4c43716d62c280cf5d26a231f177917d5f59faf258266d1e8e3ca3c43f0b5d",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "b1e79f09285f12f739adb7b68a763c90f78efa910aa275490165472ede73e983",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "fb34007afa35e7be7b40a535bb0b434dd2aa853288554fb3123eb2b27931cc68",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/controls/update_def_inputs.cf": [
@@ -9840,6 +10172,14 @@
       {
         "checksum": "7559af49fa2b95753fb5239765a1023bb523fca831443e0c74c929e81940cad9",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "7559af49fa2b95753fb5239765a1023bb523fca831443e0c74c929e81940cad9",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "7559af49fa2b95753fb5239765a1023bb523fca831443e0c74c929e81940cad9",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/inventory/aix.cf": [
@@ -10050,6 +10390,10 @@
       {
         "checksum": "fc3fedc5d3f35fd19cacfbaf6eaa42e932a069d4e41869eb961dd4b0e960de30",
         "version": "3.7.6"
+      },
+      {
+        "checksum": "21f288c04daab68f2c4a04c657b4703216cb2bac9227890c0e0f9a5e1e6318f0",
+        "version": "3.12.0b1"
       }
     ],
     "masterfiles/inventory/any.cf": [
@@ -10276,6 +10620,14 @@
       {
         "checksum": "cfce76470af01cd2353d451fbfb445a1cd5f10252c9fa755233f49a9da84ad9c",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "88db6cf6a6c9d1a16d3a1136e967cd3d076d41eef67223c7c1179a57edc21e19",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "dcf58004cedff2ccfbf3fe6d09f2657f0e30f7b980390537ad5ff3295736ca33",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/inventory/debian.cf": [
@@ -10502,6 +10854,14 @@
       {
         "checksum": "bd8d69eab571d5b27310c225dd646b1bd9c9e697d9b35f68cc0e7c335f063aaf",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "bd8d69eab571d5b27310c225dd646b1bd9c9e697d9b35f68cc0e7c335f063aaf",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "bd8d69eab571d5b27310c225dd646b1bd9c9e697d9b35f68cc0e7c335f063aaf",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/inventory/freebsd.cf": [
@@ -10728,6 +11088,14 @@
       {
         "checksum": "9e71b98fe4eae140fc88889d7edd6c596b15279b7a3f798b17d4feac1068d200",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "9e71b98fe4eae140fc88889d7edd6c596b15279b7a3f798b17d4feac1068d200",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "9e71b98fe4eae140fc88889d7edd6c596b15279b7a3f798b17d4feac1068d200",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/inventory/generic.cf": [
@@ -10954,6 +11322,14 @@
       {
         "checksum": "ec8a8e6cf23ad96bcd6fa047e1053f72131884c474c93d6f274bf4cfadaaf92b",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "ec8a8e6cf23ad96bcd6fa047e1053f72131884c474c93d6f274bf4cfadaaf92b",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "ec8a8e6cf23ad96bcd6fa047e1053f72131884c474c93d6f274bf4cfadaaf92b",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/inventory/linux.cf": [
@@ -11180,6 +11556,14 @@
       {
         "checksum": "1bdcb71679382e85bf899d16512c43148d27cf967f0d6c2bbfa26ed6c14d5f38",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "b4f99cf59762d922884cc026e34467240fca3038052c27ed71dc4190f6dd024b",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "b4f99cf59762d922884cc026e34467240fca3038052c27ed71dc4190f6dd024b",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/inventory/lsb.cf": [
@@ -11406,6 +11790,14 @@
       {
         "checksum": "51477d633295a351ebd6bd33fc547b1103f96415eae6e058d54ba456486663a5",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "51477d633295a351ebd6bd33fc547b1103f96415eae6e058d54ba456486663a5",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "51477d633295a351ebd6bd33fc547b1103f96415eae6e058d54ba456486663a5",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/inventory/macos.cf": [
@@ -11632,6 +12024,14 @@
       {
         "checksum": "bbf430580ab1d4ef08effe1ad940224237d46f84aadee18f1430caabb488f427",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "bbf430580ab1d4ef08effe1ad940224237d46f84aadee18f1430caabb488f427",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "bbf430580ab1d4ef08effe1ad940224237d46f84aadee18f1430caabb488f427",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/inventory/os.cf": [
@@ -11858,6 +12258,14 @@
       {
         "checksum": "5c97c6c2e7c20d284abbbc926dc34ab4e7fd49baeb9be8b9f841f902e0277651",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "5c97c6c2e7c20d284abbbc926dc34ab4e7fd49baeb9be8b9f841f902e0277651",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "5c97c6c2e7c20d284abbbc926dc34ab4e7fd49baeb9be8b9f841f902e0277651",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/inventory/redhat.cf": [
@@ -12084,6 +12492,14 @@
       {
         "checksum": "c26dd7ec45db17e63b14985cd4914f9356db8e0a6cc9607c62590b9a82dc185b",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "b1133b77ccb6fa99fe0121894125222d0f0a38f21a041b48b466fd97e09e6d4f",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "c26dd7ec45db17e63b14985cd4914f9356db8e0a6cc9607c62590b9a82dc185b",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/inventory/suse.cf": [
@@ -12310,6 +12726,14 @@
       {
         "checksum": "8febf387d95c7a557c3ce11c2a017389b6517a4b00e13c362e436c22e0a78df9",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "8febf387d95c7a557c3ce11c2a017389b6517a4b00e13c362e436c22e0a78df9",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "8febf387d95c7a557c3ce11c2a017389b6517a4b00e13c362e436c22e0a78df9",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/inventory/windows.cf": [
@@ -12536,6 +12960,14 @@
       {
         "checksum": "2245c1c9a799eb8926da249e52f63562fbada7cc6bad5d00de41866b69a00bb0",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "2245c1c9a799eb8926da249e52f63562fbada7cc6bad5d00de41866b69a00bb0",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "2245c1c9a799eb8926da249e52f63562fbada7cc6bad5d00de41866b69a00bb0",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.5/bundles.cf": [
@@ -12850,6 +13282,10 @@
       {
         "checksum": "4b5f97ff7646113ed254f6e5038f96d867cc38d250130b3a48dbe08c7ff15ecc",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "4b5f97ff7646113ed254f6e5038f96d867cc38d250130b3a48dbe08c7ff15ecc",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.6/bundles.cf": [
@@ -12912,6 +13348,10 @@
       {
         "checksum": "135f9c4f1ad447e9c767815d25b65e061e5dce9b9258e06fea52742e3acf7a0d",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "135f9c4f1ad447e9c767815d25b65e061e5dce9b9258e06fea52742e3acf7a0d",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.6/cfe_internal.cf": [
@@ -12974,6 +13414,10 @@
       {
         "checksum": "66452ed76a2319eb3c17de636169ceafc9dabf7e8ed6749ae552d549eeb6bbc1",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "66452ed76a2319eb3c17de636169ceafc9dabf7e8ed6749ae552d549eeb6bbc1",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.6/cfe_internal_hub.cf": [
@@ -13036,6 +13480,10 @@
       {
         "checksum": "bd0dd26667025da35bd7338fe47e73d4fc6b0c7e410605f8168515bb49e1fd6b",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "82a7870115a62d63ad7e58513d4ce99d6a15f4a924949818d3345988e5ee85f0",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.6/cfengine_enterprise_hub_ha.cf": [
@@ -13098,6 +13546,10 @@
       {
         "checksum": "1dd4fd950c8f00ba3636f1e62a1e054c49af8e5c1d549afb576d6afab2728387",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "1dd4fd950c8f00ba3636f1e62a1e054c49af8e5c1d549afb576d6afab2728387",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.6/commands.cf": [
@@ -13160,6 +13612,10 @@
       {
         "checksum": "576cd42252d82c0b2e9a27521886def733af9ca2dbe789763bc6ea72ad3484c8",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "576cd42252d82c0b2e9a27521886def733af9ca2dbe789763bc6ea72ad3484c8",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.6/common.cf": [
@@ -13222,6 +13678,10 @@
       {
         "checksum": "6220d97fd959bb06a2ced5e73b2b55a6b782168b4592f9792063215e0ddb7fea",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "8c26a8170e7d4613612cfdb72d0857f1cf5bac38f5de1b6dd6bbe38b97324511",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.6/databases.cf": [
@@ -13284,6 +13744,10 @@
       {
         "checksum": "3677a5353df50f9c4ea53f72580bd1a340fdaa534d1a239eba24f7f993ebc483",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "3677a5353df50f9c4ea53f72580bd1a340fdaa534d1a239eba24f7f993ebc483",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.6/edit_xml.cf": [
@@ -13346,6 +13810,10 @@
       {
         "checksum": "af744b1729eb5af91cbda01be29828d4abbb015ea30606de2c0f09fbc61b4b95",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "af744b1729eb5af91cbda01be29828d4abbb015ea30606de2c0f09fbc61b4b95",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.6/examples.cf": [
@@ -13408,6 +13876,10 @@
       {
         "checksum": "e1eb362a032a27cfc4e496de0d1fad881e5154aed7e67243580535a3eae6569f",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "e1eb362a032a27cfc4e496de0d1fad881e5154aed7e67243580535a3eae6569f",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.6/feature.cf": [
@@ -13470,6 +13942,10 @@
       {
         "checksum": "e06729bd1223b1400b33001e38dbc840d26c2261695f0251d072a69eb51bf8ed",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "e06729bd1223b1400b33001e38dbc840d26c2261695f0251d072a69eb51bf8ed",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.6/files.cf": [
@@ -13532,6 +14008,10 @@
       {
         "checksum": "4585c6dc906a7aafb3568065efbd07cb3eb96bc9679b4c8254262ab484270ee4",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "a21c242458d50aacfcc8b6e0d7a93bc3552abb6fe8a2eb3f4b848fbb355a2899",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.6/guest_environments.cf": [
@@ -13594,6 +14074,10 @@
       {
         "checksum": "3f7412f4e472787dddb8d871fbdd4e6b481dfe89962f1ab5808e5261a8441e91",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "3f7412f4e472787dddb8d871fbdd4e6b481dfe89962f1ab5808e5261a8441e91",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.6/monitor.cf": [
@@ -13656,6 +14140,10 @@
       {
         "checksum": "8d0eecca1f0f794e076d848346cf9199a817f177a5cb365e7a0ee0bf2f111d0b",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "8d0eecca1f0f794e076d848346cf9199a817f177a5cb365e7a0ee0bf2f111d0b",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.6/packages.cf": [
@@ -13718,6 +14206,10 @@
       {
         "checksum": "c672e1898e4d43de2ec3376ca55c8c0dc0f0db2dd1d1c1e8e5e1c031ebb61ebc",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "38387788ddcf0e476f278819c3f10ea947c21d2e5d072e0d5ce2ca4056a2acff",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.6/paths.cf": [
@@ -13780,6 +14272,10 @@
       {
         "checksum": "9ef3647cf0f11480a80b609ee439b70a0753d3594bbac1d71f87ce77f60525f2",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "9ef3647cf0f11480a80b609ee439b70a0753d3594bbac1d71f87ce77f60525f2",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.6/processes.cf": [
@@ -13842,6 +14338,10 @@
       {
         "checksum": "2b8148a970d1d133e2b167a55f71891a12cd3de81a2660699ee16b8e07adc888",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "3f77424a678526d4117d75112328d1b77c60874339859cf35089af6836bad7a7",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.6/services.cf": [
@@ -13904,6 +14404,10 @@
       {
         "checksum": "0e13d0c6460255e721547985aa6bcefe633d7c122e5f53c2fc6dfda201181fa6",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "0e13d0c6460255e721547985aa6bcefe633d7c122e5f53c2fc6dfda201181fa6",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.6/stdlib.cf": [
@@ -13966,6 +14470,10 @@
       {
         "checksum": "cd34402ab282d45762eaa82e7d14b233d0b79aef57cd107d1e8bc4b53b37adef",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "cd34402ab282d45762eaa82e7d14b233d0b79aef57cd107d1e8bc4b53b37adef",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.6/storage.cf": [
@@ -14028,6 +14536,10 @@
       {
         "checksum": "36da8e547fae6ce01f5689648d790764a00b10985650060366c0215910a1b381",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "36da8e547fae6ce01f5689648d790764a00b10985650060366c0215910a1b381",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.6/users.cf": [
@@ -14090,6 +14602,10 @@
       {
         "checksum": "f83c45e28a98c2c27a9668a7e5a021773b043fea4095c22be4020cb48791b214",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "f83c45e28a98c2c27a9668a7e5a021773b043fea4095c22be4020cb48791b214",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.6/vcs.cf": [
@@ -14152,6 +14668,10 @@
       {
         "checksum": "ef27b75ff689d81c741c839a4752244d18dd97a9eb79eb17b933110deea996bb",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "264104cd6b8420b1d2c3b23fa62e989622593fe2de636c753a35d44a9acbe6f9",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.7/README.md": [
@@ -14234,6 +14754,14 @@
       {
         "checksum": "d11660613be2873c89506b94746ced8fd88d4eb3c6388154795f57647c6aee22",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "d11660613be2873c89506b94746ced8fd88d4eb3c6388154795f57647c6aee22",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "d11660613be2873c89506b94746ced8fd88d4eb3c6388154795f57647c6aee22",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/3.7/autorun.cf": [
@@ -14840,6 +15368,14 @@
       {
         "checksum": "f63dca21b92e5ccef253bd3bdaf02c6e569addebf88e69520a064da74e3b5539",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "f63dca21b92e5ccef253bd3bdaf02c6e569addebf88e69520a064da74e3b5539",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "f63dca21b92e5ccef253bd3bdaf02c6e569addebf88e69520a064da74e3b5539",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/bundles.cf": [
@@ -15050,6 +15586,14 @@
       {
         "checksum": "f47ae2c70a766aabdc7becb747aacf7aafc6f4b3b219b64cfe1dd64f7b02edb6",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "1398f20d96beb670e5f382569854b1c4a920789df729a6dce27de6c1b25736b5",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "1e5661a0933192060c0af74511af553c78ed629669886a574c4d5521d158e1ce",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/cfe_internal.cf": [
@@ -15260,6 +15804,14 @@
       {
         "checksum": "05f05102c8ac8a6f51db16d2289c01850c4893c75685cff434cb8449a45a1abc",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "7c61732f060517e9ec4e0e2105e9225e2b1816abe9e52cdd53610bde8a02a5f3",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "05f05102c8ac8a6f51db16d2289c01850c4893c75685cff434cb8449a45a1abc",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/cfe_internal_hub.cf": [
@@ -15470,6 +16022,14 @@
       {
         "checksum": "f0876ddde426a57e7ab12cff407a7fd4e57526b502f1b01fedf6a1616818580a",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "ff55b372f762277f4ec002fd906f543b2e7d4d9e8cbeb0ff63cb27daeb402508",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "ab4412e44958d9290264e6cd64277669f938f9d8d09e76ae98036b97b6fce46e",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/cfengine_enterprise_hub_ha.cf": [
@@ -15680,6 +16240,14 @@
       {
         "checksum": "1bda292ef2b86cb4f5c285877966a204b83dfddd5fcc99c925b4909ba53dca17",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "ebafaeb1c09059a1ae79bf4af88ab39be0351aa53db1c1fd8dee925e0d5ce6bd",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "dd293d96e8cb3a23fac00d22646dc5b8a963b58f116057a692781126c9364615",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/commands.cf": [
@@ -15890,6 +16458,14 @@
       {
         "checksum": "351c40bf7095e2b35420199d80003d16ed9a8a43189722621e697abf940bd6ef",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "541040a84a571c58a15e465bb953e593e87564cae42c962612bdea3feec090c4",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "351c40bf7095e2b35420199d80003d16ed9a8a43189722621e697abf940bd6ef",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/common.cf": [
@@ -16100,6 +16676,14 @@
       {
         "checksum": "c24bf06cf22d711f27dbcaf9559df5a3ccd195ba6348573fc604a6006bb22d86",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "99a5eecdbb6511f4404b2b9ac0417bcf7e23c0d5edabc87dcdb5247054c21b1a",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "11ee96ec5fcf12eb09afb0ae69fc37ff9b17f96cbf9204a387c97b18a4a5d81e",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/databases.cf": [
@@ -16310,6 +16894,14 @@
       {
         "checksum": "2caaae540910af4eeb6ab31ecc168311ab386e58fb8fa846315c1ebcd0e0a5f2",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "3cc483cfe7528bd7a511d11bf20ee252658b0b9254292cc65733a8ea81c4627c",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "2caaae540910af4eeb6ab31ecc168311ab386e58fb8fa846315c1ebcd0e0a5f2",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/edit_xml.cf": [
@@ -16520,6 +17112,14 @@
       {
         "checksum": "9cbe67b8637f6424275a6caf284355a0fa2429cd4b007b79daf53a2d82ee9406",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "fd68c0b1629fb87d443dd6d3cf6933995f337e19ed12dc7a89e15dd23e844528",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "9cbe67b8637f6424275a6caf284355a0fa2429cd4b007b79daf53a2d82ee9406",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/event.cf": [
@@ -16694,6 +17294,10 @@
       {
         "checksum": "33858aec59c44a04ee3ef3a8fa9260ceea9aac99422e925072fffb9bb544fb54",
         "version": "3.11.0b1"
+      },
+      {
+        "checksum": "d55ca0aee411ed32092adb85832d711c0cec20fc4a242d9c9e6055c53a50bf96",
+        "version": "3.12.0b1"
       }
     ],
     "masterfiles/lib/examples.cf": [
@@ -16904,6 +17508,14 @@
       {
         "checksum": "4545e040e6591d4b62c8e942858a518a53553c0ea20d31db53f9d35b6a8a8b92",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "2d42e6e4ff52a17f048110bc1cbecb00ed5edd8d05147bb9641641d95e4d2294",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "4545e040e6591d4b62c8e942858a518a53553c0ea20d31db53f9d35b6a8a8b92",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/feature.cf": [
@@ -17114,6 +17726,14 @@
       {
         "checksum": "8017c23eb54b0c53328dbefbb48cc15be22f5b97bbdce0f23868b0717a27e060",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "8017c23eb54b0c53328dbefbb48cc15be22f5b97bbdce0f23868b0717a27e060",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "8017c23eb54b0c53328dbefbb48cc15be22f5b97bbdce0f23868b0717a27e060",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/files.cf": [
@@ -17324,6 +17944,14 @@
       {
         "checksum": "b94563b31718eecf760b9283cfa76da002601cc0ad18c3f3f0956883764f7418",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "8e8e4aab9bc4476e0240e6d77b688dbbbf3833aacc56cec39319dd057fac3010",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "e6786bbf824e4475851635d5c23b536a6e79497515311eb53a4846a03dc17276",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/guest_environments.cf": [
@@ -17534,6 +18162,14 @@
       {
         "checksum": "8fea5717a39a19f331c1eb5e023c8609010471a3df3a21d0a64b4f76e608b281",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "9c8078601fcaf1f2ef49d4a23ee1e5c16c7d5bfa7af7c7ac4931a2a323bb4096",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "8fea5717a39a19f331c1eb5e023c8609010471a3df3a21d0a64b4f76e608b281",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/monitor.cf": [
@@ -17744,6 +18380,14 @@
       {
         "checksum": "e5148d96afb6aae36ec50d88d72556b97fe9e32f8f02cd8675e07c96a4b1e7ac",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "090f8a40bc9306519c01d0c1a485c4bacaae3dd474dc4d08c454d08433e456c3",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "e5148d96afb6aae36ec50d88d72556b97fe9e32f8f02cd8675e07c96a4b1e7ac",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/packages-ENT-3719.cf": [
@@ -18108,6 +18752,14 @@
       {
         "checksum": "60c1b012d509ba1f6a3b33ee45515da0b1d6c9f10112a50665cf53eef8cfa48a",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "18f832f2e302a1b24436602a17840a569853a21f0513702913599173148288f1",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "ba07e2b602056df7dd471d40ceaf9b20fa5e83fcae7f1aa2ae6e7fb8013c1aa9",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/paths.cf": [
@@ -18318,6 +18970,14 @@
       {
         "checksum": "d0bfcd5b697387d2c93fa92824a9a2e198a6a8e7216cb48b75faa93644af56f7",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "a2c047b07485b39bd95a70584eadaa2c8051f7b98ea1d5565200c451480143d8",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "d0bfcd5b697387d2c93fa92824a9a2e198a6a8e7216cb48b75faa93644af56f7",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/processes.cf": [
@@ -18528,6 +19188,14 @@
       {
         "checksum": "0cda7186203ac1261e206395f7bc063c9d5a3a84fc4a814b97f3b6c8dc5073d5",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "5903640f89e80321b4bc9316af06b76c4c8ba70b25c6f0adbe476c55e75c0e7f",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "fdf882d98f9bbc3aff1bf07943604dfc89e0b1c8b40677e3ee966087c86652ba",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/reports.cf": [
@@ -18738,6 +19406,14 @@
       {
         "checksum": "bbb3cb8974e5b3e74e6593f1fde83134c33444bcec96c6a30da5e4dd1278ad27",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "1d0bf97559653ca20c93d82074a51a66ea8bfb6ee7fa3b15673fd4f67db1ef33",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "bbb3cb8974e5b3e74e6593f1fde83134c33444bcec96c6a30da5e4dd1278ad27",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/services.cf": [
@@ -18948,6 +19624,14 @@
       {
         "checksum": "4bfe13c63033d0c359761e096841a66b987f86e978d5a0ba0575f6bcf74818d2",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "da77cda477a7230652aaa50418599f9f625051fe8cef2c04cf2a4c3aab7a5f55",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "3d7512bacdfa3787d63709dddd7e36325e16b0a2bc85fdd567ebb4ffaa6d6de2",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/stdlib.cf": [
@@ -19158,6 +19842,14 @@
       {
         "checksum": "deddbb3a6b3992689037e692613390d2e56637d3815cba51780a43caafbebb92",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "a530ad0fbe97f95e746bd7cbc1dbfb49ebbeb4833752de79ba1f855ffb05ccd2",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "bb24ad9df3f80eda5fde5ca24ed78355b01a9b4ee3c22459ab01b4dd78dc2ab5",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/storage.cf": [
@@ -19368,6 +20060,14 @@
       {
         "checksum": "1c3878e285ea10013510e5ae060928264dc8c5ba7e7852a88e9c8c14e2650c55",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "5796fab411417563222cc6832e2f133e9be88f9fa974926ae0943fc227449f8f",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "1c3878e285ea10013510e5ae060928264dc8c5ba7e7852a88e9c8c14e2650c55",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/templates/junit.mustache": [
@@ -19730,6 +20430,14 @@
       {
         "checksum": "9cb659c81daefacad17ca15068f6413031376a44de874b4db1a49cc847286f78",
         "version": "3.10.0"
+      },
+      {
+        "checksum": "3d1d6423d9c4a202cbed7c2cc54e0276610f8cbdb58fb35ddb3f0f560cdb95a6",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "3ad6b991a124706d16559ce0a2ab62520978878bd039f0a0d98ca8a7d6fd2735",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/users.cf": [
@@ -19940,6 +20648,14 @@
       {
         "checksum": "b4c880ef899c7f371a785238f93ef706e6af1b5acee202c97557c5e93212eb45",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "472f8733be74719bfaffaebe768dc65d75948c680553a2fe91c36f3579f9e7e5",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "b4c880ef899c7f371a785238f93ef706e6af1b5acee202c97557c5e93212eb45",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/lib/vcs.cf": [
@@ -20150,6 +20866,14 @@
       {
         "checksum": "c85fee871dd800d9c3ddc9ec030b4d0d2fa797ee8f72a92e280d0ec533ed3a47",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "a5965e92f86dadc948d96edd04f9a8622b56f0d52e6a8f11e001c2eabe9bd5c4",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "1e60c945bad526c09e5921bd89e1b1740d2d43df3940ac8d6e7d0ee91de82d64",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/modules/packages/WiRunSQL.vbs": [
@@ -21698,6 +22422,14 @@
       {
         "checksum": "938c301170ba0e7baa6e981c869b4d7aaa082c83dd1fc26bc2737de583155aba",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "d7312434a2fd031df38534bb9b3c6b36f93c8fc85b53bd10ad858de829bd9810",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "2003251a17987eaa89e8768a433d38975f926e1ee228db763d2845b4b9161f7d",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/services/autorun/hello.cf": [
@@ -21924,6 +22656,14 @@
       {
         "checksum": "63f1fa96f1319103cafc3b9e47daa6c74f855ae964d7d7e17a3d04f8515342c9",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "63f1fa96f1319103cafc3b9e47daa6c74f855ae964d7d7e17a3d04f8515342c9",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "63f1fa96f1319103cafc3b9e47daa6c74f855ae964d7d7e17a3d04f8515342c9",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/services/init.cf": [
@@ -22232,6 +22972,14 @@
       {
         "checksum": "6533bad39c547ae7cd3db1e5179251d577b164432934d1ef4080e8c37818800f",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "a15277d320e62af696782dc58410bc83c18ebbccf0ac0ea009ee71b7d252aa95",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "a15277d320e62af696782dc58410bc83c18ebbccf0ac0ea009ee71b7d252aa95",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/sketches/meta/api-runfile.cf": [
@@ -22326,6 +23074,14 @@
       {
         "checksum": "143cfb353fd5633f18bfd0fe1102660183597077249ce393162857c5094c9b18",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "143cfb353fd5633f18bfd0fe1102660183597077249ce393162857c5094c9b18",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "143cfb353fd5633f18bfd0fe1102660183597077249ce393162857c5094c9b18",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/standalone_self_upgrade.cf": [
@@ -22524,6 +23280,10 @@
       {
         "checksum": "b409dfefa0178167ede187291702bc641fceb55895323e8ab20a9d59e62e2e70",
         "version": "3.10.2"
+      },
+      {
+        "checksum": "0152e2ef49be4251c9cfae6f156286139c52f3808e280c9f5aa7cea9efa9c5a2",
+        "version": "3.12.0b1"
       }
     ],
     "masterfiles/templates/cf-apache.service.mustache": [
@@ -22730,6 +23490,14 @@
       {
         "checksum": "df2856ee8067e2fce6962bc0eb4741319b8f74002661d3469967f9bd124e82d2",
         "version": "3.10.0"
+      },
+      {
+        "checksum": "df2856ee8067e2fce6962bc0eb4741319b8f74002661d3469967f9bd124e82d2",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "df2856ee8067e2fce6962bc0eb4741319b8f74002661d3469967f9bd124e82d2",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/templates/cf-consumer.service.mustache": [
@@ -22772,6 +23540,14 @@
       {
         "checksum": "3cdd488a4372310f9e59ac23dec245ce0cf10786285a551d139546e7c225bdb8",
         "version": "3.10.0"
+      },
+      {
+        "checksum": "3cdd488a4372310f9e59ac23dec245ce0cf10786285a551d139546e7c225bdb8",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "3cdd488a4372310f9e59ac23dec245ce0cf10786285a551d139546e7c225bdb8",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/templates/cf-execd.service.mustache": [
@@ -22978,6 +23754,14 @@
       {
         "checksum": "7c4cbfa6a551867483022f23a3d79689d7791a7a932b046e067c2cc0dcb7f26b",
         "version": "3.10.0"
+      },
+      {
+        "checksum": "93cbd01f84b0c9c0b2ab9ef51480baec0f8e7e00ffe6c1fa50d13d65f145ffab",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "7c4cbfa6a551867483022f23a3d79689d7791a7a932b046e067c2cc0dcb7f26b",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/templates/cf-hub.service.mustache": [
@@ -23184,6 +23968,14 @@
       {
         "checksum": "f9e3cd3d463e2996d4e22e24bba22c6916bd9e781b999416c9e78ab865eec30e",
         "version": "3.10.0"
+      },
+      {
+        "checksum": "029c77b6081af6fa32ee26015fb05598ae771b3280a745c6e868055c40769b91",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "f9e3cd3d463e2996d4e22e24bba22c6916bd9e781b999416c9e78ab865eec30e",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/templates/cf-monitord.service.mustache": [
@@ -23390,6 +24182,14 @@
       {
         "checksum": "4b83a16b55b61587cc62df8f10726de8d0b96435d82a81b97cca77e078ae6504",
         "version": "3.10.0"
+      },
+      {
+        "checksum": "4b83a16b55b61587cc62df8f10726de8d0b96435d82a81b97cca77e078ae6504",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "4b83a16b55b61587cc62df8f10726de8d0b96435d82a81b97cca77e078ae6504",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/templates/cf-postgres.service.mustache": [
@@ -23596,6 +24396,14 @@
       {
         "checksum": "e44e3eb604790c6860dfe38430a6ba2cb5be2a8030f056eeb670d356a386d2b8",
         "version": "3.10.0"
+      },
+      {
+        "checksum": "e44e3eb604790c6860dfe38430a6ba2cb5be2a8030f056eeb670d356a386d2b8",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "e44e3eb604790c6860dfe38430a6ba2cb5be2a8030f056eeb670d356a386d2b8",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/templates/cf-reactor.service.mustache": [
@@ -23708,6 +24516,14 @@
       {
         "checksum": "9ec9d1f5c5fe1912a5aec23f64789d3cc89f8f491a3ecd50c949031150d86bff",
         "version": "3.10.0"
+      },
+      {
+        "checksum": "9ec9d1f5c5fe1912a5aec23f64789d3cc89f8f491a3ecd50c949031150d86bff",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "9ec9d1f5c5fe1912a5aec23f64789d3cc89f8f491a3ecd50c949031150d86bff",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/templates/cf-runalerts.service.mustache": [
@@ -23910,6 +24726,14 @@
       {
         "checksum": "809341c674dea852514f7bb5ee91ea2ee72aacafbe576191655fe63b6726cfb0",
         "version": "3.10.0"
+      },
+      {
+        "checksum": "809341c674dea852514f7bb5ee91ea2ee72aacafbe576191655fe63b6726cfb0",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "809341c674dea852514f7bb5ee91ea2ee72aacafbe576191655fe63b6726cfb0",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/templates/cf-serverd.service.mustache": [
@@ -24116,6 +24940,14 @@
       {
         "checksum": "74a691492d00074f70745e558a33330e4b3351458efdffe6d4bc6198f336ee05",
         "version": "3.10.0"
+      },
+      {
+        "checksum": "74a691492d00074f70745e558a33330e4b3351458efdffe6d4bc6198f336ee05",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "74a691492d00074f70745e558a33330e4b3351458efdffe6d4bc6198f336ee05",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/templates/cfengine3.service.mustache": [
@@ -24322,6 +25154,14 @@
       {
         "checksum": "8b84ef45cb2f77f9fab85954c987f8024f99c9c286e285fb83c338f6535860c6",
         "version": "3.10.0"
+      },
+      {
+        "checksum": "8b84ef45cb2f77f9fab85954c987f8024f99c9c286e285fb83c338f6535860c6",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "8b84ef45cb2f77f9fab85954c987f8024f99c9c286e285fb83c338f6535860c6",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/templates/cfengine_watchdog.mustache": [
@@ -24532,6 +25372,14 @@
       {
         "checksum": "98380a4dd69501ed30ba33fccdda7dadc1ad70411ea993bc0c77bad89496407e",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "5fdcd7e2b05a3b642c70b571f2b3b7c6081754fe297b94f60adf6cb8d1fb8dba",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "98380a4dd69501ed30ba33fccdda7dadc1ad70411ea993bc0c77bad89496407e",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/templates/federated_reporting/10-base_filter.sed": [
@@ -26696,6 +27544,14 @@
       {
         "checksum": "8f60a51e9a4a7d24cfe38e48c860f04b8d721de71a75160a632a6378c1b39686",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "3fcf1d8bf2bb82eff135c1f041a2174bce67602211e0d595b39ddf7524972f94",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "0d2cdf788d24704ad94f9a4ba06f6fb5cf274b553aca1299ac6879397e769c4f",
+        "version": "3.10.0b1"
       }
     ],
     "masterfiles/templates/json_multiline.mustache": [
@@ -26882,6 +27738,10 @@
       {
         "checksum": "6ad1152494e70101d2e442004cdd429113dfc9ea0588778cef7cf162717cbb2c",
         "version": "3.10.3"
+      },
+      {
+        "checksum": "6ad1152494e70101d2e442004cdd429113dfc9ea0588778cef7cf162717cbb2c",
+        "version": "3.12.0b1"
       }
     ],
     "masterfiles/templates/json_serial.mustache": [
@@ -27068,6 +27928,10 @@
       {
         "checksum": "8dcf689e1463607c57e7744730fa07f566fff838677f6555056a7a2a356e0d7f",
         "version": "3.10.3"
+      },
+      {
+        "checksum": "8dcf689e1463607c57e7744730fa07f566fff838677f6555056a7a2a356e0d7f",
+        "version": "3.12.0b1"
       }
     ],
     "masterfiles/templates/vercmp.ps1": [
@@ -27380,6 +28244,14 @@
       {
         "checksum": "e05100337c5302f191b2d0a08b5a8a79d3e61940fbee9a240f8a717edaff1ee4",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "9056c1f0ab7a4217829e984f3eb2c4369dcb5c83ae9ffe31986be643cd359371",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "1b3c932b39417346d981a66bebdd01eff595427f67c5b5919bc15957f590d9e5",
+        "version": "3.10.0b1"
       }
     ],
     "modules/packages/WiRunSQL.vbs": [
@@ -27570,6 +28442,14 @@
       {
         "checksum": "c90937565e8a72877f270cdd56b92ecf836c764134ca6dd9602f6a4d93ef30af",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "5bd19adffaca58ef5fd7e05bf8ef1d9cf4c13f95da97c68c37cdb528eb1650be",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "63fe398838944747a05956e5f9299e2e9918f4bd313b32bad4131be7d2834cba",
+        "version": "3.10.0b1"
       }
     ],
     "modules/packages/freebsd_ports": [
@@ -27680,6 +28560,14 @@
       {
         "checksum": "c8d0e558099b42eb57fac4430ebaf42c059ca12428a69cfbc3575d6c709d8609",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "c8d0e558099b42eb57fac4430ebaf42c059ca12428a69cfbc3575d6c709d8609",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "c8d0e558099b42eb57fac4430ebaf42c059ca12428a69cfbc3575d6c709d8609",
+        "version": "3.10.0b1"
       }
     ],
     "modules/packages/msiexec-list.vbs": [
@@ -27846,6 +28734,10 @@
       {
         "checksum": "b1505eb993b38d2cd12981921276e8490ecbc9182c4c47b00f20e1c1ce3c9d03",
         "version": "3.10.1"
+      },
+      {
+        "checksum": "b1505eb993b38d2cd12981921276e8490ecbc9182c4c47b00f20e1c1ce3c9d03",
+        "version": "3.12.0b1"
       }
     ],
     "modules/packages/pkg": [
@@ -27948,6 +28840,10 @@
       {
         "checksum": "9ffdf05bc25477e753f463fd5a3fe271196847206223b4de33c1bae4658faaa5",
         "version": "3.10.1"
+      },
+      {
+        "checksum": "9ffdf05bc25477e753f463fd5a3fe271196847206223b4de33c1bae4658faaa5",
+        "version": "3.12.0b1"
       }
     ],
     "modules/packages/pkgsrc": [
@@ -28058,6 +28954,14 @@
       {
         "checksum": "b97ca9441fea744493d848ec09449608f0b577c91605bc91d5733a8082bd6b4e",
         "version": "3.9.2"
+      },
+      {
+        "checksum": "b97ca9441fea744493d848ec09449608f0b577c91605bc91d5733a8082bd6b4e",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "b97ca9441fea744493d848ec09449608f0b577c91605bc91d5733a8082bd6b4e",
+        "version": "3.10.0b1"
       }
     ],
     "modules/packages/slackpkg": [
@@ -28260,6 +29164,14 @@
       {
         "checksum": "8501b2698f0260370b7fd0c0f2ce62364085de30f2ec94dea2208356e7efbb8c",
         "version": "3.7.5"
+      },
+      {
+        "checksum": "3d39f43c25be1ec0fef41d67e2773e3db3060c98147460c5f7d356ce95b9c17d",
+        "version": "3.12.0b1"
+      },
+      {
+        "checksum": "8501b2698f0260370b7fd0c0f2ce62364085de30f2ec94dea2208356e7efbb8c",
+        "version": "3.10.0b1"
       }
     ],
     "modules/packages/zypper": [
@@ -28358,6 +29270,10 @@
       {
         "checksum": "cdbde0f9f7f64bc92f5fa3c9d1c0d034ed7336b815e228a557796dbfb9ceb227",
         "version": "3.10.2"
+      },
+      {
+        "checksum": "cdbde0f9f7f64bc92f5fa3c9d1c0d034ed7336b815e228a557796dbfb9ceb227",
+        "version": "3.12.0b1"
       }
     ]
   }
