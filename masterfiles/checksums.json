@@ -40,6 +40,9 @@
         "3.15.5"
       ]
     },
+    "022413474b976e7910738e126ea5727de677ee2b16c43995e7427570c1f6d210": {
+      "masterfiles/lib/paths.cf": ["3.25.0", "3.24.1"]
+    },
     "023c6a00de5d202c62e3a33a529e8d1c8538301e3fbc19efec123088d6edd63b": {
       "masterfiles/standalone_self_upgrade.cf": ["3.12.2"]
     },
@@ -107,9 +110,12 @@
     },
     "03f13cd9670f1d3bfc9a6756347bfae1c7b0c73ea70ec2fe843d5b9e94cda53d": {
       "masterfiles/lib/cfengine_enterprise_hub_ha.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -165,9 +171,12 @@
     },
     "0519ca680374fb04f9c00ab7e06bbe6e849e1926918d3f832ef3c40d149a90b4": {
       "masterfiles/inventory/debian.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -217,8 +226,11 @@
     },
     "0696110a84488cbcf05ec3895ebf986497ec6bfe0f0b011d43da6491d85f5acd": {
       "masterfiles/lib/testing.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -439,9 +451,12 @@
     },
     "0d1f6ac8e55b77f697be01be9aef046ca0c8ce792e8dbdf94eab587e00142471": {
       "masterfiles/lib/cfe_internal_hub.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -466,6 +481,9 @@
         "3.10.0b1",
         "3.9.2"
       ]
+    },
+    "0d847592a176900ff2bcc20301d5a605bf341b0f33760a4ed5bc7b9b3af2d3c1": {
+      "masterfiles/standalone_self_upgrade.cf": ["3.24.1"]
     },
     "0d945d87fa9f1ab13d85168aa9f67fae6d8448bd3f844d31ab425a58677d1c5f": {
       "masterfiles/cfe_internal/enterprise/templates/httpd.conf.mustache": [
@@ -771,7 +789,10 @@
       "masterfiles/modules/packages/apt_get": ["3.17.0", "3.16.0"]
     },
     "14cc23434b72662ec607f4b54f0aa255b6a4c03bd6e79e718bc4766773c84253": {
-      "masterfiles/cfe_internal/enterprise/mission_portal.cf": ["3.24.0"]
+      "masterfiles/cfe_internal/enterprise/mission_portal.cf": [
+        "3.24.1",
+        "3.24.0"
+      ]
     },
     "14d1b0a1f5ed425c3d0612e7d433fc60cfde42bbfe9ba3e4656b166afd926a41": {
       "masterfiles/controls/3.6/update_def.cf": ["3.7.7"]
@@ -780,6 +801,7 @@
       "masterfiles/lib/common.cf": [
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -923,6 +945,9 @@
     "1940641ca4a29603143d8565dc2f4e4467d665c82b5118d2833e4260ddb39716": {
       "masterfiles/inventory/any.cf": ["3.14.0"]
     },
+    "19a9fd5722bf2ea5a1cf246e7cf964a3791528736684aaa010d69407b4f035a1": {
+      "masterfiles/standalone_self_upgrade.cf": ["3.21.6"]
+    },
     "19c2e9d6396002feb5bdc9f0d5308438edb5edca003d0b94cab372353fb7aa0c": {
       "masterfiles/standalone_self_upgrade.cf": ["3.18.7"]
     },
@@ -985,13 +1010,22 @@
     },
     "1cfdc017d2118cf89e079d3d3926b692e5685faf8cd8370fe39af88528b9065e": {
       "masterfiles/templates/federated_reporting/nova_api.py": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
+        "3.21.6",
         "3.21.5",
         "3.18.8"
       ]
     },
     "1d03d19eedb58b25123b1bff628ab110f7fb99a550ad7d62a8f925634e881740": {
-      "masterfiles/lib/packages.cf": ["3.24.0", "3.21.5"]
+      "masterfiles/lib/packages.cf": [
+        "3.25.0",
+        "3.24.1",
+        "3.24.0",
+        "3.21.6",
+        "3.21.5"
+      ]
     },
     "1d0bf97559653ca20c93d82074a51a66ea8bfb6ee7fa3b15673fd4f67db1ef33": {
       "masterfiles/lib/reports.cf": [
@@ -1067,9 +1101,12 @@
     },
     "1d80835c814fd81b878d1086b0005a98de8ea21f901a62e4263df62958d4feab": {
       "masterfiles/cfe_internal/core/log_rotation.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -1113,6 +1150,9 @@
     },
     "1dc4ad0bd0a847d17b0f23bf95ca6f9489185087722894beb0f3aca1ba980e7d": {
       "masterfiles/cfe_internal/update/update_bins.cf": ["3.12.0b1"]
+    },
+    "1dcaae2a88f6878f0890fdff262176b062d7ee546694697e04e8c885dcd15929": {
+      "masterfiles/modules/packages/vendored/yum.mustache": ["3.25.0"]
     },
     "1dcab372d318b70d2c663e0f6d0348028090afa90159764a2c392e43799249f2": {
       "masterfiles/controls/update_def.cf": ["3.18.2"]
@@ -1225,9 +1265,12 @@
     },
     "21f288c04daab68f2c4a04c657b4703216cb2bac9227890c0e0f9a5e1e6318f0": {
       "masterfiles/inventory/aix.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -1274,9 +1317,12 @@
     },
     "2245c1c9a799eb8926da249e52f63562fbada7cc6bad5d00de41866b69a00bb0": {
       "masterfiles/inventory/windows.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -1384,9 +1430,12 @@
     },
     "25e3ee87ef2966977e188e67328353198d43d2f59b49da04fd6bdf74ec8047b9": {
       "masterfiles/templates/federated_reporting/parallel.sh": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -1434,6 +1483,9 @@
     "2670e7d4412147d46684124b7665b0ca12b0c5fc67aa40c1144ca6e6456b4032": {
       "masterfiles/inventory/os.cf": ["3.17.0"]
     },
+    "2695f8f1a1163e1a4e1cda7902188cb33b540de9fa764f4b8a353bbdcd6a3ec9": {
+      "masterfiles/update.cf": ["3.25.0"]
+    },
     "26e01d8d32392cdc31d76888a283dd44e5320144c096ff43cf6c1b7ea9f9700d": {
       "masterfiles/cfe_internal/enterprise/main.cf": [
         "3.10.1",
@@ -1471,7 +1523,7 @@
       "masterfiles/inventory/any.cf": ["3.18.7"]
     },
     "28c80ca93d54863844e61badaf9c8cff18273c191054338375f77afb5cef16d0": {
-      "masterfiles/lib/common.cf": ["3.24.0"]
+      "masterfiles/lib/common.cf": ["3.25.0", "3.24.1", "3.24.0"]
     },
     "28d6c5fb801a265369f43ff6671384c1fefb87213ef444942639fd6b11d12608": {
       "masterfiles/lib/paths.cf": ["3.22.0", "3.21.2", "3.21.1", "3.21.0"]
@@ -1609,6 +1661,9 @@
     },
     "2dc4d0cd0dc44bbc53e1397b1709b8e3fddd26ba8f47e3caa1702d45d1629519": {
       "masterfiles/cfe_internal/update/update_policy.cf": ["3.12.1", "3.12.0"]
+    },
+    "2dd93de9339c48596e00e5add188c4a49e44301f5af502897bbdbad092c94468": {
+      "masterfiles/standalone_self_upgrade.cf": ["3.25.0"]
     },
     "2e8a5bed9fedd2020fde45f3870d79a41b00b6ffa16a1030ab7d261f2ed1f18d": {
       "masterfiles/cfe_internal/enterprise/CFE_knowledge.cf": ["3.21.5"]
@@ -1813,8 +1868,11 @@
     },
     "37454783172256cd154310633324f207b217672ecfdf834f0f96749368b2cf71": {
       "masterfiles/templates/cf-serverd.service.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.18.8",
@@ -1823,9 +1881,12 @@
     },
     "37c41746724e9c23c15634395480b7693560673a68681d0545d9b92d884eafa6": {
       "masterfiles/templates/federated_reporting/transport.sh": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -1947,9 +2008,12 @@
     },
     "39ee1ca62336deb692ae3b7544faee909bb7e47a8c586afa6740f30b4efe5f18": {
       "masterfiles/lib/examples.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -2006,8 +2070,11 @@
     },
     "3aae87614a2df33ee95ade336b9080ccd33bc72cfdd8cfc44d17271ddc1a471c": {
       "masterfiles/templates/cf-postgres.service.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.18.8",
@@ -2029,6 +2096,9 @@
     "3c541f97e60f30e1c7748eb63868b781854611babe6cbc05f60a0fb61c62f3ce": {
       "modules/packages/zypper": ["3.12.7", "3.12.6", "3.12.5"]
     },
+    "3c64cf2388428238c7167aa990f9e89e6034f23707e8e46e5cc074532c830116": {
+      "masterfiles/controls/cf_serverd.cf": ["3.25.0"]
+    },
     "3c72b112c49fe6aa65a7d0658070f5a7f1db10ba9fe786ed67ecdb3f99209f92": {
       "masterfiles/lib/monitor.cf": ["3.16.0"]
     },
@@ -2040,9 +2110,12 @@
     },
     "3cc360961ce99eb842fa3d128bd4589cc1dcdf17fb39104381fdf3a7b8a0235b": {
       "masterfiles/lib/databases.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -2112,7 +2185,7 @@
       ]
     },
     "3cfbcb727fbf82f0461ff3e590411ef3c5af9af168f5cd464c055f8aa5f84644": {
-      "masterfiles/cfe_internal/recommendations.cf": ["3.21.5"]
+      "masterfiles/cfe_internal/recommendations.cf": ["3.21.6", "3.21.5"]
     },
     "3d044a847ed7b1670bf595684fd947b25da03bb6edc34a3a5e515765ec385f0a": {
       "masterfiles/inventory/any.cf": ["3.18.5"]
@@ -2178,9 +2251,12 @@
     },
     "3e78065e141286fe922fa2b3cc661435e8081db673dd65c6dc4d079f659ef095": {
       "masterfiles/lib/stdlib.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -2242,9 +2318,12 @@
     },
     "3fcf1d8bf2bb82eff135c1f041a2174bce67602211e0d595b39ddf7524972f94": {
       "masterfiles/templates/host_info_report.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -2296,14 +2375,24 @@
       "masterfiles/cfe_internal/update/update_policy.cf": ["3.18.5"]
     },
     "411d99c197f0a980988cd0f759f7e2ec03998c5a1eb5f17fe47f7d424c1539e8": {
-      "masterfiles/cfe_internal/enterprise/main.cf": ["3.24.0"]
+      "masterfiles/cfe_internal/enterprise/main.cf": [
+        "3.25.0",
+        "3.24.1",
+        "3.24.0"
+      ]
     },
     "41682e6193a3a6a495e7f2e7a1bd23c5181f8b0dc30ce0f1f877b0c6b4ff7faf": {
       "masterfiles/modules/packages/vendored/apt_get.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
+        "3.21.6",
         "3.21.5",
         "3.18.8"
       ]
+    },
+    "417013835a72a36d5a9dfd7a54e131352f6befb8eb61e9c94f64766b8cc51f26": {
+      "masterfiles/cfe_internal/enterprise/mission_portal.cf": ["3.25.0"]
     },
     "41ec7d5ea64940cb730957a83c2f6f20bebd479d6eac66c74d482076b319c86a": {
       "masterfiles/controls/cf_agent.cf": [
@@ -2371,6 +2460,9 @@
     "45fede7ce7d19e1b66b3ab84195d3ef89581af8598953dfe03140d29614f1520": {
       "masterfiles/standalone_self_upgrade.cf": ["3.12.5"]
     },
+    "46753e7d0a62d8d2a596e5f0f63ba4f628afc0bbbfe1ed55a2e00d8e6a2c96b1": {
+      "masterfiles/controls/def.cf": ["3.25.0"]
+    },
     "4685b4b0f15746f6d8cfe69c84f1ec85f437f810731682c6bee487b11bf7acc8": {
       "masterfiles/promises.cf": ["3.10.5"]
     },
@@ -2381,7 +2473,13 @@
       ]
     },
     "46f44e06441b09828ba2cf62896bb5f219c3343f14f3c52a3b1d8098690c1796": {
-      "masterfiles/controls/cf_execd.cf": ["3.24.0", "3.21.5"]
+      "masterfiles/controls/cf_execd.cf": [
+        "3.25.0",
+        "3.24.1",
+        "3.24.0",
+        "3.21.6",
+        "3.21.5"
+      ]
     },
     "47182c5fb1885bd10adb5d7709977ed082c6f71f31295c92f69d4e7290b2c7c3": {
       "masterfiles/cfe_internal/update/cfe_internal_update_from_repository.cf": [
@@ -2548,6 +2646,9 @@
     "4aae08d6e3370212d219a31b1c7c1974a0442c886b3a29529b89856c5fe6a30e": {
       "masterfiles/lib/services.cf": ["3.24.0"]
     },
+    "4b041b6fadda7728272f63cfa35b2241ced690b08a79c1b8bdaa354fb47f1980": {
+      "masterfiles/update.cf": ["3.24.1"]
+    },
     "4b3abba000e465ce3581b3ecd36fc89d640e0de1b71fea7981a87fef2766d640": {
       "modules/packages/zypper": ["3.11.0b1"]
     },
@@ -2614,6 +2715,7 @@
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -2804,9 +2906,12 @@
     },
     "5068583ac9edbbf85ea769e730eb3052157cb9a521a1e063ec9a871d98ac1747": {
       "masterfiles/lib/event.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -2832,9 +2937,12 @@
     },
     "51477d633295a351ebd6bd33fc547b1103f96415eae6e058d54ba456486663a5": {
       "masterfiles/inventory/lsb.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -3027,9 +3135,12 @@
     },
     "54ef5e32774e2ed89c6f00c28a19421919de0508b46a834255ba22313566063e": {
       "masterfiles/controls/update_def_inputs.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -3110,9 +3221,12 @@
     },
     "565db66b0e42f24a2cda9446c0966b96d60a33c6950424c8e042e8bb0333738a": {
       "masterfiles/controls/cf_agent.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -3127,9 +3241,15 @@
       "masterfiles/lib/paths.cf": [
         "3.24.0",
         "3.23.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3"
+      ]
+    },
+    "56c1bfd3bbf3a6bed4caea3549251d76531225689dc6cdbb2546ed86ad27aba6": {
+      "masterfiles/cfe_internal/enterprise/templates/httpd.conf.mustache": [
+        "3.25.0"
       ]
     },
     "572939b3b0ee30d767fc54da8bfe956d349e89cf4b66b603d5c3ac37822850b6": {
@@ -3190,11 +3310,14 @@
       ]
     },
     "57b204925f407c95d9fac4ae58e98c14ebc13b9b7208dc2e2bce861f54b553e4": {
-      "masterfiles/controls/def.cf": ["3.21.5"]
+      "masterfiles/controls/def.cf": ["3.21.6", "3.21.5"]
     },
     "57c34764149628b7c904854cbca1268bb734f2ba9766c4ebef62b7c32c943035": {
       "masterfiles/cfe_internal/core/watchdog/templates/watchdog.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
+        "3.21.6",
         "3.21.5"
       ]
     },
@@ -3218,7 +3341,10 @@
     },
     "58c922219702e103ef207b9d456ed510b0e8468b9d55a1bfb2a9e8d1685dae14": {
       "masterfiles/templates/cf-apache.service.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
+        "3.21.6",
         "3.21.5",
         "3.18.8"
       ]
@@ -3284,8 +3410,11 @@
     },
     "5a7773044e1c6194e3258565f8698ac73d8c94a7f679dcb9fbf530e7c2d6dc38": {
       "masterfiles/templates/cf-monitord.service.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.18.8",
@@ -3467,9 +3596,12 @@
     "5fcf1f2164aeb4a6cf6928175f05242d7ad4bb7dc00a8dde9a2032ea233e2aaf": {
       "masterfiles/build/modules/packages/msiexec.bat": ["3.18.0"],
       "masterfiles/modules/packages/vendored/msiexec.bat.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -3594,9 +3726,12 @@
     },
     "626f5bcee07d66e067e1cd21e6118c7e914b1c87cfde047ca4f69fb767141248": {
       "masterfiles/lib/cfe_internal.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -3651,9 +3786,12 @@
     },
     "63f1fa96f1319103cafc3b9e47daa6c74f855ae964d7d7e17a3d04f8515342c9": {
       "masterfiles/services/autorun/hello.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -3713,9 +3851,12 @@
     },
     "63fa1e07c06ad0b11d5b6386250630fe925e89a8567429230a5aa6e5715a905f": {
       "masterfiles/cfe_internal/core/deprecated/cfengine_processes.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -3779,9 +3920,12 @@
     },
     "64558d845015aafa5665a87ba7ff3e7d677d325490b4e3f44c35a0ff911590f3": {
       "masterfiles/templates/federated_reporting/import_file.sh": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -3865,9 +4009,12 @@
         "3.7.5"
       ],
       "masterfiles/controls/cf_runagent.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -3948,9 +4095,12 @@
     },
     "66da1a5cc2579e3aeb1ccfb6e156d4366a691ad2d3f6f9ca4f1a17be44136f11": {
       "masterfiles/templates/federated_reporting/transfer_distributed_cleanup_items.sh": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -3983,6 +4133,9 @@
     },
     "67f3c219140ac78ba3d7806100440df73d58e378dd465498196513f4397e6692": {
       "masterfiles/lib/3.5/paths.cf": ["3.7.8", "3.7.7", "3.7.6"]
+    },
+    "680aeca24ab88e51b68fbb51a3e28cf396446d226446f503bc815fc19064c9a7": {
+      "masterfiles/lib/files.cf": ["3.25.0", "3.24.1", "3.21.6"]
     },
     "689b9fb478d5d67066ad9e3bba29fcd1fd5eb6b390d5a66625d94fe476bd5231": {
       "masterfiles/cfe_internal/enterprise/CFE_knowledge.cf": ["3.12.0"]
@@ -4017,6 +4170,9 @@
     },
     "69da147ac0b93501d744c79df739e28a28930e2a236690be9c7c7d674a8cab74": {
       "masterfiles/standalone_self_upgrade.cf": ["3.10.7"]
+    },
+    "69da621a30a0ecfb8f634bbf50950e278ddde11ce89944739feb1e97cc688694": {
+      "masterfiles/controls/update_def.cf": ["3.21.6"]
     },
     "6a4b3e4f12df60baabfa4e6725264fd73370499fb94088c417ec0d9ae2364a0c": {
       "masterfiles/cfe_internal/recommendations.cf": [
@@ -4064,11 +4220,19 @@
     "6a78a92bf42d591de270eb6c16ad84d78603f60aa7411aefc53b3b8858445c6a": {
       "masterfiles/lib/files.cf": ["3.15.7", "3.15.6", "3.15.5", "3.15.4"]
     },
+    "6acd361aa5563aa2cc085efba507fdfa142e8110ebbf81640846f9e169cb1f6d": {
+      "masterfiles/cfe_internal/enterprise/templates/httpd.conf.mustache": [
+        "3.21.6"
+      ]
+    },
     "6ad1152494e70101d2e442004cdd429113dfc9ea0588778cef7cf162717cbb2c": {
       "masterfiles/templates/json_multiline.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -4193,7 +4357,12 @@
       ]
     },
     "6d91df3342c65cabcb4342c6806411e6aad5fed77ac1c8c0cb29ee5e118d1698": {
-      "masterfiles/modules/packages/vendored/nimclient.mustache": ["3.24.0"]
+      "masterfiles/modules/packages/vendored/nimclient.mustache": [
+        "3.25.0",
+        "3.24.1",
+        "3.24.0",
+        "3.21.6"
+      ]
     },
     "6d9486ac9d90eee7d1c72bbc713513d289948fdaedfc6fcd49f6b3056a8d972f": {
       "masterfiles/standalone_self_upgrade.cf": ["3.10.5"]
@@ -4266,7 +4435,10 @@
       ]
     },
     "7188eb4efde00f8e91d479f27d0a53efac17710b7c4c1be957de51ca2f152723": {
-      "masterfiles/modules/packages/vendored/zypper.mustache": ["3.21.5"]
+      "masterfiles/modules/packages/vendored/zypper.mustache": [
+        "3.21.6",
+        "3.21.5"
+      ]
     },
     "71c13e49c78e4afd1ee6db70217fceb8264b12ad23cc16e76d0938914b39d05c": {
       "masterfiles/controls/reports.cf": ["3.12.7"]
@@ -4278,10 +4450,15 @@
       "masterfiles/lib/packages.cf": ["3.18.8"]
     },
     "71fcfc8ddac0d76c1dfc0fe60e1907e5057b4224593a5d00e738f58461b6cbd1": {
-      "masterfiles/lib/autorun.cf": ["3.24.0"]
+      "masterfiles/lib/autorun.cf": ["3.25.0", "3.24.1", "3.24.0"]
     },
     "720864c34dd4c11bdb87344064930e1fb146dcda0274c0317fd11dc1636a99d4": {
-      "masterfiles/cfe_internal/enterprise/CFE_knowledge.cf": ["3.24.0"]
+      "masterfiles/cfe_internal/enterprise/CFE_knowledge.cf": [
+        "3.25.0",
+        "3.24.1",
+        "3.24.0",
+        "3.21.6"
+      ]
     },
     "72678bbd68c3b4ff9cc40e9f3d901539c682202b15af4e2d39e02b6fdb8a65d5": {
       "masterfiles/inventory/os.cf": [
@@ -4463,7 +4640,7 @@
       ]
     },
     "768f82fb6fcf3aa9fbeff1643f840d9e42834178115e02414d5431aef5f81fad": {
-      "masterfiles/cfe_internal/CFE_cfengine.cf": ["3.24.0"]
+      "masterfiles/cfe_internal/CFE_cfengine.cf": ["3.25.0", "3.24.1", "3.24.0"]
     },
     "76cc0bfacf323663dceaf955d231607c39512bca4fe8e6bce44ba7533bb1bdee": {
       "modules/packages/zypper": ["3.15.1", "3.15.0"]
@@ -4496,9 +4673,12 @@
     },
     "777b6aed631bd4cb2f38c4e5f73e18818a7186eaf37d0181f72cdda8203820ed": {
       "masterfiles/cfe_internal/update/windows_unattended_upgrade.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -4554,9 +4734,12 @@
     },
     "7a50a114ce6ae53128d19fec5c89389833c506bb3db4ad67c4cc90ad54653c29": {
       "masterfiles/templates/federated_reporting/psql_wrapper.sh.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -4575,6 +4758,9 @@
     },
     "7a5687c6c48464d198cea899d0c6e7a22d1df89be3a376b8fdda1c8736e2af7f": {
       "masterfiles/lib/files.cf": ["3.12.6"]
+    },
+    "7a908c12b1ef6013a2e3545831e4db5dddda19ead892ac6853b932729e10f82a": {
+      "masterfiles/cfe_internal/enterprise/CFE_hub_specific.cf": ["3.25.0"]
     },
     "7a9ea845fd0b4f49cd720e3c8b01a2a18e488147a168c106e09e9c5855ace4f0": {
       "masterfiles/lib/3.6/processes.cf": ["3.7.8", "3.7.7", "3.7.6"]
@@ -4607,9 +4793,12 @@
     },
     "7c3d768c551a724a0de2675fec0123c8dff95070faedebc7ff665a75def6c1e3": {
       "masterfiles/templates/federated_reporting/log.sh.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -4698,9 +4887,12 @@
     },
     "7d9809837efa8a6fed7db1cb5e510ed32b7994e57b47279b61ef39e5cbac10a0": {
       "masterfiles/lib/templates/junit.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -4749,9 +4941,12 @@
     },
     "7ff628e8d0d90a2889db18db8ed93603c5ad569b4678c971e3a8b7afe9bc1651": {
       "masterfiles/cfe_internal/enterprise/ha/ha_update.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -4899,9 +5094,12 @@
     },
     "828696e930f55586a9499d1181f3df6972e8ba0c6ba1e753118730dc7ce33edf": {
       "masterfiles/cfe_internal/enterprise/templates/apachectl.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -4930,6 +5128,9 @@
     },
     "832d4f531c9005d87212b0d3a4f8a076c37e932c08bb602cf11e8e836772e17c": {
       "modules/packages/apt_get": ["3.7.6"]
+    },
+    "834cdc41cf1dd42f24c5902f59e62aa8302e3d5a3eb4b1575109e487f5c168e7": {
+      "masterfiles/lib/services.cf": ["3.25.0", "3.24.1"]
     },
     "8379cd2b6c644fbf69d8178e97c30744050a8b04bd01368cff8f57094e454ed2": {
       "masterfiles/update.cf": ["3.9.2"]
@@ -5038,9 +5239,12 @@
     },
     "86fd688430ece4dad9d2d74815ecddfa77bafd4f1b5667287da4142c4bec4b25": {
       "masterfiles/lib/processes.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -5089,9 +5293,12 @@
       "masterfiles/build/modules/packages/freebsd_ports": ["3.18.0"],
       "masterfiles/modules/packages/freebsd_ports": ["3.17.0", "3.16.0"],
       "masterfiles/modules/packages/vendored/freebsd_ports.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -5199,9 +5406,12 @@
     },
     "8b069db9f4bcbed6ec286c1489afc74f4fa26a7352288c00a03633c4e5b5c137": {
       "masterfiles/cfe_internal/enterprise/templates/runalerts.php.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -5232,9 +5442,12 @@
     },
     "8b84ef45cb2f77f9fab85954c987f8024f99c9c286e285fb83c338f6535860c6": {
       "masterfiles/templates/cfengine3.service.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -5340,9 +5553,12 @@
     },
     "8dcf689e1463607c57e7744730fa07f566fff838677f6555056a7a2a356e0d7f": {
       "masterfiles/templates/json_serial.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -5403,6 +5619,13 @@
     "8e8e4aab9bc4476e0240e6d77b688dbbbf3833aacc56cec39319dd057fac3010": {
       "masterfiles/lib/files.cf": ["3.13.0", "3.12.1", "3.12.0", "3.12.0b1"]
     },
+    "8ed50b5ab535197d71272a2498ac2d3e789bf760e2f8c7ab0d194ee7e79ecd37": {
+      "masterfiles/cfe_internal/update/update_bins.cf": [
+        "3.25.0",
+        "3.24.1",
+        "3.21.6"
+      ]
+    },
     "8f166991c78b6489deeffefc2022e08b160d7933a995c23e4a8f4767a9d32de3": {
       "masterfiles/controls/cf_execd.cf": [
         "3.21.1",
@@ -5421,9 +5644,12 @@
     },
     "8fa66fdfd83d610dfebc41f19f64934710dd7077697a72fa00accbe593d4cd1c": {
       "masterfiles/lib/feature.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -5459,9 +5685,12 @@
     },
     "8febf387d95c7a557c3ce11c2a017389b6517a4b00e13c362e436c22e0a78df9": {
       "masterfiles/inventory/suse.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -5659,6 +5888,7 @@
       "masterfiles/cfe_internal/enterprise/main.cf": [
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -5669,7 +5899,14 @@
       ]
     },
     "951627c137b6140136ead160bd9dca2a6addb168f5b153b835d36650c0e0276e": {
-      "masterfiles/inventory/any.cf": ["3.24.0", "3.21.5", "3.21.4"]
+      "masterfiles/inventory/any.cf": [
+        "3.25.0",
+        "3.24.1",
+        "3.24.0",
+        "3.21.6",
+        "3.21.5",
+        "3.21.4"
+      ]
     },
     "952b1d19a0bf532bf41067624323a870b94910059617ad9ac559e3750941913b": {
       "masterfiles/cfe_internal/update/update_processes.cf": [
@@ -5730,6 +5967,7 @@
       "masterfiles/lib/autorun.cf": [
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -5868,6 +6106,7 @@
       "masterfiles/cfe_internal/enterprise/CFE_hub_specific.cf": [
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -6034,9 +6273,12 @@
     },
     "9e71b98fe4eae140fc88889d7edd6c596b15279b7a3f798b17d4feac1068d200": {
       "masterfiles/inventory/freebsd.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -6187,9 +6429,12 @@
     },
     "a0556276838e9abc0a8a4443712a1911a0ec2d2e62fa3652dc59c397f8b2e12a": {
       "masterfiles/templates/cf-reactor.service.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -6208,9 +6453,12 @@
     },
     "a076fa053de4ad1ee6b82a17c2cdca6d988305b4e89da321006eccc45f1c2428": {
       "masterfiles/controls/cf_hub.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -6244,6 +6492,7 @@
       "masterfiles/templates/federated_reporting/dump.sh": [
         "3.24.0",
         "3.23.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.18.8",
@@ -6255,9 +6504,12 @@
     },
     "a0874e1e6a98baba5a56500be4dee57c169898ac97c389e130c492e4c6550f22": {
       "masterfiles/lib/storage.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -6376,6 +6628,7 @@
       "masterfiles/cfe_internal/update/update_processes.cf": [
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -6402,9 +6655,12 @@
     },
     "a34aa8468000d9d0dd3f67b09e1398be92add8d44a0344ab227fad732ebe0854": {
       "masterfiles/lib/reports.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -6431,9 +6687,12 @@
     },
     "a3cb14e89757f1031f01f06cdb08a575dcde9ff1448770a67055d859fa43a55d": {
       "masterfiles/cfe_internal/enterprise/templates/runalerts.sh.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -6478,14 +6737,18 @@
     },
     "a45defdf85a96d44ec438062bc9cc1af11fb545ee17c7ef2c49b5ead9ba76767": {
       "masterfiles/cfe_internal/enterprise/mission_portal.cf": [
+        "3.21.6",
         "3.21.5",
         "3.18.8"
       ]
     },
     "a47e143fc79092217b78a015c401c21b7af23c3329a5795f68737d62eca456fc": {
       "masterfiles/templates/cf-hub.service.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.18.8",
@@ -6494,9 +6757,12 @@
     },
     "a4aa01bc78abf6076abb1d677379741f899463708d1ad0f38eed8933026162e0": {
       "masterfiles/cfe_internal/update/lib.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -6509,6 +6775,7 @@
     "a4d1177ca41364ff8f1016aae7e6f2f6573d1f56ac6ffedf033d3ff24a889f39": {
       "masterfiles/cfe_internal/CFE_cfengine.cf": [
         "3.23.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.18.8",
@@ -6554,9 +6821,12 @@
     },
     "a59589f3891322f12858d487cfbbf72bc6fbcd912d54bbf4475ba0c9b2a30176": {
       "masterfiles/cfe_internal/core/limit_robot_agents.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -6641,7 +6911,7 @@
       "masterfiles/lib/3.6/cfe_internal_hub.cf": ["3.9.2"]
     },
     "a85460d747adbe1878e140abb7fe5bf5d176dce1d40c210ef7b204139bc48787": {
-      "masterfiles/controls/update_def.cf": ["3.24.0", "3.23.0"]
+      "masterfiles/controls/update_def.cf": ["3.24.1", "3.24.0", "3.23.0"]
     },
     "a88867ecbf4dd46c3c73e9f08c9b2082a213af8e3b33c802076971840be302be": {
       "masterfiles/lib/cfe_internal.cf": [
@@ -6658,7 +6928,7 @@
       "masterfiles/lib/packages.cf": ["3.15.0b1"]
     },
     "a89d93d82c5bb2f352b75172326447b311595d1e38c7be0735f421ef4b3769fc": {
-      "masterfiles/controls/cf_serverd.cf": ["3.24.0", "3.23.0"]
+      "masterfiles/controls/cf_serverd.cf": ["3.24.1", "3.24.0", "3.23.0"]
     },
     "a9302a5bb2ba7c93f4e6a20eb3b11a634f7618752cc1d11addaee243f0865c33": {
       "masterfiles/cfe_internal/update/cfe_internal_local_git_remote.cf": [
@@ -6683,9 +6953,12 @@
     },
     "aa09b5d6a77f4552d294951d1a47a1ffdd603a194a77a099fa0cb556298c4304": {
       "masterfiles/templates/vercmp.ps1": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -6721,9 +6994,12 @@
     },
     "aa5a3b4d77fab66fb54feb31390ec50068afa5c1b0169fbdbda75541eed53486": {
       "masterfiles/cfe_internal/core/watchdog/watchdog.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -6823,8 +7099,11 @@
     },
     "abe22afb79f45fe7c16b4038f14fb8479258699881d8b92ad1fa89527f99a930": {
       "masterfiles/templates/federated_reporting/config.sh.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.18.8",
@@ -6862,9 +7141,12 @@
     },
     "ac9488b33945dec74400045766755c96cd1c3f8853c65daf97e5d538a06269ba": {
       "masterfiles/services/main.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -6904,9 +7186,12 @@
     "ad3ff5c4fc1fa615e8a2c237683828ab1a1dbfd2f1e9237fff4a476360f29761": {
       "masterfiles/build/modules/packages/apk": ["3.18.0"],
       "masterfiles/modules/packages/vendored/apk.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -7059,9 +7344,12 @@
     },
     "b1bcec86740b495705bf8f6190242bf7fd03bc14eb47a1ddc9a91ff074630d9e": {
       "masterfiles/inventory/redhat.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -7143,9 +7431,12 @@
     },
     "b3fcd1a1b634d1cac26a23774a325f35128b53d29ac2281caffeb909757c2a70": {
       "masterfiles/cfe_internal/enterprise/file_change.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -7214,9 +7505,12 @@
     },
     "b54c17bd6ce3b02a37fbf26ea49763e2627550fc3f9dfce7fea5e7110e8cefc3": {
       "masterfiles/cfe_internal/core/watchdog/templates/watchdog-windows.ps1.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -7253,9 +7547,12 @@
     },
     "b641cdb4df6ca831525c307749cc3feeb071d26a6d0f567be3c408c29755be3f": {
       "masterfiles/lib/commands.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -7361,6 +7658,12 @@
     },
     "b72da5f08aab71b5f1b48f31495e730243ba93947a9eaff6d165f23030e74550": {
       "masterfiles/lib/3.5/storage.cf": ["3.7.5"]
+    },
+    "b738ee2167769ab1c3f26bf01f3c64e69433fa6cf4e715d64b4763adf83f3f0b": {
+      "masterfiles/cfe_internal/enterprise/federation/federation.cf": [
+        "3.25.0",
+        "3.24.1"
+      ]
     },
     "b75e4b763a87cbb9941f8094069e791de27e606424ed4323b531ac1f7955bbcc": {
       "masterfiles/cfe_internal/enterprise/CFE_hub_specific.cf": [
@@ -7530,9 +7833,12 @@
       "masterfiles/build/modules/packages/WiRunSQL.vbs": ["3.18.0"],
       "masterfiles/modules/packages/WiRunSQL.vbs": ["3.17.0", "3.16.0"],
       "masterfiles/modules/packages/vendored/WiRunSQL.vbs.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -7573,6 +7879,7 @@
     "bbea00153b40d7a8b9c0ce1cdf3f8bd7c7da0d7820324ba8282f5d29013a69fc": {
       "masterfiles/templates/cf-runalerts.service.mustache": [
         "3.23.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.18.8",
@@ -7582,9 +7889,12 @@
     "bbed218a3d250547cf45bce6eaeb42cddab096efb332e7c7a851e8fe80bdfc29": {
       "masterfiles/build/modules/packages/snap": ["3.18.0"],
       "masterfiles/modules/packages/vendored/snap.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -7610,9 +7920,12 @@
     },
     "bbf430580ab1d4ef08effe1ad940224237d46f84aadee18f1430caabb488f427": {
       "masterfiles/inventory/macos.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -7800,9 +8113,12 @@
     },
     "bf21cbfbbde080967f6f0c9a628c8b85ada47613f25426d0297055bbf46f6c5a": {
       "masterfiles/cfe_internal/enterprise/ha/ha_def.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -7846,7 +8162,11 @@
       "masterfiles/controls/3.6/update_def.cf": ["3.10.2"]
     },
     "c117242e22882b1abf5bd3ff20faea60bcf5ad66e52c054e0cbc7ea8c8a58cb7": {
-      "masterfiles/cfe_internal/update/update_processes.cf": ["3.24.0"]
+      "masterfiles/cfe_internal/update/update_processes.cf": [
+        "3.25.0",
+        "3.24.1",
+        "3.24.0"
+      ]
     },
     "c133fd8f8b25324c1f4b5fbe4695378fb505c5ff21f9e9fcd4829dbd693d5a9e": {
       "masterfiles/lib/3.5/storage.cf": ["3.7.8", "3.7.7", "3.7.6"]
@@ -7880,7 +8200,7 @@
       ]
     },
     "c1c6ff400edae1f91e4272de4907b8c9859452ef9ab3731f6809725b7d0f23f4": {
-      "masterfiles/controls/def.cf": ["3.24.0"]
+      "masterfiles/controls/def.cf": ["3.24.1", "3.24.0"]
     },
     "c1f3864fa0fb6bc498782aa2ab3694ef5a36149cb274f238dd9311bef05ab3bb": {
       "masterfiles/cfe_internal/update/update_policy.cf": [
@@ -7916,6 +8236,11 @@
     "c2761bff55a75d6c8f6c8fb8ce810074f723f577c4a7376812f7fd0fc58a354a": {
       "masterfiles/controls/3.5/reports.cf": ["3.7.8", "3.7.7", "3.7.6"]
     },
+    "c2a65f7cf4cab5d645633291c0401faea2ae6da9630912bce006031362780364": {
+      "masterfiles/cfe_internal/enterprise/templates/httpd.conf.mustache": [
+        "3.24.1"
+      ]
+    },
     "c334b0804c314c1e1239d88cf0a683301241b486648591798f8203fa0055134d": {
       "masterfiles/promises.cf": ["3.11.0"]
     },
@@ -7930,9 +8255,12 @@
     },
     "c4e9dda312a4106bdf08e1c7c0b23357f3e92c8a7b888443fd292a4a509874e5": {
       "masterfiles/services/init.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -7980,9 +8308,12 @@
     },
     "c6114f50129a3250296572f2a0f5b36b14445fcb89f0a9b963c0c6044bbe7b2e": {
       "masterfiles/lib/users.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -8003,14 +8334,20 @@
         "3.17.0"
       ]
     },
+    "c665dfd1918b5b48b929dbd20a2c8d61bf21c5ce461262e47b9952be1b8619a4": {
+      "masterfiles/templates/federated_reporting/dump.sh": ["3.25.0", "3.24.1"]
+    },
     "c672e1898e4d43de2ec3376ca55c8c0dc0f0db2dd1d1c1e8e5e1c031ebb61ebc": {
       "masterfiles/lib/3.6/packages.cf": ["3.9.2", "3.7.5"]
     },
     "c678a1e45f2a031a89a880b4361d33714da932075d66513a4de13bd9cdcd13b2": {
       "masterfiles/templates/federated_reporting/cfsecret.py": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -8116,8 +8453,11 @@
     },
     "c904c6714001f5722db51bf7e793490ea81d814555a33224a9c0d87e60b8bae6": {
       "masterfiles/templates/federated_reporting/import.sh": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.18.8",
@@ -8129,9 +8469,12 @@
     },
     "c995f2386d65f56ec66eb2fb391ccb6583cf36b423d8e2f8a595a8c6014b92c4": {
       "masterfiles/lib/edit_xml.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -8235,10 +8578,16 @@
       ]
     },
     "cb79caee27484cca01684d824d735e4880d25ca75b935e445491d42bd5352abf": {
-      "masterfiles/cfe_internal/enterprise/CFE_hub_specific.cf": ["3.24.0"]
+      "masterfiles/cfe_internal/enterprise/CFE_hub_specific.cf": [
+        "3.24.1",
+        "3.24.0"
+      ]
     },
     "cba4e7a98149305622a3273358b9dc103128694abe8d487f09694d6c4cb32b7c": {
       "masterfiles/cfe_internal/recommendations.cf": ["3.18.7"]
+    },
+    "cbc3c5d0392690e2e2c2ad7fd381473b32e5c9a9219fbd96db1dda23f0430fba": {
+      "masterfiles/cfe_internal/update/update_policy.cf": ["3.21.6"]
     },
     "cc5351d6f24f3a46a619197b61849e7f40e00b48c18d81f7883e45be6b4f4f5c": {
       "masterfiles/cfe_internal/core/main.cf": ["3.14.0"]
@@ -8254,9 +8603,12 @@
     },
     "cc9306f4008f55de2fc40b14e46494022405a10a17bcc02edc9ccd9ae5603267": {
       "masterfiles/modules/packages/vendored/pkg.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -8335,7 +8687,10 @@
       ]
     },
     "cdc2fdbab59e0d489478fa035c61ac05fede9ce8c9ee846448443745f1887310": {
-      "masterfiles/cfe_internal/enterprise/federation/federation.cf": ["3.21.5"]
+      "masterfiles/cfe_internal/enterprise/federation/federation.cf": [
+        "3.21.6",
+        "3.21.5"
+      ]
     },
     "cdd5113d18d921161581933be84944d2713a5b42ae883defa647d62430e32d1c": {
       "masterfiles/lib/3.6/bundles.cf": [
@@ -8353,9 +8708,12 @@
     },
     "cdd66b5e85b4cc8818778ad8d8bffe86d47d5cba8222c8d19e118a77680c175b": {
       "masterfiles/templates/federated_reporting/10-base_filter.sed": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -8402,6 +8760,9 @@
     "ce52813f68ce6571250bce7e96e5747247272776f9631bed3d5e772228f3e94f": {
       "masterfiles/cfe_internal/update/update_policy.cf": ["3.13.0"]
     },
+    "ce7e947f003660056ec84d4f82a3d81404495b79b7a00022ca7d123015874722": {
+      "masterfiles/promises.cf": ["3.24.1"]
+    },
     "cef4ef6d33adc8babe7a9dc0837673f471cfeed4d4dcefde445c155f6a29b7ac": {
       "masterfiles/update.cf": ["3.11.0", "3.11.0b1", "3.10.3", "3.10.2"]
     },
@@ -8424,7 +8785,13 @@
       "masterfiles/inventory/any.cf": ["3.7.7", "3.7.6", "3.7.5"]
     },
     "cff865a3ee34eb6c3a1fb150db4c3402315f0d8165e4f78d45a244d341ae0810": {
-      "masterfiles/inventory/os.cf": ["3.24.0", "3.21.5"]
+      "masterfiles/inventory/os.cf": [
+        "3.25.0",
+        "3.24.1",
+        "3.24.0",
+        "3.21.6",
+        "3.21.5"
+      ]
     },
     "d068984abe84dcb90c00f5aa43cd343ddf48662eb721093ddd7493c6c79aad96": {
       "modules/packages/zypper": ["3.12.3"]
@@ -8434,9 +8801,12 @@
     },
     "d0dc0d346d0d648eaf49de3de9bb0809f39e059c0c7fbbb6053dbc9791d20e67": {
       "masterfiles/cfe_internal/update/cfe_internal_update_from_repository.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -8490,7 +8860,9 @@
     },
     "d27b6716d9aaede8fb26cf65d0483cee6ef6d55677e4f3f5e29fcf5058c8d096": {
       "masterfiles/modules/packages/vendored/yum.mustache": [
+        "3.24.1",
         "3.24.0",
+        "3.21.6",
         "3.21.5",
         "3.18.8"
       ]
@@ -8499,7 +8871,11 @@
       "modules/packages/apt_get": ["3.10.0"]
     },
     "d2b1e1acb0850005f313ebc0f7e283f73309595227ba6428324b45cd2e8e385a": {
-      "masterfiles/cfe_internal/recommendations.cf": ["3.24.0"]
+      "masterfiles/cfe_internal/recommendations.cf": [
+        "3.25.0",
+        "3.24.1",
+        "3.24.0"
+      ]
     },
     "d2be401e31a88941a43c1c8d721a2ee5c993e12422da991b3a5e49c0e6ca2d6e": {
       "masterfiles/cfe_internal/enterprise/templates/runalerts.sh.mustache": [
@@ -8529,9 +8905,12 @@
       "masterfiles/build/modules/packages/pkgsrc": ["3.18.0"],
       "masterfiles/modules/packages/pkgsrc": ["3.17.0", "3.16.0"],
       "masterfiles/modules/packages/vendored/pkgsrc.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -8659,9 +9038,12 @@
     },
     "d5ac31af48ae537eb7cc5eb43b4f459efcba29d293332bdf2a3fbf8b38048e07": {
       "masterfiles/cfe_internal/enterprise/ha/ha.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -8702,7 +9084,7 @@
       "modules/packages/apt_get": ["3.10.1"]
     },
     "d60922ed1b6fe49d3125c2007c4abe614912f5829b06b858ae8af2f527e428e0": {
-      "masterfiles/lib/vcs.cf": ["3.24.0"]
+      "masterfiles/lib/vcs.cf": ["3.25.0", "3.24.1", "3.24.0"]
     },
     "d639825c16585a76ca1c232df696e341f15f3b8b01060f7631438f19c0ca99f5": {
       "masterfiles/promises.cf": ["3.10.4"]
@@ -8773,7 +9155,14 @@
       ]
     },
     "d8ead41cb0b258116a0b3b1ce74753512d6ded8fe1837e34d6083852995674ba": {
-      "masterfiles/cfe_internal/core/main.cf": ["3.24.0", "3.21.5", "3.18.8"]
+      "masterfiles/cfe_internal/core/main.cf": [
+        "3.25.0",
+        "3.24.1",
+        "3.24.0",
+        "3.21.6",
+        "3.21.5",
+        "3.18.8"
+      ]
     },
     "d8f5b2c107c1b4aa05de5df1a40c3a40cb1127577a265bae972713c3290755ed": {
       "masterfiles/inventory/any.cf": ["3.10.6"]
@@ -8788,6 +9177,7 @@
       "masterfiles/lib/vcs.cf": [
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -8816,9 +9206,12 @@
     },
     "da1483a9aa207d7d2432fa06f3c1a55e3fde875060e6e8ec18f7e752399c7a03": {
       "masterfiles/lib/guest_environments.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -8909,9 +9302,12 @@
     },
     "dd477db71a5003b9b03a4b3960314f6273bc439aba956e17abf8bdd19b8db76c": {
       "masterfiles/templates/federated_reporting/pull_dumps_from.sh": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -8931,8 +9327,11 @@
     },
     "de65e3545ca5fb0cc74152dd91b8725259619ab23f60e07b1743cb4f0be2789d": {
       "masterfiles/templates/cf-execd.service.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.18.8",
@@ -8947,9 +9346,12 @@
     },
     "de7917e4e0d2552b0447c2f6458aaa5ee07744f3cb140435884832bd83a49281": {
       "masterfiles/lib/bundles.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -9019,6 +9421,7 @@
       "masterfiles/lib/services.cf": [
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -9039,6 +9442,7 @@
     },
     "e020d2980903f8bf2a16d56679ce591135bc8ea85b32428da2a8647b6aec1611": {
       "masterfiles/controls/cf_serverd.cf": [
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -9127,9 +9531,12 @@
       "masterfiles/build/modules/packages/slackpkg": ["3.18.0"],
       "masterfiles/modules/packages/slackpkg": ["3.17.0", "3.16.0"],
       "masterfiles/modules/packages/vendored/slackpkg.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -9172,7 +9579,10 @@
     },
     "e2cb1575c5c69f635912b7bfa309555882d2d24d235b63bf3f8777eac5a4c6b1": {
       "masterfiles/templates/federated_reporting/distributed_cleanup.py": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
+        "3.21.6",
         "3.21.5",
         "3.18.8"
       ]
@@ -9246,6 +9656,9 @@
     "e53593f7ed122db67127ac6537c0e32f762026911f2dbaea3f15a77c3c91dd84": {
       "masterfiles/standalone_self_upgrade.cf": ["3.18.8"]
     },
+    "e5b6f120871d0d364dc644527497d3a8a49b49bf7746e7a5351dcadadc2131ec": {
+      "masterfiles/promises.cf": ["3.21.6"]
+    },
     "e5c2416f294ca523710fdb205efc2837fae4fb0cb1718f699f22ac3616c36df1": {
       "masterfiles/update.cf": ["3.10.7", "3.10.6"]
     },
@@ -9269,6 +9682,9 @@
     "e6b281fa21509a408cf0a73ddc89ba01382478366333d9f4be3f254c46919060": {
       "masterfiles/lib/3.7/cfe_internal_hub.cf": ["3.7.8", "3.7.7", "3.7.6"]
     },
+    "e73da13bb0f0e3b49ea4dd89eac8490e9c199abed91bb34351625812992a16cc": {
+      "masterfiles/promises.cf": ["3.25.0"]
+    },
     "e7a286172b950b4e6a07ea497695962ea4bd37b370a4cfae4b6a050648b91b39": {
       "masterfiles/cfe_internal/update/update_processes.cf": [
         "3.10.6",
@@ -9277,9 +9693,12 @@
     },
     "e7ad285a5a0c9cb1d0be82e1d094fba375b1621bc2cfac161b9c80374a3f51aa": {
       "masterfiles/inventory/linux.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -9311,9 +9730,12 @@
     },
     "ea4f08124bbcffa8e0bc9c0059bcbbf7bd8a5b3af572c8178b615959f357ad36": {
       "masterfiles/controls/cf_monitord.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -9365,9 +9787,12 @@
     },
     "eb6930e107b04531a73a9103391e02dfd52ae17d049a1a963f57791deb836f42": {
       "masterfiles/lib/packages-ENT-3719.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -9439,9 +9864,12 @@
     },
     "ec8a8e6cf23ad96bcd6fa047e1053f72131884c474c93d6f274bf4cfadaaf92b": {
       "masterfiles/inventory/generic.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -9499,6 +9927,9 @@
         "3.7.5"
       ]
     },
+    "ed1c8826464f9607bbc3e74f0d3e14d579f8694c5a1489a7cbb00d57e0d6fb28": {
+      "masterfiles/controls/update_def.cf": ["3.25.0"]
+    },
     "ed2c3203a689499f7f41c121c31ea62715f4c12c72dd3e599a8a3124d4424739": {
       "masterfiles/controls/cf_serverd.cf": ["3.10.7"]
     },
@@ -9521,10 +9952,15 @@
       "masterfiles/cfe_internal/core/watchdog/watchdog.cf": ["3.15.3"]
     },
     "ee0603552468b276674ccd5566ead3d9c5bb5aa3e13df1e17388904f9983ea25": {
-      "masterfiles/modules/packages/vendored/zypper.mustache": ["3.24.0"]
+      "masterfiles/modules/packages/vendored/zypper.mustache": [
+        "3.25.0",
+        "3.24.1",
+        "3.24.0"
+      ]
     },
     "ee18be41d8b8bb1179586fc07babffd050ebe82216230c6519e540ddbf9a3e3f": {
       "masterfiles/update.cf": [
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -9538,9 +9974,12 @@
     },
     "ee24207856565efb2b474d0ac6c39fbf23dbd95ec9d0bb54a51b7a7f3da521ad": {
       "masterfiles/controls/reports.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -9562,9 +10001,12 @@
     },
     "ef0b671cca7556f780a255d47ef9706647cfec119f7b217c3012c64590fe4f18": {
       "masterfiles/cfe_internal/update/cfe_internal_dc_workflow.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -9661,9 +10103,12 @@
     },
     "f19834c447d14b8306e280d2fac6b14fc53a47fe46215e0fc95719928faa6abb": {
       "masterfiles/lib/monitor.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -9748,6 +10193,9 @@
     "f49de7a0fa37b351eb0588a3155951e86441515fa9615d0b42b21fb3c0fa868c": {
       "masterfiles/controls/update_def.cf": ["3.18.0"]
     },
+    "f4be0f4144875caddc9ad3de9dce306651f2de6ef73f5250b79b46a86d705415": {
+      "masterfiles/cfe_internal/update/update_policy.cf": ["3.25.0", "3.24.1"]
+    },
     "f4d8f3e56c5bb066ec90cd986571e85cc0f0aa33051fed1db35d0c4ae2099556": {
       "masterfiles/lib/cfe_internal_hub.cf": ["3.13.0", "3.12.1"]
     },
@@ -9809,9 +10257,12 @@
     },
     "f6ec83619d42d768e22e95afd2a2306b56a74241e924a9181dca29817445586e": {
       "masterfiles/modules/packages/vendored/msiexec-list.vbs.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -9895,9 +10346,12 @@
         "3.7.5"
       ],
       "masterfiles/controls/def_inputs.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -9953,9 +10407,12 @@
     },
     "f97168396d6c9f26ce4c641ea91188ab4a72de5a819267b5c945f9edf07571c2": {
       "masterfiles/lib/templates/tap.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -10003,9 +10460,12 @@
     },
     "fa0374380c3b0160cc43d14ab882f89c21146f6eda52f6ab8d3d3e5a7b25626c": {
       "masterfiles/templates/cfengine_watchdog.mustache": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -10065,9 +10525,12 @@
     },
     "fb1c3f026553b4b03e41b3686f67fc62518a418792e6da07dcdeef8917754054": {
       "masterfiles/cfe_internal/core/host_info_report.cf": [
+        "3.25.0",
+        "3.24.1",
         "3.24.0",
         "3.23.0",
         "3.22.0",
+        "3.21.6",
         "3.21.5",
         "3.21.4",
         "3.21.3",
@@ -10242,6 +10705,13 @@
     },
     "fe2f1fe02b58fa2c76d7fb40380f78002db7c94f32cc6d161ee78c2ee8dbd4e1": {
       "masterfiles/controls/3.6/update_def.cf": ["3.10.3"]
+    },
+    "fe5b26eddcfb13867afc68057c37dbf7165298de5bd629dc9fc3de87e40aac05": {
+      "masterfiles/cfe_internal/update/systemd_units.cf": [
+        "3.25.0",
+        "3.24.1",
+        "3.21.6"
+      ]
     },
     "fe6f59df4750ffc3f82c715fd967007f35132aac7dac3507aad930e0da40b538": {
       "masterfiles/inventory/any.cf": ["3.11.0", "3.11.0b1", "3.10.2", "3.10.1"]
