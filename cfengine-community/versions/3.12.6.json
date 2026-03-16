@@ -1,0 +1,179 @@
+{
+  "project": "community",
+  "version": "3.12.6 LTS",
+  "artifacts": {
+    "Binary packages": [
+      {
+        "Title": "32-bit Debian 7 or later, Ubuntu 14.04, and other Debian-based distribution",
+        "Arch": "x86",
+        "classexpr": "(debian|ubuntu).32_bit",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.12.6/agent_deb_i386/cfengine-community_3.12.6-1.debian7_i386.deb",
+        "SHA256": "c95a3fe6940975c78af70e213a63189fcb5fca263b04c596cf272086f01b593b",
+        "package": "PACKAGES_i386_linux_debian_7"
+      },
+      {
+        "Title": "64-bit Debian 7 or later",
+        "Arch": "x86_64",
+        "classexpr": "debian_7.64_bit",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.12.6/agent_deb_x86_64/cfengine-community_3.12.6-1.debian7_amd64.deb",
+        "SHA256": "c6babb89f2971eaa2d9ffa543f3fa6f73fac06dbc083709aebc2457bd3f3d4fc",
+        "package": "PACKAGES_x86_64_linux_debian_7"
+      },
+      {
+        "Title": "64-bit Debian 8 or later",
+        "Arch": "x86_64",
+        "classexpr": "debian_8.64_bit",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.12.6/agent_debian8_x86_64/cfengine-community_3.12.6-1.debian8_amd64.deb",
+        "SHA256": "00755ba0c5b864f5293f70b70f5d8ffa045cddac5ea461eebf60a225b5247e33",
+        "package": "PACKAGES_x86_64_linux_debian_8"
+      },
+      {
+        "Title": "64-bit Debian 9 or later",
+        "Arch": "x86_64",
+        "classexpr": "debian_9.64_bit",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.12.6/agent_debian9_x86_64/cfengine-community_3.12.6-1.debian9_amd64.deb",
+        "SHA256": "43c9c7a463582e10b99d06b10aeded7e08fb1cf31cb97393ca7093e65ecebc73",
+        "package": "PACKAGES_x86_64_linux_debian_9"
+      },
+      {
+        "Title": "64-bit Ubuntu 14.04 or later",
+        "Arch": "x86_64",
+        "classexpr": "ubuntu_14.64_bit",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.12.6/agent_ubuntu14_x86_64/cfengine-community_3.12.6-1.ubuntu14_amd64.deb",
+        "SHA256": "d0367298280ab6d222405e6bd883e1e154f01c12de2e2bda3cac64ebec4457de",
+        "package": "PACKAGES_x86_64_linux_ubuntu_14"
+      },
+      {
+        "Title": "64-bit Ubuntu 16.04 or later",
+        "Arch": "x86_64",
+        "classexpr": "ubuntu_16.64_bit",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.12.6/agent_ubuntu16_x86_64/cfengine-community_3.12.6-1.ubuntu16_amd64.deb",
+        "SHA256": "c3869a0fb10a0458f7e22b2be0ac8ff3bcf0c7bb84187042c71874620631e248",
+        "package": "PACKAGES_x86_64_linux_ubuntu_16"
+      },
+      {
+        "Title": "64-bit Ubuntu 18.04 or later",
+        "Arch": "x86_64",
+        "classexpr": "ubuntu_18.64_bit",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.12.6/agent_ubuntu18_x86_64/cfengine-community_3.12.6-1.ubuntu18_amd64.deb",
+        "SHA256": "87b8d0ad8c746184a9823e3b2228046a973aa307d0c9f2ce3df4e743f3a4e4df",
+        "package": "PACKAGES_x86_64_linux_ubuntu_18"
+      },
+      {
+        "Title": "32-bit Red Hat / CentOS 5 and other RPM-based distribution",
+        "Arch": "x86",
+        "classexpr": "(redhat|centos|suse|sles).32_bit",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.12.6/agent_rpm_i386/cfengine-community-3.12.6-1.el5.centos.i386.rpm",
+        "SHA256": "fb1560574b171881587ca91b11790533ab1448aed92db6a48dea36eec5736ffc",
+        "package": "PACKAGES_i386_linux_redhat_5"
+      },
+      {
+        "Title": "64-bit Red Hat / CentOS 5 and later",
+        "Arch": "x86_64",
+        "classexpr": "(redhat_5|centos_5).64_bit",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.12.6/agent_rpm_x86_64/cfengine-community-3.12.6-1.el5.centos.x86_64.rpm",
+        "SHA256": "f7bb824637a09b763c7db190a4af4043c7a670b571409de29cec4318738c936a",
+        "package": "PACKAGES_x86_64_linux_redhat_5"
+      },
+      {
+        "Title": "64-bit Red Hat / CentOS 6 and later (optimised package, recommended for the policy hub)",
+        "Arch": "x86_64",
+        "classexpr": "(redhat_6|centos_6).64_bit",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.12.6/agent_rhel6_x86_64/cfengine-community-3.12.6-1.el6.x86_64.rpm",
+        "SHA256": "83274c2d05c0e9566325c9301c0aef11e5632bae75021b9e1ef56938ade3e9e6",
+        "Footnote": 1,
+        "package": "PACKAGES_x86_64_linux_redhat_6"
+      },
+      {
+        "Title": "64-bit Red Hat / CentOS 7 (optimised package, recommended for the policy hub)",
+        "Arch": "x86_64",
+        "classexpr": "(redhat_7|centos_7).64_bit",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.12.6/agent_rhel7_x86_64/cfengine-community-3.12.6-1.el7.x86_64.rpm",
+        "SHA256": "6250aea95bc1239ecdfa7ef9d3dbc7182197911c2629750ddb0d7f20e18081ae",
+        "Footnote": 1,
+        "package": "PACKAGES_x86_64_linux_redhat_7"
+      },
+      {
+        "Title": "64-bit Red Hat / CentOS 8 (optimised package, recommended for the policy hub)",
+        "Arch": "x86_64",
+        "classexpr": "(redhat_8|centos_8).64_bit",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.12.6/agent_rhel8_x86_64/cfengine-community-3.12.6-1.el8.x86_64.rpm",
+        "SHA256": "836f471b3204c5a5f1b0165b17a8d14801b2f1da56b005a42dc030d1638c82f4",
+        "Footnote": 1,
+        "package": "PACKAGES_x86_64_linux_redhat_8"
+      }
+    ],
+    "Additional Assets": [
+      {
+        "Title": "Masterfiles ready-to-install tarball",
+        "Arch": "no arch",
+        "classexpr": "!any",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.12.6/misc/cfengine-masterfiles-3.12.6-1.pkg.tar.gz",
+        "SHA256": "560b5bcdf77d5285353d3cc1f95f43bf25d01556ab51c18243e672ecba82e303",
+        "package": "PACKAGES_VIRTUAL_PACKAGES_masterfiles"
+      },
+      {
+        "Title": "Linux binary tarball (unsupported)",
+        "Arch": "x86",
+        "classexpr": "!any",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.12.6/misc/cfengine-community-3.12.6-1.i386.pkg.tar.gz",
+        "SHA256": "7f408c0dfa2727575be1c46cdbf681f0d7521c8935119d95ec7830cd01e7d27d",
+        "Footnote": 2,
+        "Instructions": "https://docs.cfengine.com/docs/3.12/guide-installation-and-configuration-general-installation-installation-enterprise-generic-tarball.html"
+      },
+      {
+        "Title": "Linux binary tarball (unsupported)",
+        "Arch": "x86_64",
+        "classexpr": "!any",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.12.6/misc/cfengine-community-3.12.6-1.x86_64.pkg.tar.gz",
+        "SHA256": "bfb557c93a5de2dfd911b946cfc53b1c9a7142c57d5292ff55d7603cf1880c2a",
+        "Footnote": 2,
+        "Instructions": "https://docs.cfengine.com/docs/3.12/guide-installation-and-configuration-general-installation-installation-enterprise-generic-tarball.html"
+      },
+      {
+        "Title": "Vagrant Environment",
+        "Arch": "Linux/Mac/Windows (Virtualbox)",
+        "classexpr": "!any",
+        "Published": false,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.12.6/misc/CFEngine_Enterprise_vagrant_quickstart-3.12.6-1.tar.gz",
+        "SHA256": "37098f3ff96f466f8aa95f6d36e45ff7ed120213f48ab33fa44e1d9b9800ebe8",
+        "Instructions": "https://docs.cfengine.com/docs/3.12/guide-installation-and-configuration-general-installation-installation-enterprise-vagrant.html"
+      },
+      {
+        "Title": "Source code tarball",
+        "Arch": "no arch",
+        "classexpr": "!any",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/tarballs/cfengine-3.12.6.tar.gz",
+        "SHA256": "7181c25ac747e70981e13062833b480d70162635a2193d8e0472228ff105c16d"
+      },
+      {
+        "Title": "Masterfiles source tarball",
+        "Arch": "no arch",
+        "classexpr": "!any",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/tarballs/cfengine-masterfiles-3.12.6.tar.gz",
+        "SHA256": "03d436a1b86f8ba1b0386916098e48df2a0ecb801279e2b5dbaeb15936d1184f"
+      }
+    ]
+  },
+  "footnotes": [
+    "Packages for Red Hat / CentOS 6 and later provide stability and performance enhancements for these platforms, but these platforms can also use the generic 64-bit packages.",
+    "Tarball containing compiled CFEngine host (client) binaries that runs on most Linux systems but are not optimized for specific library or platform features. Appropriate for testing purposes. Not supported under the CFEngine support contract."
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "project": "community",
+  "version": "3.10.7 LTS",
+  "artifacts": {
+    "Binary packages": [
+      {
+        "Title": "32-bit Ubuntu and other Debian-based distribution",
+        "Arch": "x86",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.10.7/agent_deb_i386/cfengine-community_3.10.7-1_i386-debian4.deb",
+        "SHA256": "86a5fc1abb809731167a18bbe0ebe7004fff12dbf4dd806fe23bb676e865b95d"
+      },
+      {
+        "Title": "64-bit Ubuntu and other Debian-based distribution",
+        "Arch": "x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.10.7/agent_deb_x86_64/cfengine-community_3.10.7-1_amd64-debian4.deb",
+        "SHA256": "169a0720d915d38f66d01c35d702cdcf8afc16801f6a62f77d5a5b87e0b37a1d"
+      },
+      {
+        "Title": "64-bit Debian 7, Ubuntu 14.04, or later (optimised package, recommended for the policy hub)",
+        "Arch": "x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.10.7/agent_debian7_x86_64/cfengine-community_3.10.7-1_amd64-debian7.deb",
+        "SHA256": "f95fbeece7d185ef1332ae353254024f5a898685a35170db3b957713f35f9565",
+        "Footnote": 1
+      },
+      {
+        "Title": "32-bit RPM-based distribution",
+        "Arch": "x86",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.10.7/agent_rpm_i386/cfengine-community-3.10.7-1.el4.i386.rpm",
+        "SHA256": "a10dc561da6937c69075fddef5970f78e97f4eb9021d7ff6b72d63c0b7873a9f"
+      },
+      {
+        "Title": "64-bit RPM-based distribution",
+        "Arch": "x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.10.7/agent_rpm_x86_64/cfengine-community-3.10.7-1.el4.x86_64.rpm",
+        "SHA256": "152aa5a0aac0f55fb72e6224654b341d147a3dbd97368f7fbcf1148462dfc39e"
+      },
+      {
+        "Title": "64-bit Red Hat / CentOS 6 and 7 (optimised package, recommended for the policy hub)",
+        "Arch": "x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.10.7/agent_rhel6_x86_64/cfengine-community-3.10.7-1.el6.x86_64.rpm",
+        "SHA256": "3d778445e13dacc1e0357373864efd0669206f0ad6975458d3404cbb500cb864",
+        "Footnote": 1
+      }
+    ],
+    "Additional Assets": [
+      {
+        "Title": "Masterfiles ready-to-install tarball",
+        "Arch": "no arch",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.10.7/misc/cfengine-masterfiles-3.10.7.pkg.tar.gz",
+        "SHA256": "dc1a8add8d6196f8df80e73e4b2eb3caeb29d1bcc770717d6bd290176e9483ff"
+      },
+      {
+        "Title": "Linux binary tarball (unsupported)",
+        "Arch": "x86",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.10.7/misc/cfengine-community-3.10.7.i386.pkg.tar.gz",
+        "SHA256": "5b3c7a252458ebaa3af60e59b7a6e6cf4e6ea60f95385cce004d1da1bbcfc228",
+        "Footnote": 2,
+        "Instructions": "https://docs.cfengine.com/docs/3.10/guide-installation-and-configuration-general-installation-installation-enterprise-generic-tarball.html"
+      },
+      {
+        "Title": "Linux binary tarball (unsupported)",
+        "Arch": "x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.10.7/misc/cfengine-community-3.10.7.x86_64.pkg.tar.gz",
+        "SHA256": "e0ca2e3e72dc54bf2d3c08bc6509470543bd5f8014cdd2634e66dcfb4e205dcd",
+        "Footnote": 2,
+        "Instructions": "https://docs.cfengine.com/docs/3.10/guide-installation-and-configuration-general-installation-installation-enterprise-generic-tarball.html"
+      },
+      {
+        "Title": "Source code tarball",
+        "Arch": "no arch",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/tarballs/cfengine-3.10.7.tar.gz",
+        "SHA256": "07f28f56254681d9cb85472ddbf889d4f74d5b3f7a58719363e30a34255fb400"
+      },
+      {
+        "Title": "Masterfiles source tarball",
+        "Arch": "no arch",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/tarballs/cfengine-masterfiles-3.10.7.tar.gz",
+        "SHA256": "b94d49c0b3e00fd2ed5f23cf3c9b1d17491b5efc7e722488a5665a7b9b8025ff"
+      }
+    ]
+  },
+  "footnotes": [
+    "The Debian 7 / Ubuntu 14 and Red Hat / CentOS 6 packages provide stability and performance enhancements for these platforms, but these platforms can also use the generic 64-bit packages.",
+    "Tarball containing compiled CFEngine host (client) binaries that runs on most Linux systems but are not optimized for specific library or platform features. Appropriate for testing purposes. Not supported under the CFEngine support contract."
+  ]
+}

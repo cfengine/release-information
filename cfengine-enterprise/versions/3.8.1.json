@@ -1,0 +1,132 @@
+{
+  "project": "enterprise",
+  "artifacts": {
+    "Additional Assets": [
+      {
+        "Title": "Vagrant Environment",
+        "URL": "http://cfengine.vagrant-baseboxes.s3.amazonaws.com/enterprise-getting-started/CFEngine_Enterprise_vagrant_quickstart-3.8.1-1.tar.gz",
+        "Published": true,
+        "SHA256": "",
+        "Arch": "Linux/Mac/Windows (Virtualbox)",
+        "Instructions": "https://docs.cfengine.com/docs/3.8/guide-installation-and-configuration-general-installation-installation-enterprise-vagrant.html"
+      }
+    ],
+    "Hosts (Clients)": [
+      {
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.8.1/agent/aix_5_ppc/cfengine.cfengine-nova-3.8.1.0.bff",
+        "SHA256": "61d2b976844ef92912b4a781bd52ec014375be433c05bf070287630b79f3a94f",
+        "Arch": "PowerPC",
+        "Published": true,
+        "Title": "AIX 5.3, 6.1, 7.1"
+      },
+      {
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.8.1/agent/agent_deb_i386/cfengine-nova_3.8.1-1_i386.deb",
+        "SHA256": "52e8d1a482b007d2e9e49943921c54a8d53be19a694e50dc2a9ea001ce3613df",
+        "Arch": "x86",
+        "Published": true,
+        "Title": "Debian 6, 7, 8 & Ubuntu 10.04, 12.04"
+      },
+      {
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.8.1/agent/agent_deb_x86_64/cfengine-nova_3.8.1-1_amd64.deb",
+        "SHA256": "0e7c5764927782719aa9b34fe90187c2f06c2c28a9a448c7afbbc93ae56f8c82",
+        "Arch": "x86_64",
+        "Published": true,
+        "Title": "Debian 6, 7, 8 & Ubuntu 10.04, 12.04"
+      },
+      {
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.8.1/agent/hpux/cfengine-nova-3.8.1-B.11.23-ia64.depot",
+        "SHA256": "fd75c5e2d61b042800bd72d1433c29afba0dc2337191e195b4d1bb16a7551559",
+        "Arch": "Itanium",
+        "Published": true,
+        "Title": "HP-UX 11.23+"
+      },
+      {
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.8.1/agent/agent_rpm_i386/cfengine-nova-3.8.1-1.i386.rpm",
+        "SHA256": "334103ab866bb51cdf9806823880240eff61020d62e5ccf50e94114234d52f33",
+        "Arch": "x86",
+        "Published": true,
+        "Title": "Red Hat / CentOS 4, 5, 6, 7 & SLES 10, 11"
+      },
+      {
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.8.1/agent/agent_rpm_x86_64/cfengine-nova-3.8.1-1.x86_64.rpm",
+        "SHA256": "99c3d477b4ff1cd00be46d76291031444faeb8dca60cf588434161312eda644b",
+        "Arch": "x86_64",
+        "Published": true,
+        "Title": "Red Hat / CentOS 4, 5 & SLES 10, 11"
+      },
+      {
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.8.1/agent/agent_rhel6_x86_64/cfengine-nova-3.8.1-1.x86_64.rpm",
+        "SHA256": "e938b2f8e8c204ba8f2b640b8b9e5f9fbfa580971fafb0b8a32e3dddbe2fb480",
+        "Arch": "x86_64",
+        "Published": true,
+        "Title": "Red Hat / CentOS 6 & 7"
+      },
+      {
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.8.1/agent/solaris_9_sparc/CFEcfengine-nova-3.8.1-sparc.pkg",
+        "SHA256": "932ff5fe3c24f2e6191b277a3aec8b8e457d5798018a3eb02e8e0779843e14bc",
+        "Arch": "SPARC",
+        "Published": true,
+        "Title": "Solaris 9"
+      },
+      {
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.8.1/agent/solaris_10_sparc/CFEcfengine-nova-3.8.1-sparc.pkg",
+        "SHA256": "d2185c33c56dbc373995036e1ad6c0d85fd51807c1b006535c26d9469a54b4fc",
+        "Arch": "SPARC",
+        "Published": true,
+        "Title": "Solaris 10"
+      },
+      {
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.8.1/agent/solaris_11_sparc/CFEcfengine-nova-3.8.1-sparc.pkg",
+        "SHA256": "eb6bc6aa3ff77340e4eae8b0302beda62d19484d400f8499d2f15f472cc213ae",
+        "Arch": "SPARC",
+        "Published": true,
+        "Title": "Solaris 11"
+      },
+      {
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.8.1/agent/windows_i686/cfengine-nova-3.8.1-i686.msi",
+        "SHA256": "fbf04782043b6d379a60c02937b55898f10a0f8ae24fc3c903ea82590caae435",
+        "Arch": "x86",
+        "Published": true,
+        "Title": "Windows Server 2008"
+      },
+      {
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.8.1/agent/windows_x86_64/cfengine-nova-3.8.1-x86_64.msi",
+        "SHA256": "cf3f7027966d9df51de96d3f849020aba47befcf5228bd16b3d548d8b2606284",
+        "Arch": "x86_64",
+        "Published": true,
+        "Title": "Windows Server 2008, 2012"
+      }
+    ],
+    "Policy Server": [
+      {
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.8.1/hub/debian_6_x86_64/cfengine-nova-hub_3.8.1-1_amd64.deb",
+        "SHA256": "9a3979a52c162adf9307ef44043c296bcc6568544d8f3752795a55b0e9901dfc",
+        "Arch": "x86_64",
+        "Published": true,
+        "Title": "Debian 6, 7 & 8"
+      },
+      {
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.8.1/hub/redhat_5_x86_64/cfengine-nova-hub-3.8.1-1.x86_64.rpm",
+        "SHA256": "6615cf4a26ccb66f433c0864062a5254a6ea7ce24be3f3f474994b93fe2dc419",
+        "Arch": "x86_64",
+        "Published": true,
+        "Title": "Red Hat / CentOS 5"
+      },
+      {
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.8.1/hub/redhat_6_x86_64/cfengine-nova-hub-3.8.1-1.x86_64.rpm",
+        "SHA256": "4be995bfd4e2f0f396cb13bf348509329dd6dd70647c7ecb0c6d5021060b0086",
+        "Arch": "x86_64",
+        "Published": true,
+        "Title": "Red Hat / CentOS 6 & 7"
+      },
+      {
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.8.1/hub/ubuntu_12_x86_64/cfengine-nova-hub_3.8.1-1_amd64.deb",
+        "SHA256": "5c5159015df2400e2925fb81e7da06af7552f66d49d8f494037d2bb79b6cd179",
+        "Arch": "x86_64",
+        "Published": true,
+        "Title": "Ubuntu 12.04"
+      }
+    ]
+  },
+  "version": "3.8.1 non-LTS (unsupported)"
+}

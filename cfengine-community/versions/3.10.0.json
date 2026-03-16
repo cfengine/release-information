@@ -1,0 +1,71 @@
+{
+  "project": "community",
+  "version": "3.10.0 LTS",
+  "artifacts": {
+    "Binary packages": [
+      {
+        "Title": "32-bit Debian-based distribution",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/cfengine-community_3.10.0-1_i386.deb",
+        "SHA256": "2c5774dfb77024e6c95eecdeb580d338dadcc626128dd5782c494b5e6582e7ea",
+        "Arch": "x86",
+        "Published": true
+      },
+      {
+        "Title": "64-bit Debian-based distribution",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/cfengine-community_3.10.0-1_amd64.deb",
+        "SHA256": "d06b10ffd09250227b6abc9846a1cbd082edcaa4692770c0d41a0e06a0fff5da",
+        "Arch": "x86_64",
+        "Published": true
+      },
+      {
+        "Title": "64-bit Debian 7, Ubuntu 14.04, or later (optimised package, recommended for the policy hub)",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/cfengine-community_3.10.0-1_amd64-debian7.deb",
+        "SHA256": "33f9955ab8f4b6d46c9dea760ab963a627bc5d5cc36fe5e398b1588e76557502",
+        "Arch": "x86_64",
+        "Published": true
+      },
+      {
+        "Title": "32-bit RPM-based distribution",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/cfengine-community-3.10.0-1.i386.rpm",
+        "SHA256": "b630b113891a528ef3788073b34a9cc1004280ab597bd7f6a86e921e56e13394",
+        "Arch": "x86",
+        "Published": true
+      },
+      {
+        "Title": "64-bit RPM-based distribution",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/cfengine-community-3.10.0-1.x86_64.rpm",
+        "SHA256": "5b23f2c61237506ffe87a2c3c31ad4efabbce72520894d42e5349d1f3500c2dd",
+        "Arch": "x86_64",
+        "Published": true
+      },
+      {
+        "Title": "64-bit Red Hat / CentOS 6 or later (optimised package, recommended for the policy hub)",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/cfengine-community-3.10.0-1.el6.x86_64.rpm",
+        "SHA256": "61f16a06871ef1c43b3aa654e454c08fc060635ec6f41a8c3f7c0f0d20effd7f",
+        "Arch": "x86_64",
+        "Published": true
+      },
+      {
+        "Title": "Masterfiles ready-to-install tarball",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/tarballs/cfengine-masterfiles-3.10.0.pkg.tar.gz",
+        "SHA256": "7b5e237529e11ce4ae295922dad1a681f13b95f3a7d247d39d3f5088f1a1d7d3",
+        "Arch": "no arch",
+        "Published": true
+      },
+      {
+        "Title": "Source code tarball",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/tarballs/cfengine-3.10.0.tar.gz",
+        "SHA256": "8bf344eb6e9c06c0e12c1b23f5c793f43d43007826652e563cb9b2516742ecd5",
+        "Arch": "no arch",
+        "Published": true
+      },
+      {
+        "Title": "Masterfiles source tarball",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/tarballs/cfengine-masterfiles-3.10.0.tar.gz",
+        "SHA256": "64c086c91f10e4b72d45915033006e0bdce33ec247cd5bec67989e24e02eeb51",
+        "Arch": "no arch",
+        "Published": true
+      }
+    ]
+  }
+}

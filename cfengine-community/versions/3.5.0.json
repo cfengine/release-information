@@ -1,0 +1,36 @@
+{
+  "project": "community",
+  "version": "3.5.0-1",
+  "artifacts": {
+    "Binary packages": [
+      {
+        "Title": "32-bit Debian-based distribution",
+        "URL": "https://s3.amazonaws.com/cfengine-package-repos/community_binaries/cfengine-community_3.5.0-1_i386.deb",
+        "SHA256": "n/a",
+        "Arch": "x86",
+        "Published": true
+      },
+      {
+        "Title": "64-bit Debian-based distribution",
+        "URL": "https://s3.amazonaws.com/cfengine-package-repos/community_binaries/cfengine-community_3.5.0-1_amd64.deb",
+        "SHA256": "n/a",
+        "Arch": "x86_64",
+        "Published": true
+      },
+      {
+        "Title": "32-bit RPM-based distribution",
+        "URL": "https://s3.amazonaws.com/cfengine-package-repos/community_binaries/cfengine-community-3.5.0-1.i386.rpm",
+        "SHA256": "n/a",
+        "Arch": "x86",
+        "Published": true
+      },
+      {
+        "Title": "64-bit RPM-based distribution",
+        "URL": "https://s3.amazonaws.com/cfengine-package-repos/community_binaries/cfengine-community-3.5.0-1.x86_64.rpm",
+        "SHA256": "n/a",
+        "Arch": "x86_64",
+        "Published": true
+      }
+    ]
+  }
+}
