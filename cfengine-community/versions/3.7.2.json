@@ -1,0 +1,57 @@
+{
+  "project": "community",
+  "version": "3.7.2 LTS",
+  "artifacts": {
+    "Binary packages": [
+      {
+        "Title": "32-bit Debian-based distribution",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/cfengine-community_3.7.2-1_i386.deb",
+        "SHA256": "9ae639c49af67e2308711a2ddf9c163d7aadbee8ba70f24b08eeb6021591ac93",
+        "Arch": "x86",
+        "Published": true
+      },
+      {
+        "Title": "64-bit Debian-based distribution",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/cfengine-community_3.7.2-1_amd64.deb",
+        "SHA256": "f87df0d11a49d33cf64536e7913dd3966ac77ba6ed4b0859e5c5a09c4b5d5724",
+        "Arch": "x86_64",
+        "Published": true
+      },
+      {
+        "Title": "32-bit RPM-based distribution",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/cfengine-community-3.7.2-1.i386.rpm",
+        "SHA256": "b2a65a4f4ce54ab2a618c09fb862df258fedfeb3722b66ad3aa4b41ee7e372c6",
+        "Arch": "x86",
+        "Published": true
+      },
+      {
+        "Title": "64-bit RPM-based distribution",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/cfengine-community-3.7.2-1.x86_64.rpm",
+        "SHA256": "fe510b3fce2febec1f09b6a06250eaba4635ace6d7bbb2e5b3f7e183348c3409",
+        "Arch": "x86_64",
+        "Published": true
+      },
+      {
+        "Title": "64-bit Red Hat / CentOS 6 or later",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/cfengine-community-3.7.2-1.el6.x86_64.rpm",
+        "SHA256": "304131b072ac87a8472e604e3d7cee8357fb9bf48fe7416ca19fc932ca04d83c",
+        "Arch": "x86_64",
+        "Published": true
+      },
+      {
+        "Title": "Source code tarball",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/tarballs/cfengine-3.7.2.tar.gz",
+        "SHA256": "aad9ae260864acbdf2aa441c208365460f9a8ecaa53618bbdb465e37aef4ade5",
+        "Arch": "no arch",
+        "Published": true
+      },
+      {
+        "Title": "Masterfiles tarball (also included in the package)",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/tarballs/cfengine-masterfiles-3.7.2.tar.gz",
+        "SHA256": "ed2026d0deca24e9094ec1d0e84a9488eebd470cc23fec940eadbb7106515bc5",
+        "Arch": "no arch",
+        "Published": true
+      }
+    ]
+  }
+}

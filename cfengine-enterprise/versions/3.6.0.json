@@ -1,0 +1,101 @@
+{
+  "project": "enterprise",
+  "version": "3.6.0",
+  "artifacts": {
+    "Hosts (Clients)": [
+      {
+        "Title": "Debian 6, 7 & Ubuntu 10.04, 12.04",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.6.0/agent/agent_deb_i386/cfengine-nova_3.6.0-2_i386.deb",
+        "SHA256": "8bd51eff1728123b7f93e6f7f56a7c41062f6f353d79599554a39f6a4f6af199",
+        "Arch": "x86",
+        "Published": true
+      },
+      {
+        "Title": "Debian 6, 7 & Ubuntu 10.04, 12.04",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.6.0/agent/agent_deb_x86_64/cfengine-nova_3.6.0-2_amd64.deb",
+        "SHA256": "81b66804eb523890b14e5278fdf2920d46e3dd7a0b8367c3d83a2a410c59097f",
+        "Arch": "x86_64",
+        "Published": true
+      },
+      {
+        "Title": "Red Hat / CentOS 4, 5, 6 & SLES 10, 11",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.6.0/agent/agent_rpm_i386/cfengine-nova-3.6.0-2.i386.rpm",
+        "SHA256": "39517bc93a6ed642e23682a6fb01d0768973c75e5397105e878fb6ac23aa8e72",
+        "Arch": "x86",
+        "Published": true
+      },
+      {
+        "Title": "Red Hat / CentOS 4, 5, 6 & SLES 10, 11",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.6.0/agent/agent_rpm_x86_64/cfengine-nova-3.6.0-2.x86_64.rpm",
+        "SHA256": "3e279675974f339156c40a9d9ddf0f2c4181061657e19edc4e1103ae6bf6e4fa",
+        "Arch": "x86_64",
+        "Published": true
+      },
+      {
+        "Title": "Windows Server 2008",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.6.0/agent/windows_i686/cfengine-nova-3.6.0-i686.msi",
+        "SHA256": "15c4ec343387e45d9185197458e81975571f76d200eb81ca3b287e5781e98972",
+        "Arch": "x86",
+        "Published": true
+      },
+      {
+        "Title": "Windows Server 2008, 2012",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.6.0/agent/windows_x86_64/cfengine-nova-3.6.0-x86_64.msi",
+        "SHA256": "1eaf400ec3a5aa2547ec2cb608886825e3a21532b810ce2ac43933e144c4a3b5",
+        "Arch": "x86_64",
+        "Published": true
+      }
+    ],
+    "Policy Server": [
+      {
+        "Title": "Debian 6",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.6.0/hub/debian_6_x86_64/cfengine-nova-hub_3.6.0-2_amd64.deb",
+        "SHA256": "728e6dcc62029c0bd6d1991c2934dab4761f7048ac6e615930d2621438471bd4",
+        "Arch": "x86_64",
+        "Published": true
+      },
+      {
+        "Title": "Debian 7",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.6.0/hub/debian_7_x86_64/cfengine-nova-hub_3.6.0-2_amd64.deb",
+        "SHA256": "728e6dcc62029c0bd6d1991c2934dab4761f7048ac6e615930d2621438471bd4",
+        "Arch": "x86_64",
+        "Published": true
+      },
+      {
+        "Title": "Red Hat / CentOS 5",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.6.0/hub/redhat_5_x86_64/cfengine-nova-hub-3.6.0-2.x86_64.rpm",
+        "SHA256": "d8ab32e3ba51ef0037fe82b9a63c3e07feb62ffd969f39a9dbedcdb825896f6c",
+        "Arch": "x86_64",
+        "Published": true
+      },
+      {
+        "Title": "Red Hat / CentOS 6",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.6.0/hub/redhat_6_x86_64/cfengine-nova-hub-3.6.0-2.x86_64.rpm",
+        "SHA256": "97907a8eef84819206dd90913503788716d89a866794e602723788f9c87636d0",
+        "Arch": "x86_64",
+        "Published": true
+      },
+      {
+        "Title": "SLES 11",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.6.0/hub/sles_11_x86_64/cfengine-nova-hub-3.6.0-2.x86_64.rpm",
+        "SHA256": "88fc84d8631f9d3957f0b0872104d8ee7746a90aee0bbf7f6ef16a0eb505e202",
+        "Arch": "x86_64",
+        "Published": true
+      },
+      {
+        "Title": "Ubuntu 10.04",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.6.0/hub/ubuntu_10_x86_64/cfengine-nova-hub_3.6.0-2_amd64.deb",
+        "SHA256": "c7ec9f464afd243674f501c49e72c419ded3ebc2c7582681ea8a9da3469e98ac",
+        "Arch": "x86_64",
+        "Published": true
+      },
+      {
+        "Title": "Ubuntu 12.04",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.6.0/hub/ubuntu_12_x86_64/cfengine-nova-hub_3.6.0-2_amd64.deb",
+        "SHA256": "2156a040d015dcf1619adcfc6caa1ddf1097a5d5a2bb2d89fd06f0735c889331",
+        "Arch": "x86_64",
+        "Published": true
+      }
+    ]
+  }
+}

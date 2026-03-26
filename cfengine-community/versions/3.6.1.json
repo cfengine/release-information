@@ -1,0 +1,36 @@
+{
+  "project": "community",
+  "version": "3.6.1-1",
+  "artifacts": {
+    "Binary packages": [
+      {
+        "Title": "32-bit Debian-based distribution",
+        "URL": "https://s3.amazonaws.com/cfengine-package-repos/community_binaries/cfengine-community_3.6.1-1_i386.deb",
+        "SHA256": "42320b4f9d0849eff8ea56d31cf755069962afcbb229eb9739c041a44efd5c6c",
+        "Arch": "x86",
+        "Published": true
+      },
+      {
+        "Title": "64-bit Debian-based distribution",
+        "URL": "https://s3.amazonaws.com/cfengine-package-repos/community_binaries/cfengine-community_3.6.1-1_amd64.deb",
+        "SHA256": "c6df1b6df92c109210f5565b9d9fbc6844d7bd1158d9647503ee8b20879afb9d",
+        "Arch": "x86_64",
+        "Published": true
+      },
+      {
+        "Title": "32-bit RPM-based distribution",
+        "URL": "https://s3.amazonaws.com/cfengine-package-repos/community_binaries/cfengine-community-3.6.1-1.i386.rpm",
+        "SHA256": "c46d3766d3cc586b748dc372c73649d0f8170d08e652ba5900d6235b8bf00955",
+        "Arch": "x86",
+        "Published": true
+      },
+      {
+        "Title": "64-bit RPM-based distribution",
+        "URL": "https://s3.amazonaws.com/cfengine-package-repos/community_binaries/cfengine-community-3.6.1-1.x86_64.rpm",
+        "SHA256": "7cbcfb8588e23cd3cb29b570cc8e37f857aa8ba3d4982cb07a0ebdce78c1fee6",
+        "Arch": "x86_64",
+        "Published": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "project": "community",
+  "version": "3.6.4-1",
+  "artifacts": {
+    "Binary packages": [
+      {
+        "Title": "32-bit Debian-based distribution",
+        "URL": "https://s3.amazonaws.com/cfengine-package-repos/community_binaries/cfengine-community_3.6.4-1_i386.deb",
+        "SHA256": "23d8ded42fe1f2a775279c6f064b6e83aa54db95a14590c57ff7179ae2780267",
+        "Arch": "x86",
+        "Published": true
+      },
+      {
+        "Title": "64-bit Debian-based distribution",
+        "URL": "https://s3.amazonaws.com/cfengine-package-repos/community_binaries/cfengine-community_3.6.4-1_amd64.deb",
+        "SHA256": "359a3433e13d64e94e4d6b82374abc732a052c681ae56f364ff9320010960cae",
+        "Arch": "x86_64",
+        "Published": true
+      },
+      {
+        "Title": "32-bit RPM-based distribution",
+        "URL": "https://s3.amazonaws.com/cfengine-package-repos/community_binaries/cfengine-community-3.6.4-1.i386.rpm",
+        "SHA256": "c9f218dba745056b201ed2b2d82a490ae129f8796436d07596521dce482fd8bf",
+        "Arch": "x86",
+        "Published": true
+      },
+      {
+        "Title": "64-bit RPM-based distribution",
+        "URL": "https://s3.amazonaws.com/cfengine-package-repos/community_binaries/cfengine-community-3.6.4-1.x86_64.rpm",
+        "SHA256": "d2115f284c4ca5221b763dfeced88a8c0b7585b56bc15d3b55f653a2f30df7c4",
+        "Arch": "x86_64",
+        "Published": true
+      },
+      {
+        "Title": "Masterfiles Tarball (also included in the package)",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/tarballs/masterfiles-3.6.4.tar.gz",
+        "SHA256": "209e15b1ff83efd77e84a8f255679715d9a85ef171e205bc7dfed8867008ecdd",
+        "Arch": "no arch",
+        "Published": true
+      }
+    ]
+  }
+}

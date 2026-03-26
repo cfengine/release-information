@@ -1,0 +1,70 @@
+{
+  "project": "community",
+  "version": "3.7.5 LTS",
+  "artifacts": {
+    "Binary packages": [
+      {
+        "Title": "32-bit Ubuntu and other Debian-based distribution",
+        "Arch": "x86",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/cfengine-community_3.7.5-1_i386.deb",
+        "SHA256": "32026a6ce942c249b364c25d5c8cd7afaee724133cc5b8d999bef2899257be55"
+      },
+      {
+        "Title": "64-bit Ubuntu and other Debian-based distribution",
+        "Arch": "x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/cfengine-community_3.7.5-1_amd64.deb",
+        "SHA256": "1b94763b389e9edfead4301ae8762308e19ac9d6da2bf9b826abad0bbb157cda"
+      },
+      {
+        "Title": "32-bit RPM-based distribution",
+        "Arch": "x86",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/cfengine-community-3.7.5-1.i386.rpm",
+        "SHA256": "e7bbb8c40ea55ef8a6338838ea3b10a30514f61cd4ed34cdb7fba02210576cbb"
+      },
+      {
+        "Title": "64-bit RPM-based distribution",
+        "Arch": "x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/cfengine-community-3.7.5-1.x86_64.rpm",
+        "SHA256": "2b89b6272f116f8f26dad3a78d7f34a2879b54bbd70e7f96a92978e9f024faa8"
+      },
+      {
+        "Title": "64-bit Red Hat / CentOS 6 or later (optimised package, recommended for the policy hub)",
+        "Arch": "x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/cfengine-community-3.7.5-1.el6.x86_64.rpm",
+        "SHA256": "0280d0a0ea0fa37221ddbac877440e85fbf81148f7dc0398730bfb16edf33f89",
+        "Footnote": 1
+      }
+    ],
+    "Additional Assets": [
+      {
+        "Title": "Source code tarball",
+        "Arch": "no arch",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/tarballs/cfengine-3.7.5.tar.gz",
+        "SHA256": "75aefbc83786588bee06c648b36c155777f7468502d7acb72a6f1cfaac53345c"
+      },
+      {
+        "Title": "Masterfiles ready-to-install tarball",
+        "Arch": "no arch",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/tarballs/cfengine-masterfiles-3.7.5.pkg.tar.gz",
+        "SHA256": "33db0b95ce9482c37b38585811870ef60df4ff94f4fefa95d4acaff4d1d8949e"
+      },
+      {
+        "Title": "Masterfiles source tarball",
+        "Arch": "no arch",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/tarballs/cfengine-masterfiles-3.7.5.tar.gz",
+        "SHA256": "3d65d87cf6e4544a019ad8b44f847632782391d9d49691eb1135427a8ed47d5d"
+      }
+    ]
+  },
+  "footnotes": [
+    "The Red Hat / CentOS 6 package provides stability and performance enhancements for these platforms, but these platforms can also use the generic 64-bit RPM-based package."
+  ]
+}

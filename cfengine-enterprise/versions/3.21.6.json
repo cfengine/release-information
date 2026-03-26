@@ -1,0 +1,421 @@
+{
+  "project": "enterprise",
+  "version": "3.21.6 LTS (supported until December 2025)",
+  "artifacts": {
+    "Policy Server": [
+      {
+        "Title": "Debian 9",
+        "Arch": "x86_64",
+        "classexpr": "am_policy_hub.debian_9.x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/hub/debian_9_x86_64/cfengine-nova-hub_3.21.6-1.debian9_amd64.deb",
+        "SHA256": "1b112bfbd00d6fdb72dbf87b57f84bbec48d61de72ea8c9791a1dea5a9cd90d4",
+        "package": "PACKAGES_HUB_x86_64_linux_debian_9"
+      },
+      {
+        "Title": "Debian 10",
+        "Arch": "x86_64",
+        "classexpr": "am_policy_hub.debian_10.x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/hub/debian_10_x86_64/cfengine-nova-hub_3.21.6-1.debian10_amd64.deb",
+        "SHA256": "110577f1467ce58f880c61c0042f1f8265c7339022337cfa5d77326d2fa77e97",
+        "package": "PACKAGES_HUB_x86_64_linux_debian_10"
+      },
+      {
+        "Title": "Debian 11",
+        "Arch": "x86_64",
+        "classexpr": "am_policy_hub.debian_11.x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/hub/debian_11_x86_64/cfengine-nova-hub_3.21.6-1.debian11_amd64.deb",
+        "SHA256": "7329514dc2a8d9a14de09f8ef6b8f0605615bf511e2b63ad6c48e5f3aae50d1d",
+        "package": "PACKAGES_HUB_x86_64_linux_debian_11"
+      },
+      {
+        "Title": "Debian 11",
+        "Arch": "aarch64",
+        "classexpr": "am_policy_hub.debian_11.aarch64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/hub/debian_11_arm_64/cfengine-nova-hub_3.21.6-1.debian11_arm64.deb",
+        "SHA256": "277cb2c740171e4bb8827addf8c3455e9418e1700c2b880f41c12231bca4daa3",
+        "package": "PACKAGES_HUB_arm_64_linux_debian_11"
+      },
+      {
+        "Title": "Debian 12",
+        "Arch": "x86_64",
+        "classexpr": "am_policy_hub.debian_12.x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/hub/debian_12_x86_64/cfengine-nova-hub_3.21.6-1.debian12_amd64.deb",
+        "SHA256": "be68980b41ced23882dc5754e4409964ad7247897345e2f9b0dc317c0cbded79",
+        "package": "PACKAGES_HUB_x86_64_linux_debian_12"
+      },
+      {
+        "Title": "Debian 12",
+        "Arch": "aarch64",
+        "classexpr": "am_policy_hub.debian_12.aarch64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/hub/debian_12_arm_64/cfengine-nova-hub_3.21.6-1.debian12_arm64.deb",
+        "SHA256": "f5f394f59346daf242e3f4c6ad5bec38c970343cb648e1bb4a22d5d3bbcd141e",
+        "package": "PACKAGES_HUB_arm_64_linux_debian_12"
+      },
+      {
+        "Title": "Red Hat / CentOS 7",
+        "Arch": "x86_64",
+        "classexpr": "am_policy_hub.(redhat_7|centos_7).x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/hub/redhat_7_x86_64/cfengine-nova-hub-3.21.6-1.el7.x86_64.rpm",
+        "SHA256": "6921ff50d416067878be38eae5ce414b92d1d5858b177e18c7288d55368f10c3",
+        "package": "PACKAGES_HUB_x86_64_linux_redhat_7"
+      },
+      {
+        "Title": "Red Hat / CentOS 8",
+        "Arch": "x86_64",
+        "classexpr": "am_policy_hub.(redhat_8|centos_8).x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/hub/redhat_8_x86_64/cfengine-nova-hub-3.21.6-1.el8.x86_64.rpm",
+        "SHA256": "816033a30b3957e96f47245b3fc3de5cd376b7208db959d2732d8b4b4edc1e9f",
+        "package": "PACKAGES_HUB_x86_64_linux_redhat_8"
+      },
+      {
+        "Title": "Red Hat 9",
+        "Arch": "x86_64",
+        "classexpr": "am_policy_hub.redhat_9.x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/hub/redhat_9_x86_64/cfengine-nova-hub-3.21.6-1.el9.x86_64.rpm",
+        "SHA256": "5749c19b79b9646eed52411f498084b0608c535fec7ab45724e030d8c98c8406",
+        "package": "PACKAGES_HUB_x86_64_linux_redhat_9"
+      },
+      {
+        "Title": "Ubuntu 16",
+        "Arch": "x86_64",
+        "classexpr": "am_policy_hub.ubuntu_16.x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/hub/ubuntu_16_x86_64/cfengine-nova-hub_3.21.6-1.ubuntu16_amd64.deb",
+        "SHA256": "c8cd2834681fb142be830b4ec7468efeaed60481352ab76fd56d1af237f01b65",
+        "package": "PACKAGES_HUB_x86_64_linux_ubuntu_16"
+      },
+      {
+        "Title": "Ubuntu 18",
+        "Arch": "x86_64",
+        "classexpr": "am_policy_hub.ubuntu_18.x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/hub/ubuntu_18_x86_64/cfengine-nova-hub_3.21.6-1.ubuntu18_amd64.deb",
+        "SHA256": "4d65a7b5a077db83f236b563bd2b05c22220ffe8621e976fc731ac38d59dccb9",
+        "package": "PACKAGES_HUB_x86_64_linux_ubuntu_18"
+      },
+      {
+        "Title": "Ubuntu 20",
+        "Arch": "x86_64",
+        "classexpr": "am_policy_hub.ubuntu_20.x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/hub/ubuntu_20_x86_64/cfengine-nova-hub_3.21.6-1.ubuntu20_amd64.deb",
+        "SHA256": "69c4a883c5160b9a9c486697b7481b19e27606c996b881a180fd3b9c07de6634",
+        "package": "PACKAGES_HUB_x86_64_linux_ubuntu_20"
+      },
+      {
+        "Title": "Ubuntu 22",
+        "Arch": "x86_64",
+        "classexpr": "am_policy_hub.ubuntu_22.x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/hub/ubuntu_22_x86_64/cfengine-nova-hub_3.21.6-1.ubuntu22_amd64.deb",
+        "SHA256": "e0510ec91f248dd5ecb6d48e97ef8be28f92be11c9e7103c07433da1a7875c61",
+        "package": "PACKAGES_HUB_x86_64_linux_ubuntu_22"
+      },
+      {
+        "Title": "Ubuntu 22",
+        "Arch": "aarch64",
+        "classexpr": "am_policy_hub.ubuntu_22.aarch64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/hub/ubuntu_22_arm_64/cfengine-nova-hub_3.21.6-1.ubuntu22_arm64.deb",
+        "SHA256": "8c88b0be036acae4ed7bbd077770087f428e11f88e01bf5e8ebb36c0bd0d600c",
+        "package": "PACKAGES_HUB_arm_64_linux_ubuntu_22"
+      },
+      {
+        "Title": "Ubuntu 24",
+        "Arch": "x86_64",
+        "classexpr": "am_policy_hub.ubuntu_24.x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/hub/ubuntu_24_x86_64/cfengine-nova-hub_3.21.6-1.ubuntu24_amd64.deb",
+        "SHA256": "0839778db04cbfa3050aaea3a759b377a6fcd6bb2ac29bdc967e713102521164",
+        "package": "PACKAGES_HUB_x86_64_linux_ubuntu_24"
+      },
+      {
+        "Title": "Ubuntu 24",
+        "Arch": "aarch64",
+        "classexpr": "am_policy_hub.ubuntu_24.aarch64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/hub/ubuntu_24_arm_64/cfengine-nova-hub_3.21.6-1.ubuntu24_arm64.deb",
+        "SHA256": "5169b4c52dc54573963cfd57fd0b02ec29aeec0442c893c92e1c151a8e5b8322",
+        "package": "PACKAGES_HUB_arm_64_linux_ubuntu_24"
+      }
+    ],
+    "Hosts (Clients)": [
+      {
+        "Title": "Debian 9",
+        "Arch": "x86_64",
+        "classexpr": "!am_policy_hub.debian_9.x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/agent_debian9_x86_64/cfengine-nova_3.21.6-1.debian9_amd64.deb",
+        "SHA256": "4dc8f6b83c99c3044140f0dc5da41dda01b27295bfd97b4aaaa575fc1ace594d",
+        "package": "PACKAGES_x86_64_linux_debian_9"
+      },
+      {
+        "Title": "Debian 10",
+        "Arch": "x86_64",
+        "classexpr": "!am_policy_hub.debian_10.x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/agent_debian10_x86_64/cfengine-nova_3.21.6-1.debian10_amd64.deb",
+        "SHA256": "030aab1d22f53b3d3abe5dff3c27631095d612f167b8e82ef035941746d8e184",
+        "package": "PACKAGES_x86_64_linux_debian_10"
+      },
+      {
+        "Title": "Debian 11",
+        "Arch": "x86_64",
+        "classexpr": "!am_policy_hub.debian_11.x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/agent_debian11_x86_64/cfengine-nova_3.21.6-1.debian11_amd64.deb",
+        "SHA256": "0df55d3be9d940f92abafa276372d6431178d530442f575f7e5360ebca586c59",
+        "package": "PACKAGES_x86_64_linux_debian_11"
+      },
+      {
+        "Title": "Debian 11",
+        "Arch": "aarch64",
+        "classexpr": "!am_policy_hub.debian_11.aarch64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/agent_debian11_arm_64/cfengine-nova_3.21.6-1.debian11_arm64.deb",
+        "SHA256": "da1722fa3607ad67b9e26259797bb185890da5aa77e1d1be0bf519c636511b9d",
+        "package": "PACKAGES_arm_64_linux_debian_11"
+      },
+      {
+        "Title": "Debian 12",
+        "Arch": "x86_64",
+        "classexpr": "!am_policy_hub.debian_12.x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/agent_debian12_x86_64/cfengine-nova_3.21.6-1.debian12_amd64.deb",
+        "SHA256": "8241f315e881edd5d5e3d2a3ceadba9f7d2dfca08c974e053309e59cfee4351e",
+        "package": "PACKAGES_x86_64_linux_debian_12"
+      },
+      {
+        "Title": "Debian 12",
+        "Arch": "aarch64",
+        "classexpr": "!am_policy_hub.debian_12.aarch64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/agent_debian12_arm_64/cfengine-nova_3.21.6-1.debian12_arm64.deb",
+        "SHA256": "efd302357f799150297852597f2bdedfb951de82ff47e82a3cd4d256bfb7acbe",
+        "package": "PACKAGES_arm_64_linux_debian_12"
+      },
+      {
+        "Title": "Ubuntu 16.04",
+        "Arch": "x86_64",
+        "classexpr": "!am_policy_hub.ubuntu_16.x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/agent_ubuntu16_x86_64/cfengine-nova_3.21.6-1.ubuntu16_amd64.deb",
+        "SHA256": "6594bc22ce82d656da264a0629fa0059deaf3ce09a3eab2aa043730079f29fd2",
+        "package": "PACKAGES_x86_64_linux_ubuntu_16"
+      },
+      {
+        "Title": "Ubuntu 18.04",
+        "Arch": "x86_64",
+        "classexpr": "!am_policy_hub.ubuntu_18.x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/agent_ubuntu18_x86_64/cfengine-nova_3.21.6-1.ubuntu18_amd64.deb",
+        "SHA256": "debdbdb238ba5024ae51af1446a8dc51ecc7e6500e8cb4194b9e729181ddc774",
+        "package": "PACKAGES_x86_64_linux_ubuntu_18"
+      },
+      {
+        "Title": "Ubuntu 20.04",
+        "Arch": "x86_64",
+        "classexpr": "!am_policy_hub.ubuntu_20.x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/agent_ubuntu20_x86_64/cfengine-nova_3.21.6-1.ubuntu20_amd64.deb",
+        "SHA256": "59974338cd46a2ade183a22f47365291825435cfe1000e05f7ada8df117c1b8a",
+        "package": "PACKAGES_x86_64_linux_ubuntu_20"
+      },
+      {
+        "Title": "Ubuntu 22.04",
+        "Arch": "x86_64",
+        "classexpr": "!am_policy_hub.ubuntu_22.x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/agent_ubuntu22_x86_64/cfengine-nova_3.21.6-1.ubuntu22_amd64.deb",
+        "SHA256": "c9cbb7364eec0b85dec2e5b389e9c9e594b5a79783ec083f27a6bf3cbafced84",
+        "package": "PACKAGES_x86_64_linux_ubuntu_22"
+      },
+      {
+        "Title": "Ubuntu 22.04",
+        "Arch": "aarch64",
+        "classexpr": "!am_policy_hub.ubuntu_22.aarch64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/agent_ubuntu22_arm_64/cfengine-nova_3.21.6-1.ubuntu22_arm64.deb",
+        "SHA256": "48a439ace041ee721764a0ed769566a58f9ab494fa2ff609c86c4ce65164f84d",
+        "package": "PACKAGES_arm_64_linux_ubuntu_22"
+      },
+      {
+        "Title": "Ubuntu 24.04",
+        "Arch": "aarch64",
+        "classexpr": "!am_policy_hub.ubuntu_24.aarch64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/agent_ubuntu24_arm_64/cfengine-nova_3.21.6-1.ubuntu24_arm64.deb",
+        "SHA256": "2939d50782b12c3806f40d2c875a0a8230b86c53dce6c52742bea1afe94dda6b",
+        "package": "PACKAGES_arm_64_linux_ubuntu_24"
+      },
+      {
+        "Title": "Ubuntu 24.04",
+        "Arch": "x86_64",
+        "classexpr": "!am_policy_hub.ubuntu_24.x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/agent_ubuntu24_x86_64/cfengine-nova_3.21.6-1.ubuntu24_amd64.deb",
+        "SHA256": "816bfd88fd8aa7b678c9ad95aa119520d3b32e89070ad0d07b190cf8da760daa",
+        "package": "PACKAGES_x86_64_linux_ubuntu_24"
+      },
+      {
+        "Title": "Red Hat / CentOS 6",
+        "Arch": "x86_64",
+        "classexpr": "!am_policy_hub.(redhat_6|centos_6).x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/agent_rhel6_x86_64/cfengine-nova-3.21.6-1.el6.x86_64.rpm",
+        "SHA256": "20b3da760372ea16888541d0283241efd3967c5ff9ab384f262afb72009ff55c",
+        "package": "PACKAGES_x86_64_linux_redhat_6"
+      },
+      {
+        "Title": "Red Hat / CentOS 7",
+        "Arch": "x86_64",
+        "classexpr": "!am_policy_hub.(redhat_7|centos_7).x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/agent_rhel7_x86_64/cfengine-nova-3.21.6-1.el7.x86_64.rpm",
+        "SHA256": "194644ec1d7fb9baefac80677d323de89b2c063dc10e8696b8c915c90c6c2f39",
+        "package": "PACKAGES_x86_64_linux_redhat_7"
+      },
+      {
+        "Title": "Red Hat / CentOS 8.1",
+        "Arch": "x86_64",
+        "classexpr": "!am_policy_hub.(redhat_8|centos_8).x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/agent_rhel8_x86_64/cfengine-nova-3.21.6-1.el8.x86_64.rpm",
+        "SHA256": "4f37374d9bc5f5d4db3280ab274ed330b8f4eabcbf7ed96d53b04b4f4a24cab1",
+        "package": "PACKAGES_x86_64_linux_redhat_8"
+      },
+      {
+        "Title": "Red Hat / CentOS 9",
+        "Arch": "x86_64",
+        "classexpr": "!am_policy_hub.(redhat_9|centos_9).x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/agent_rhel9_x86_64/cfengine-nova-3.21.6-1.el9.x86_64.rpm",
+        "SHA256": "8abc1d9409618c5d84c72a179ee38868aaa8f44dfe5f3629a20476fd3b6300ed",
+        "package": "PACKAGES_x86_64_linux_redhat_9"
+      },
+      {
+        "Title": "SUSE 12",
+        "Arch": "x86_64",
+        "classexpr": "!am_policy_hub.(suse_12|sles_12).x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/agent_suse12_x86_64/cfengine-nova-3.21.6-1.suse12.x86_64.rpm",
+        "SHA256": "1dd5277ef241e5c28177524d9cb2095e63fc20864f7b0b83a1078507c4e9d59d",
+        "package": "PACKAGES_x86_64_linux_suse_12"
+      },
+      {
+        "Title": "SUSE 15",
+        "Arch": "x86_64",
+        "classexpr": "!am_policy_hub.(suse_15|sles_15).x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/agent_suse15_x86_64/cfengine-nova-3.21.6-1.suse15.x86_64.rpm",
+        "SHA256": "a74815dce5215cee5c26d7ca69fb83742f511ff711c2c09fb838722ee3503fe7",
+        "package": "PACKAGES_x86_64_linux_suse_15"
+      },
+      {
+        "Title": "Windows Server 2008",
+        "Arch": "x86",
+        "classexpr": "!am_policy_hub.windows.32_bit",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/windows_i686/cfengine-nova-3.21.6-1-i686.msi",
+        "SHA256": "767c5f3debaf1a074850a4c8f638f1095f4a37ff1f3d2258f6543af8f95f2d14",
+        "package": "PACKAGES_i386_mingw"
+      },
+      {
+        "Title": "Windows Server 2008, 2012",
+        "Arch": "x86_64",
+        "classexpr": "!am_policy_hub.windows.x86_64",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/windows_x86_64/cfengine-nova-3.21.6-1-x86_64.msi",
+        "SHA256": "b6cad927a700b3e5b19b888c08f0f3e6c141f59809f7425a6a08a2033ec7a755",
+        "package": "PACKAGES_x86_64_mingw"
+      },
+      {
+        "Title": "Solaris 11",
+        "Arch": "SPARC",
+        "classexpr": "!am_policy_hub.sunos_5_11.sparc",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/solaris_11_sparc/cfengine-nova-3.21.6.1-solaris11-sparc.pkg",
+        "SHA256": "79f5a8b42c40a4af052b56b51cf662119bb6e976d997b1f34267f0ca9643256a",
+        "package": "PACKAGES_sparc64_solaris_11"
+      },
+      {
+        "Title": "HP-UX 11.31+",
+        "Arch": "Itanium",
+        "classexpr": "!am_policy_hub.hpux",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/hpux/cfengine-nova-3.21.6.1-B.11.23-ia64.depot",
+        "SHA256": "407b231cb465686b4de9eb15dc123ff09e417840b2f48340edc7ff7a66648927",
+        "package": "PACKAGES_ia64_hpux_11.23"
+      },
+      {
+        "Title": "AIX 7.1 TL5, 7.2 (rpm)",
+        "Arch": "PowerPC",
+        "classexpr": "!am_policy_hub.aix_7",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/aix_7_ppc/cfengine-nova-3.21.6-1.aix7.ppc.rpm",
+        "SHA256": "137bf114de92ea235beda59413f59a61d62946fc148de5d0682efcd7d6c2c881",
+        "package": "PACKAGES_ppc64_aix_71"
+      },
+      {
+        "Title": "AIX 7.1 TL5, 7.2 (bff)",
+        "Arch": "PowerPC",
+        "classexpr": "!am_policy_hub.aix_7",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/aix_7_ppc/cfengine-nova-3.21.6.1.aix7.bff",
+        "SHA256": "85e338d7fe557a4024cb2b998f060b0fdab8417aad5319e59f442e2555c101f9",
+        "package": "PACKAGES_ppc64_aix_71"
+      },
+      {
+        "Title": "CoreOS (XFS Filesystem image)",
+        "Arch": "x86_64",
+        "classexpr": "!am_policy_hub.!any",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/agent/xfs_filesystem_image/cfengine-nova-3.21.6-1.x86_64.fs-img.pkg.tar.gz",
+        "SHA256": "f0b7de0d0f1983de4dd325e1877d1b35997ea2ccf8caecc0e818047134eed956",
+        "package": "PACKAGES_VIRTUAL_PACKAGES_coreos"
+      }
+    ],
+    "Additional Assets": [
+      {
+        "Title": "Masterfiles ready-to-install tarball",
+        "Arch": "no arch",
+        "classexpr": "!any",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/misc/cfengine-masterfiles-3.21.6-1.pkg.tar.gz",
+        "SHA256": "cd0d60ff7bda17eff839f4d30632d4f96555535532e7df3964d93298474694a2",
+        "package": "PACKAGES_VIRTUAL_PACKAGES_masterfiles"
+      },
+      {
+        "Title": "Linux binary tarball (unsupported)",
+        "Arch": "x86_64",
+        "classexpr": "!any",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/misc/cfengine-nova-3.21.6-1.x86_64.pkg.tar.gz",
+        "SHA256": "5d1a40895065773689ca4307cb6b8c077be85c09246163bec3a68a6ef2cff2d3",
+        "Footnote": 1,
+        "Instructions": "https://docs.cfengine.com/docs/3.21/getting-started-installation-general-installation-installation-enterprise-generic-tarball.html"
+      },
+      {
+        "Title": "Vagrant Environment",
+        "Arch": "Linux/Mac/Windows (Virtualbox)",
+        "classexpr": "!any",
+        "Published": true,
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.21.6/misc/CFEngine_Enterprise_vagrant_quickstart-3.21.6-1.tar.gz",
+        "SHA256": "6c47c5751c75405fa5819a31e16995cabd9a153783d5326c7125f2a917113a85",
+        "Instructions": "https://docs.cfengine.com/docs/3.21/getting-started-installation-general-installation-installation-enterprise-vagrant.html"
+      }
+    ]
+  },
+  "footnotes": [
+    "Tarball containing compiled CFEngine host (client) binaries that runs on most Linux systems but are not optimized for specific library or platform features. Appropriate for testing purposes. Not supported under the CFEngine support contract."
+  ]
+}

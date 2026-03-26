@@ -1,0 +1,50 @@
+{
+  "project": "community",
+  "version": "3.6.5-1",
+  "artifacts": {
+    "Operating System": [
+      {
+        "Title": "32-bit Debian-based distribution",
+        "URL": "https://s3.amazonaws.com/cfengine-package-repos/community_binaries/cfengine-community_3.6.5-1_i386.deb",
+        "SHA256": "8b01b81f9115794e4541762c1941e662e9f649dea308c0df6e439d86ebf59b1b",
+        "Arch": "x86",
+        "Published": true
+      },
+      {
+        "Title": "64-bit Debian-based distribution",
+        "URL": "https://s3.amazonaws.com/cfengine-package-repos/community_binaries/cfengine-community_3.6.5-1_amd64.deb",
+        "SHA256": "61dd2cdee421fc432fd4dcc5c142f4ede05c00e39785dc30071b58f5b3b8ccc8",
+        "Arch": "x86_64",
+        "Published": true
+      },
+      {
+        "Title": "32-bit RPM-based distribution",
+        "URL": "https://s3.amazonaws.com/cfengine-package-repos/community_binaries/cfengine-community-3.6.5-1.i386.rpm",
+        "SHA256": "4c0b2d3c91471b3e7946cf45423c8d05cec18da788a2bcf1d1745940ebd059d0",
+        "Arch": "x86",
+        "Published": true
+      },
+      {
+        "Title": "64-bit RPM-based distribution",
+        "URL": "https://s3.amazonaws.com/cfengine-package-repos/community_binaries/cfengine-community-3.6.5-1.x86_64.rpm",
+        "SHA256": "70ac23e4eafec1d47414680c62f325b2b6b8af0f866911fcc8ca999dd061d821",
+        "Arch": "x86_64",
+        "Published": true
+      },
+      {
+        "Title": "64-bit RPM-based systemd-based distribution (including Red Hat 7/ CentOS 7)",
+        "URL": "https://s3.amazonaws.com/cfengine-package-repos/community_binaries/cfengine-community-3.6.5-1.el7.x86_64.rpm",
+        "SHA256": "b144d2f79c14c526e8faa7044e2fbf420a25caa5f6776a6225f061816488c31d",
+        "Arch": "x86_64",
+        "Published": true
+      },
+      {
+        "Title": "Masterfiles Tarball (also included in the package)",
+        "URL": "https://cfengine-package-repos.s3.amazonaws.com/tarballs/masterfiles-3.6.5.tar.gz",
+        "SHA256": "76bbac9348a1851418612654dbbecfc340bcc9b69e808592c883a2413c1b1656",
+        "Arch": "no arch",
+        "Published": true
+      }
+    ]
+  }
+}
