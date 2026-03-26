@@ -74,249 +74,9 @@
       "version": "master",
       "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/master.json",
       "debug": true,
-      "source_sha": "b52b523486ebad0f9ff02f1f54403dc582b7ff41236bea291adbc5a0eb48d933",
+      "source_sha": "fe9df3e04bcdad3c6cb7c5dcf145745ec8aa196c38add763037ef9e9dced19d2",
       "lts_branch": "nightly-master",
       "alpha": true
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.9.2.json",
-      "release_date": "2016-12-27",
-      "version": "3.9.2",
-      "source_sha": "cc1eb78477f6672170c1675d93b03dda0eb92165b872b18e02ea46e4e6fe9fc6",
-      "latest": true,
-      "latest_stable": true
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.9.1.json",
-      "release_date": "2016-08-03",
-      "version": "3.9.1",
-      "source_sha": "19bf900741efe3da4266591985dc1103243cb751888047694fce6f407ef2d225"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.9.0.json",
-      "release_date": "2016-06-14",
-      "version": "3.9.0",
-      "source_sha": "32a38aedf1199c2361e1335e0d4a1d98f9efa7cd591bcb647f35c7395bb66f2d"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.9.0b1.json",
-      "version": "3.9.0b1",
-      "beta": true,
-      "source_sha": "38a6d28a86ee6ab2debaccd363fd0d1bdbcda1e378c5ca4767bb9dda4af51dcc"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.8.2.json",
-      "release_date": "2016-04-01",
-      "version": "3.8.2",
-      "source_sha": "d5059a5c37784b3cd5f5217ee9aa9fde8c268f922c162247205a9f53271fac33"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.8.1.json",
-      "release_date": "2015-02-01",
-      "version": "3.8.1",
-      "source_sha": "28c7fab3e674ac9ce4b05a4acfca066378319c16ef76401f08fd0890cbad96d5"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.8.0.json",
-      "release_date": "2015-12-05",
-      "version": "3.8.0",
-      "source_sha": "21743034e3e3e0bea1faba956462079260e8486423eaa955e5f0e58d1ddf5088"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.8.0b1.json",
-      "version": "3.8.0b1",
-      "beta": true,
-      "source_sha": "0873bba4779e9f82a719c61008f6db42bf72639c0c7c04c94793514da8ae2e46"
-    },
-    {
-      "lts_branch": "3.7.x",
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.7.8.json",
-      "release_date": "2018-05-02",
-      "version": "3.7.8",
-      "source_sha": "b2cbc1413753e8f0371f779dd1972773d1d6f40a718044ef2f86b91e132a8618",
-      "latest_on_branch": true
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.7.7.json",
-      "release_date": "2018-02-02",
-      "version": "3.7.7",
-      "lts_branch": "3.7.x",
-      "source_sha": "2943c90471ed391f893b851e04cc68865eb8f1448db35b1d9100dff8da8ebd1d"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.7.6.json",
-      "release_date": "2017-09-11",
-      "version": "3.7.6",
-      "lts_branch": "3.7.x",
-      "source_sha": "c1f52fe88107e26d3838450cefceefd0e6f011087d26591d02036f464b949ab7"
-    },
-    {
-      "LTS": true,
-      "lts_branch": "3.7.x",
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.7.5.json",
-      "release_date": "2017-03-29",
-      "version": "3.7.5",
-      "source_sha": "75aefbc83786588bee06c648b36c155777f7468502d7acb72a6f1cfaac53345c"
-    },
-    {
-      "LTS": true,
-      "lts_branch": "3.7.x",
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.7.4.json",
-      "release_date": "2016-08-03",
-      "version": "3.7.4",
-      "source_sha": "8f980004e901318ca9ba2eb5ab4ca25c3561116936bba169b90643ef0b6940df"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.7.3.json",
-      "release_date": "2016-04-01",
-      "version": "3.7.3",
-      "lts_branch": "3.7.x",
-      "source_sha": "19f861f5e1e13941575b28bd8436b1b0d68dce6b48b53f10d341f3b236ea72ce"
-    },
-    {
-      "LTS": true,
-      "lts_branch": "3.7.x",
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.7.2.json",
-      "release_date": "2015-12-02",
-      "version": "3.7.2",
-      "source_sha": "aad9ae260864acbdf2aa441c208365460f9a8ecaa53618bbdb465e37aef4ade5"
-    },
-    {
-      "LTS": true,
-      "lts_branch": "3.7.x",
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.7.1.json",
-      "release_date": "2015-09-09",
-      "version": "3.7.1",
-      "source_sha": "4ceec2657b30874dd80344b3af6152e68254aef44fe7fe10108a86a436b4b2c7"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.7.0.json",
-      "release_date": "2015-07-17",
-      "version": "3.7.0",
-      "lts_branch": "3.7.x",
-      "source_sha": "53e3fcae50b14d29a7a86920e13586cafed4eb5e2d081597dc9a7e34393c7f77"
-    },
-    {
-      "LTS": true,
-      "lts_branch": "3.7.x",
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.7.0b1-1.json",
-      "beta": true,
-      "version": "3.7.0b1",
-      "source_sha": "049a67fb95ccd060ed03f680f6880761da7cba194559fc3da94410eb6564f41d"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.6.7.json",
-      "release_date": "2016-04-01",
-      "version": "3.6.7",
-      "source_sha": "d86da03ed0806b67ae4834a958bf2848c861adeb1ae138d7bfc70526a1c31328"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.6.6.json",
-      "release_date": "2015-07-20",
-      "version": "3.6.6",
-      "source_sha": "73469f1a79eec88c0f3f8628b97fdd256110b8dac5100f9219d101e29486aacd"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.6.5-1.json",
-      "release_date": "2015-03-12",
-      "version": "3.6.5",
-      "source_sha": "25fded0d675001856d25b927ca7c4de5a5d52511edad175a20bd496c3e04e9a1"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.6.4-1.json",
-      "release_date": "2015-01-27",
-      "version": "3.6.4",
-      "source_sha": "0df910185e41004a5d9eeb91718d92583508efcf1d19df7caecc7d288dc5a933"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.6.3-1.json",
-      "release_date": "2014-12-06",
-      "version": "3.6.3",
-      "source_sha": "511517311198edeb4bfd1de753643c0e87bc40790bd5be6d533b0aa0f28ba000"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.6.2-1.json",
-      "release_date": "2014-10-02",
-      "version": "3.6.2",
-      "source_sha": "0e0195c1998fc261d4ef2e47e9cc50b273d204bc8b221d469bb83071933c4a09"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.6.1-1.json",
-      "release_date": "2014-07-28",
-      "version": "3.6.1",
-      "source_sha": "e8d5dd1573db077749e280055f337f02f039e9c41779595dea6942c35cdb8782"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.6.0-1.json",
-      "release_date": "2014-06-18",
-      "version": "3.6.0",
-      "source_sha": "bf1a73ebd9b7ca2cb703cc78bb289a097493e787e1658c23e0a5733c49a72e24"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.5.3-1.json",
-      "release_date": "2013-12-09",
-      "version": "3.5.3",
-      "source_sha": "0e2d13ba1d75f826bf15411912ce21075734796a35e8fb8ecf545d70d60f41e1"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.5.2-1.json",
-      "release_date": "2013-08-30",
-      "version": "3.5.2",
-      "source_sha": "0362224d2968929cb4a1f2b4e98efbb6f5d1ecea5e9e9ae3e86fa8d083a70d6a"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.5.1-1.json",
-      "release_date": "2013-07-11",
-      "version": "3.5.1",
-      "source_sha": "4d2484d5bdeaa5b6d5435b58a92a8da2bafc18294bb8eae348614e663f934429"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.5.1-3.json",
-      "release_date": "2013-07-18",
-      "version": "3.5.1-3",
-      "source_sha": "eee2dfb254249c8a440331a09dd2575b30e42d06f49df57b33f91ca4a6af5edc"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.5.0-1.json",
-      "release_date": "2013-06-12",
-      "version": "3.5.0",
-      "source_sha": "07da213c9bf4018efca58a43d7f8991819031e076f5228cd3f2623e58d5c9cee"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.4.5-1.json",
-      "release_date": "2013-06-28",
-      "version": "3.4.5",
-      "source_sha": "542808b9f532e77d66dca19e83bdc1f995d7d0066b940a39bdd5db9a71680011"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.4.4-1.json",
-      "release_date": "2013-03-15",
-      "version": "3.4.4",
-      "source_sha": "6572609851724ec8fc58c60474742e5907989462020e6c246111c2731adb6a37"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.4.3-1.json",
-      "release_date": "2013-02-19",
-      "version": "3.4.3",
-      "source_sha": "50078f31a95714e4ccfa546c7a186b5aade63613dc1a94da0470bdd4f49f0c78"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.4.2-1.json",
-      "release_date": "2013-01-11",
-      "version": "3.4.2",
-      "source_sha": "7548ecf3d95468705aed86ec237ebccb6618983386cee67ff47cab46ab1c2472"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.4.1-1.json",
-      "release_date": "2012-12-06",
-      "version": "3.4.1",
-      "source_sha": "af57460dc1ac0a451447fb5e98c8c070e20d3e4a9f07c71ad9bf5f7eeec31108"
-    },
-    {
-      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.4.0-1.json",
-      "release_date": "2012-11-26",
-      "version": "3.4.0",
-      "source_sha": "5f1a3ce9cc15068291becac4d5956b18e8c7968c934977e52cd8b6b70f3a0a6b"
     },
     {
       "version": "3.27.x",
@@ -332,6 +92,8 @@
       "version": "3.27.0",
       "source_sha": "db1e0c39d8098965bb773bb67e5529ecfd8c831e6bb3f580d7f04c40f2872730",
       "debug": false,
+      "latest": true,
+      "latest_stable": true,
       "latest_on_branch": true,
       "latestLTS": true
     },
@@ -845,6 +607,244 @@
       "beta": true,
       "version": "3.10.0b1",
       "source_sha": "56cae2bb3603ead86404611dde99ef2d6e251c576efd73ce85aae7da8df05d05"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.9.2.json",
+      "release_date": "2016-12-27",
+      "version": "3.9.2",
+      "source_sha": "cc1eb78477f6672170c1675d93b03dda0eb92165b872b18e02ea46e4e6fe9fc6"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.9.1.json",
+      "release_date": "2016-08-03",
+      "version": "3.9.1",
+      "source_sha": "19bf900741efe3da4266591985dc1103243cb751888047694fce6f407ef2d225"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.9.0.json",
+      "release_date": "2016-06-14",
+      "version": "3.9.0",
+      "source_sha": "32a38aedf1199c2361e1335e0d4a1d98f9efa7cd591bcb647f35c7395bb66f2d"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.9.0b1.json",
+      "version": "3.9.0b1",
+      "beta": true,
+      "source_sha": "38a6d28a86ee6ab2debaccd363fd0d1bdbcda1e378c5ca4767bb9dda4af51dcc"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.8.2.json",
+      "release_date": "2016-04-01",
+      "version": "3.8.2",
+      "source_sha": "d5059a5c37784b3cd5f5217ee9aa9fde8c268f922c162247205a9f53271fac33"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.8.1.json",
+      "release_date": "2015-02-01",
+      "version": "3.8.1",
+      "source_sha": "28c7fab3e674ac9ce4b05a4acfca066378319c16ef76401f08fd0890cbad96d5"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.8.0.json",
+      "release_date": "2015-12-05",
+      "version": "3.8.0",
+      "source_sha": "21743034e3e3e0bea1faba956462079260e8486423eaa955e5f0e58d1ddf5088"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.8.0b1.json",
+      "version": "3.8.0b1",
+      "beta": true,
+      "source_sha": "0873bba4779e9f82a719c61008f6db42bf72639c0c7c04c94793514da8ae2e46"
+    },
+    {
+      "lts_branch": "3.7.x",
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.7.8.json",
+      "release_date": "2018-05-02",
+      "version": "3.7.8",
+      "source_sha": "b2cbc1413753e8f0371f779dd1972773d1d6f40a718044ef2f86b91e132a8618",
+      "latest_on_branch": true
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.7.7.json",
+      "release_date": "2018-02-02",
+      "version": "3.7.7",
+      "lts_branch": "3.7.x",
+      "source_sha": "2943c90471ed391f893b851e04cc68865eb8f1448db35b1d9100dff8da8ebd1d"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.7.6.json",
+      "release_date": "2017-09-11",
+      "version": "3.7.6",
+      "lts_branch": "3.7.x",
+      "source_sha": "c1f52fe88107e26d3838450cefceefd0e6f011087d26591d02036f464b949ab7"
+    },
+    {
+      "LTS": true,
+      "lts_branch": "3.7.x",
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.7.5.json",
+      "release_date": "2017-03-29",
+      "version": "3.7.5",
+      "source_sha": "75aefbc83786588bee06c648b36c155777f7468502d7acb72a6f1cfaac53345c"
+    },
+    {
+      "LTS": true,
+      "lts_branch": "3.7.x",
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.7.4.json",
+      "release_date": "2016-08-03",
+      "version": "3.7.4",
+      "source_sha": "8f980004e901318ca9ba2eb5ab4ca25c3561116936bba169b90643ef0b6940df"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.7.3.json",
+      "release_date": "2016-04-01",
+      "version": "3.7.3",
+      "lts_branch": "3.7.x",
+      "source_sha": "19f861f5e1e13941575b28bd8436b1b0d68dce6b48b53f10d341f3b236ea72ce"
+    },
+    {
+      "LTS": true,
+      "lts_branch": "3.7.x",
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.7.2.json",
+      "release_date": "2015-12-02",
+      "version": "3.7.2",
+      "source_sha": "aad9ae260864acbdf2aa441c208365460f9a8ecaa53618bbdb465e37aef4ade5"
+    },
+    {
+      "LTS": true,
+      "lts_branch": "3.7.x",
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.7.1.json",
+      "release_date": "2015-09-09",
+      "version": "3.7.1",
+      "source_sha": "4ceec2657b30874dd80344b3af6152e68254aef44fe7fe10108a86a436b4b2c7"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.7.0.json",
+      "release_date": "2015-07-17",
+      "version": "3.7.0",
+      "lts_branch": "3.7.x",
+      "source_sha": "53e3fcae50b14d29a7a86920e13586cafed4eb5e2d081597dc9a7e34393c7f77"
+    },
+    {
+      "LTS": true,
+      "lts_branch": "3.7.x",
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.7.0b1-1.json",
+      "beta": true,
+      "version": "3.7.0b1",
+      "source_sha": "049a67fb95ccd060ed03f680f6880761da7cba194559fc3da94410eb6564f41d"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.6.7.json",
+      "release_date": "2016-04-01",
+      "version": "3.6.7",
+      "source_sha": "d86da03ed0806b67ae4834a958bf2848c861adeb1ae138d7bfc70526a1c31328"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.6.6.json",
+      "release_date": "2015-07-20",
+      "version": "3.6.6",
+      "source_sha": "73469f1a79eec88c0f3f8628b97fdd256110b8dac5100f9219d101e29486aacd"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.6.5-1.json",
+      "release_date": "2015-03-12",
+      "version": "3.6.5",
+      "source_sha": "25fded0d675001856d25b927ca7c4de5a5d52511edad175a20bd496c3e04e9a1"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.6.4-1.json",
+      "release_date": "2015-01-27",
+      "version": "3.6.4",
+      "source_sha": "0df910185e41004a5d9eeb91718d92583508efcf1d19df7caecc7d288dc5a933"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.6.3-1.json",
+      "release_date": "2014-12-06",
+      "version": "3.6.3",
+      "source_sha": "511517311198edeb4bfd1de753643c0e87bc40790bd5be6d533b0aa0f28ba000"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.6.2-1.json",
+      "release_date": "2014-10-02",
+      "version": "3.6.2",
+      "source_sha": "0e0195c1998fc261d4ef2e47e9cc50b273d204bc8b221d469bb83071933c4a09"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.6.1-1.json",
+      "release_date": "2014-07-28",
+      "version": "3.6.1",
+      "source_sha": "e8d5dd1573db077749e280055f337f02f039e9c41779595dea6942c35cdb8782"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.6.0-1.json",
+      "release_date": "2014-06-18",
+      "version": "3.6.0",
+      "source_sha": "bf1a73ebd9b7ca2cb703cc78bb289a097493e787e1658c23e0a5733c49a72e24"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.5.3-1.json",
+      "release_date": "2013-12-09",
+      "version": "3.5.3",
+      "source_sha": "0e2d13ba1d75f826bf15411912ce21075734796a35e8fb8ecf545d70d60f41e1"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.5.2-1.json",
+      "release_date": "2013-08-30",
+      "version": "3.5.2",
+      "source_sha": "0362224d2968929cb4a1f2b4e98efbb6f5d1ecea5e9e9ae3e86fa8d083a70d6a"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.5.1-1.json",
+      "release_date": "2013-07-11",
+      "version": "3.5.1",
+      "source_sha": "4d2484d5bdeaa5b6d5435b58a92a8da2bafc18294bb8eae348614e663f934429"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.5.1-3.json",
+      "release_date": "2013-07-18",
+      "version": "3.5.1-3",
+      "source_sha": "eee2dfb254249c8a440331a09dd2575b30e42d06f49df57b33f91ca4a6af5edc"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.5.0-1.json",
+      "release_date": "2013-06-12",
+      "version": "3.5.0",
+      "source_sha": "07da213c9bf4018efca58a43d7f8991819031e076f5228cd3f2623e58d5c9cee"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.4.5-1.json",
+      "release_date": "2013-06-28",
+      "version": "3.4.5",
+      "source_sha": "542808b9f532e77d66dca19e83bdc1f995d7d0066b940a39bdd5db9a71680011"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.4.4-1.json",
+      "release_date": "2013-03-15",
+      "version": "3.4.4",
+      "source_sha": "6572609851724ec8fc58c60474742e5907989462020e6c246111c2731adb6a37"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.4.3-1.json",
+      "release_date": "2013-02-19",
+      "version": "3.4.3",
+      "source_sha": "50078f31a95714e4ccfa546c7a186b5aade63613dc1a94da0470bdd4f49f0c78"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.4.2-1.json",
+      "release_date": "2013-01-11",
+      "version": "3.4.2",
+      "source_sha": "7548ecf3d95468705aed86ec237ebccb6618983386cee67ff47cab46ab1c2472"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.4.1-1.json",
+      "release_date": "2012-12-06",
+      "version": "3.4.1",
+      "source_sha": "af57460dc1ac0a451447fb5e98c8c070e20d3e4a9f07c71ad9bf5f7eeec31108"
+    },
+    {
+      "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.4.0-1.json",
+      "release_date": "2012-11-26",
+      "version": "3.4.0",
+      "source_sha": "5f1a3ce9cc15068291becac4d5956b18e8c7968c934977e52cd8b6b70f3a0a6b"
     }
   ]
 }
