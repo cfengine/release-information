@@ -34,7 +34,7 @@ jobs:
       - name: Install cfengine
         run: |
           cf-remote --version master download --edition community ubuntu24 amd64 hub
-          sudo dpkg -i ~/.cfengine/cf-remote/packages/cfengine-nova-hub*.deb
+          sudo dpkg -i ~/.cfengine/cf-remote/packages/cfengine-community*.deb
 
       - name: Extract new syntax-description
         run: |
