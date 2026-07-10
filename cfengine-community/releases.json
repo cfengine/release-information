@@ -75,16 +75,22 @@
             "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/master.json",
             "debug": true,
             "release_date": "nightly",
-            "source_sha": "cc91369f18d430616862b8c2a1dc04c02e4499303cfb0f965bb382b137a2281c",
             "lts_branch": "nightly-master",
             "alpha": true
+        },
+        {
+            "version": "3.28.0",
+            "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.28.0.json",
+            "debug": false,
+            "release_date": "2026-07-10",
+            "latest": true,
+            "latest_stable": true
         },
         {
             "version": "3.27.x",
             "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.27.x.json",
             "debug": true,
             "release_date": "nightly",
-            "source_sha": "a3dba2abc3cbe58ad8c95f281c019761868703688e670fbb3c09e05b1545a641",
             "lts_branch": "nightly-3.27.x"
         },
         {
@@ -94,8 +100,6 @@
             "release_date": "2026-05-08",
             "source_sha": "878e52c4a6cc3bd28048b527a920fba86ce4cd99c5760adc42417a811efa6e6b",
             "lts_branch": "3.27.x",
-            "latest": true,
-            "latest_stable": true,
             "latest_on_branch": true,
             "latestLTS": true
         },
@@ -126,7 +130,6 @@
             "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.24.x.json",
             "debug": true,
             "release_date": "nightly",
-            "source_sha": "5e536d71cbd5c8cdf7939d6556bd680d0746d27bf582c284fde5ef2151ccfbbc",
             "lts_branch": "nightly-3.24.x"
         },
         {

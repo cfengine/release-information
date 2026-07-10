@@ -1,4 +1,26 @@
 {
+  "3.28.0": {
+    "cfengine-community-3.28.0-1.el10.aarch64.rpm": "c9e4954d3b347ab6a6612e59d75d060a8397eb596d3f24bde851a78786e77e33",
+    "cfengine-community-3.28.0-1.el10.x86_64.rpm": "0afe30e6d90d866fb662a4469d64cc9b9f9dbc9ca8c7a8cd4aa1d45a898f974f",
+    "cfengine-community-3.28.0-1.el7.x86_64.rpm": "01e3a5a1caaef75576609eb250e60dea5ddc153d7b48d695842cbf4bbb79b82e",
+    "cfengine-community-3.28.0-1.el8.x86_64.rpm": "771d3cf0713236c36d717fa77e387ae9028266c0d61c88de1515fdcf57e77463",
+    "cfengine-community-3.28.0-1.el9.x86_64.rpm": "ec169614364c0cfc51a39d8220af819c4db2920392e213d72b97b610f4562922",
+    "cfengine-community-3.28.0-1.x86_64.pkg.tar.gz": "6488c19cf5e83105c098a570e508f1af25669744dd50d743369b04045e7e6eea",
+    "cfengine-community-3.28.0.tar.gz": "03722ab589c00b4e823ee22eb0afef5611b82e4f764fccc37ad3b18a3732c49e",
+    "cfengine-community_3.28.0-1.debian12_amd64.deb": "cc34942984c18316d3366929ee4dddc8049fee100c528411b9471d6f655ed97c",
+    "cfengine-community_3.28.0-1.debian12_arm64.deb": "5ee7151c60c9e32dd485ccc9f32a504cdbafe923f5b5aedf723612d7ab5a897e",
+    "cfengine-community_3.28.0-1.debian13_amd64.deb": "19d59ea6c7a9dac47879b0fd8a3289250ef599f6993fa4aea84d359717052837",
+    "cfengine-community_3.28.0-1.debian13_arm64.deb": "ab319ae5a737fd82b7f054a2abebe23e921edf3a810866e4165ca2ce15dacdbb",
+    "cfengine-community_3.28.0-1.ubuntu20_amd64.deb": "7cde46a92f350fa72db2282e1c9390ae63410115945fe51bb044a5979e34c4e7",
+    "cfengine-community_3.28.0-1.ubuntu22_amd64.deb": "fdc12a93dfc93a094c53d0fd5edaac7ddd0b7763f0dd6c0e253815d37fa177a9",
+    "cfengine-community_3.28.0-1.ubuntu22_arm64.deb": "03aebe974e8b03764948c132ef7349469b18340997a9df098cd75c33c0380bc5",
+    "cfengine-community_3.28.0-1.ubuntu24_amd64.deb": "411347ecdfda6ae882998a6d4516c27670491f46583372facbb2d379ba99be54",
+    "cfengine-community_3.28.0-1.ubuntu24_arm64.deb": "4a9d31f638b6d31a618d71c902aff660c3e48e43543e8cb5852d6d9fb1640e28",
+    "cfengine-community_3.28.0-1.ubuntu26_amd64.deb": "97a70d3b8ccb8ec4b0bcd8dc0bccb1f80159133f030db831d6a4fc871ce43c9e",
+    "cfengine-community_3.28.0-1.ubuntu26_arm64.deb": "f641a90014b68d6a05946ef72317a668411238a3b41ec8e1a56de317ed4a35d0",
+    "cfengine-masterfiles-3.28.0-1.pkg.tar.gz": "1809ce3e6c939e907e88d2ab505b880c05e11c62717722ba57bdfdc0f68bd6a5",
+    "cfengine-masterfiles-3.28.0.tar.gz": "e044ce5926491e649f96c943482bf56bc268389fcb5d2edc4bcc4e94ceff09aa"
+  },
   "3.27.1": {
     "cfengine-community-3.27.1-1.el10.aarch64.rpm": "18f9fb1b1a6fc0429d5c144f8cba045c01bfe39f3f82778054d5c6b55a19986b",
     "cfengine-community-3.27.1-1.el10.x86_64.rpm": "cafad84903a73dfa0147a7e95e5a36fab9ca873f1162a89a339b1fb430297287",
