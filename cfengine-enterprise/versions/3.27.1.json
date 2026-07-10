@@ -7,7 +7,7 @@
         "Title": "Debian 11",
         "Arch": "x86_64",
         "classexpr": "am_policy_hub.debian_11.x86_64",
-        "Published": true,
+        "Published": false,
         "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.27.1/hub/debian_11_x86_64/cfengine-nova-hub_3.27.1-1.debian11_amd64.deb",
         "SHA256": "36163566b49baccc3160cfc4317003fa1d1682d2d7a418de9f25497a869f5aef",
         "package": "PACKAGES_HUB_x86_64_linux_debian_11"
@@ -16,7 +16,7 @@
         "Title": "Debian 11",
         "Arch": "aarch64",
         "classexpr": "am_policy_hub.debian_11.aarch64",
-        "Published": true,
+        "Published": false,
         "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.27.1/hub/debian_11_arm_64/cfengine-nova-hub_3.27.1-1.debian11_arm64.deb",
         "SHA256": "0d10391efbe179fc6b7d579f51eb2aac5d3bd83542b7ff1fa6d07d6d200f41fc",
         "package": "PACKAGES_HUB_arm_64_linux_debian_11"
@@ -97,7 +97,7 @@
         "Title": "Ubuntu 20",
         "Arch": "x86_64",
         "classexpr": "am_policy_hub.ubuntu_20.x86_64",
-        "Published": true,
+        "Published": false,
         "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.27.1/hub/ubuntu_20_x86_64/cfengine-nova-hub_3.27.1-1.ubuntu20_amd64.deb",
         "SHA256": "14ccd765edf945a327b199417930b4ec0b5cd4acd4593466aa88cda8f8ec3c6c",
         "package": "PACKAGES_HUB_x86_64_linux_ubuntu_20"
@@ -144,7 +144,7 @@
         "Title": "Debian 11",
         "Arch": "x86_64",
         "classexpr": "!am_policy_hub.debian_11.x86_64",
-        "Published": true,
+        "Published": false,
         "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.27.1/agent/agent_debian11_x86_64/cfengine-nova_3.27.1-1.debian11_amd64.deb",
         "SHA256": "86236a3cd5b4b5d979dce9f4417afa988ca57f3556dfdb2546f168146803d9fd",
         "package": "PACKAGES_x86_64_linux_debian_11"
@@ -153,7 +153,7 @@
         "Title": "Debian 11",
         "Arch": "aarch64",
         "classexpr": "!am_policy_hub.debian_11.aarch64",
-        "Published": true,
+        "Published": false,
         "URL": "https://cfengine-package-repos.s3.amazonaws.com/enterprise/Enterprise-3.27.1/agent/agent_debian11_arm_64/cfengine-nova_3.27.1-1.debian11_arm64.deb",
         "SHA256": "e549563707d5391aa7e85e1d11a8d7f3b8d48b10a343329b3a7f083160e83928",
         "package": "PACKAGES_arm_64_linux_debian_11"

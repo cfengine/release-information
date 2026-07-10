@@ -7,7 +7,7 @@
         "Title": "Debian 11",
         "Arch": "x86_64",
         "classexpr": "debian_11.x86_64",
-        "Published": true,
+        "Published": false,
         "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.27.1/agent_debian11_x86_64/cfengine-community_3.27.1-1.debian11_amd64.deb",
         "SHA256": "796c05c7c6470d13265fe17130aae7e84749804e6d42c2a85f2605dbc6b3540d",
         "package": "PACKAGES_x86_64_linux_debian_11"
@@ -16,7 +16,7 @@
         "Title": "Debian 11",
         "Arch": "aarch64",
         "classexpr": "debian_11.aarch64",
-        "Published": true,
+        "Published": false,
         "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.27.1/agent_debian11_arm_64/cfengine-community_3.27.1-1.debian11_arm64.deb",
         "SHA256": "73bd539c7547769e166294109725741279e82fab7f5f772a085c308e19fb8322",
         "package": "PACKAGES_arm_64_linux_debian_11"
@@ -61,7 +61,7 @@
         "Title": "Ubuntu 20.04",
         "Arch": "x86_64",
         "classexpr": "ubuntu_20.x86_64",
-        "Published": true,
+        "Published": false,
         "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.27.1/agent_ubuntu20_x86_64/cfengine-community_3.27.1-1.ubuntu20_amd64.deb",
         "SHA256": "af987ed7cdc028f85fe89ead3b8f1a02d2c5fdfc290801da27dd48f1264e9b5a",
         "package": "PACKAGES_x86_64_linux_ubuntu_20"
@@ -106,7 +106,7 @@
         "Title": "Red Hat / CentOS 7",
         "Arch": "x86_64",
         "classexpr": "(redhat_7|centos_7).x86_64",
-        "Published": true,
+        "Published": false,
         "URL": "https://cfengine-package-repos.s3.amazonaws.com/community_binaries/Community-3.27.1/agent_rhel7_x86_64/cfengine-community-3.27.1-1.el7.x86_64.rpm",
         "SHA256": "7d85ffb604f4826a6223b0baf769ff691b1b542a7788a4ce4bc0c5a266979f9b",
         "package": "PACKAGES_x86_64_linux_redhat_7"
