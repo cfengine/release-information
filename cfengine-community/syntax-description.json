@@ -525,6 +525,13 @@
           "type": "option",
           "visibility": "body"
         },
+        "silence": {
+          "attribute": "silence",
+          "range": "content|add|remove|owner|group|perms|device|mtime|inode|stats|all",
+          "status": "normal",
+          "type": "slist",
+          "visibility": "body"
+        },
         "update_hashes": {
           "attribute": "update_hashes",
           "range": "true,false,yes,no,on,off",
@@ -3363,6 +3370,17 @@
       ],
       "status": "normal"
     },
+    "reactor": {
+      "promiseTypes": [
+        "events",
+        "classes",
+        "defaults",
+        "meta",
+        "reports",
+        "vars"
+      ],
+      "status": "normal"
+    },
     "server": {
       "promiseTypes": [
         "access",
@@ -4221,6 +4239,33 @@
       "returnType": "string",
       "status": "normal",
       "variadic": false
+    },
+    "file_older_than": {
+      "cached": false,
+      "category": "files",
+      "collecting": false,
+      "maxArgs": 3,
+      "minArgs": 2,
+      "parameters": [
+        {
+          "description": "Path to file",
+          "range": "\"?(/.*)",
+          "type": "string"
+        },
+        {
+          "description": "Date string",
+          "range": ".*",
+          "type": "string"
+        },
+        {
+          "description": "file timespec",
+          "range": "modify,access,change",
+          "type": "option"
+        }
+      ],
+      "returnType": "context",
+      "status": "normal",
+      "variadic": true
     },
     "fileexists": {
       "cached": false,
@@ -7359,6 +7404,21 @@
         }
       ],
       "returnType": "string",
+      "status": "normal",
+      "variadic": false
+    },
+    "strtotime": {
+      "cached": false,
+      "category": "data",
+      "collecting": false,
+      "parameters": [
+        {
+          "description": "String to parse",
+          "range": ".*",
+          "type": "string"
+        }
+      ],
+      "returnType": "int",
       "status": "normal",
       "variadic": false
     },
