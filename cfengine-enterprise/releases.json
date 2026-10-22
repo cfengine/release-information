@@ -61,13 +61,27 @@
             "lts_branch": "3.27.x"
         },
         {
+            "version": "3.27.3",
+            "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/enterprise/3.27.3.json",
+            "debug": false,
+            "release_date": "2026-10-22",
+            "lts_branch": "3.27.x",
+            "latest_on_branch": true,
+            "latestLTS": true
+        },
+        {
+            "version": "3.27.2",
+            "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/enterprise/3.27.2.json",
+            "debug": false,
+            "release_date": "2026-10-16",
+            "lts_branch": "3.27.x"
+        },
+        {
             "version": "3.27.1",
             "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/enterprise/3.27.1.json",
             "debug": false,
             "release_date": "2026-05-08",
-            "lts_branch": "3.27.x",
-            "latest_on_branch": true,
-            "latestLTS": true
+            "lts_branch": "3.27.x"
         },
         {
             "lts_branch": "3.27.x",
@@ -96,12 +110,26 @@
             "lts_branch": "3.24.x"
         },
         {
+            "version": "3.24.6",
+            "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/enterprise/3.24.6.json",
+            "debug": false,
+            "release_date": "2026-10-22",
+            "lts_branch": "3.24.x",
+            "latest_on_branch": true
+        },
+        {
+            "version": "3.24.5",
+            "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/enterprise/3.24.5.json",
+            "debug": false,
+            "release_date": "2026-10-16",
+            "lts_branch": "3.24.x"
+        },
+        {
             "version": "3.24.4",
             "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/enterprise/3.24.4.json",
             "debug": false,
             "release_date": "2026-05-08",
-            "lts_branch": "3.24.x",
-            "latest_on_branch": true
+            "lts_branch": "3.24.x"
         },
         {
             "lts_branch": "3.24.x",
