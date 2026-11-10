@@ -79,12 +79,18 @@
             "alpha": true
         },
         {
+            "version": "3.29.0",
+            "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.29.0.json",
+            "debug": false,
+            "release_date": "2026-11-06",
+            "latest": true,
+            "latest_stable": true
+        },
+        {
             "version": "3.28.0",
             "URL": "https://cfengine-package-repos.s3.amazonaws.com/release-data/community/3.28.0.json",
             "debug": false,
-            "release_date": "2026-07-10",
-            "latest": true,
-            "latest_stable": true
+            "release_date": "2026-07-10"
         },
         {
             "version": "3.27.x",
